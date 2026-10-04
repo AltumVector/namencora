@@ -1,0 +1,12 @@
+# Obsidian internals
+.obsidian/
+.trash/
+
+# System artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Raw candidate backlog (Cohort B source left out of public repo)
+02_Entities/Candidates_Cohort_B.md
+*.csv

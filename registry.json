@@ -1,0 +1,2784 @@
+{
+  "name": "Namencora Canonical Systems Registry",
+  "version": "1.0.0",
+  "description": "Deterministic namespace registry and ontology for distributed systems, formal mechanics, and execution topologies.",
+  "divisions": [
+    {
+      "id": "Division 00",
+      "title": "Core & Protocol Primitives",
+      "description": "Фундаментальні протокольні примітиви нульового рівня",
+      "count": 2,
+      "entities": [
+        {
+          "namespace": "Enumerat",
+          "term_code": "DXX-RAW-000",
+          "canonical_uri": "urn:namencora:enumerat",
+          "subsystem": "General",
+          "category": "Primitive",
+          "path": "02_Entities/Division 00/Entity — Enumerat.md"
+        },
+        {
+          "namespace": "Enumeros",
+          "term_code": "DXX-RAW-000",
+          "canonical_uri": "urn:namencora:enumeros",
+          "subsystem": "General",
+          "category": "Primitive",
+          "path": "02_Entities/Division 00/Entity — Enumeros.md"
+        }
+      ]
+    },
+    {
+      "id": "Division 01",
+      "title": "Storage Engines & Memory Topologies",
+      "description": "Двигуни зберігання, векторні простори та структури індексації",
+      "count": 42,
+      "entities": [
+        {
+          "namespace": "AltumVector",
+          "term_code": "D01-STG-026",
+          "canonical_uri": "urn:namencora:d01:altumvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — AltumVector.md"
+        },
+        {
+          "namespace": "BTreeIndex",
+          "term_code": "D01-STG-001",
+          "canonical_uri": "urn:namencora:d01:btreeindex",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Core Indexing Engines:",
+          "path": "02_Entities/Division 01/Entity — BTreeIndex.md"
+        },
+        {
+          "namespace": "BallisticCache",
+          "term_code": "D01-STG-005",
+          "canonical_uri": "urn:namencora:d01:ballisticcache",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "L1/L2 In-Memory Acceleration:",
+          "path": "02_Entities/Division 01/Entity — BallisticCache.md"
+        },
+        {
+          "namespace": "CerberVector",
+          "term_code": "D01-STG-027",
+          "canonical_uri": "urn:namencora:d01:cerbervector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — CerberVector.md"
+        },
+        {
+          "namespace": "ContextEmbedding",
+          "term_code": "D01-STG-012",
+          "canonical_uri": "urn:namencora:d01:contextembedding",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Context Spaces:",
+          "path": "02_Entities/Division 01/Entity — ContextEmbedding.md"
+        },
+        {
+          "namespace": "DriftEmbedding",
+          "term_code": "D01-STG-016",
+          "canonical_uri": "urn:namencora:d01:driftembedding",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Drift, Telemetry & Signal Embeddings:",
+          "path": "02_Entities/Division 01/Entity — DriftEmbedding.md"
+        },
+        {
+          "namespace": "EmbeddingContext",
+          "term_code": "D01-STG-013",
+          "canonical_uri": "urn:namencora:d01:embeddingcontext",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Context Spaces:",
+          "path": "02_Entities/Division 01/Entity — EmbeddingContext.md"
+        },
+        {
+          "namespace": "EmbeddingSignal",
+          "term_code": "D01-STG-019",
+          "canonical_uri": "urn:namencora:d01:embeddingsignal",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Drift, Telemetry & Signal Embeddings:",
+          "path": "02_Entities/Division 01/Entity — EmbeddingSignal.md"
+        },
+        {
+          "namespace": "EmbeddingTrace",
+          "term_code": "D01-STG-018",
+          "canonical_uri": "urn:namencora:d01:embeddingtrace",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Drift, Telemetry & Signal Embeddings:",
+          "path": "02_Entities/Division 01/Entity — EmbeddingTrace.md"
+        },
+        {
+          "namespace": "EtaVector",
+          "term_code": "D01-STG-028",
+          "canonical_uri": "urn:namencora:d01:etavector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — EtaVector.md"
+        },
+        {
+          "namespace": "IndexNaut",
+          "term_code": "D01-STG-038",
+          "canonical_uri": "urn:namencora:d01:indexnaut",
+          "subsystem": "3. Diagnostic Agents & Utility Tier",
+          "category": "Telemetry & Diagnostic Tooling:",
+          "path": "02_Entities/Division 01/Entity — IndexNaut.md"
+        },
+        {
+          "namespace": "IndexPhore",
+          "term_code": "D01-STG-039",
+          "canonical_uri": "urn:namencora:d01:indexphore",
+          "subsystem": "3. Diagnostic Agents & Utility Tier",
+          "category": "Telemetry & Diagnostic Tooling:",
+          "path": "02_Entities/Division 01/Entity — IndexPhore.md"
+        },
+        {
+          "namespace": "IngestEmbedding",
+          "term_code": "D01-STG-014",
+          "canonical_uri": "urn:namencora:d01:ingestembedding",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Write-Path & Ingestion:",
+          "path": "02_Entities/Division 01/Entity — IngestEmbedding.md"
+        },
+        {
+          "namespace": "IngestVector",
+          "term_code": "D01-STG-015",
+          "canonical_uri": "urn:namencora:d01:ingestvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Write-Path & Ingestion:",
+          "path": "02_Entities/Division 01/Entity — IngestVector.md"
+        },
+        {
+          "namespace": "KnowVector",
+          "term_code": "D01-STG-029",
+          "canonical_uri": "urn:namencora:d01:knowvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — KnowVector.md"
+        },
+        {
+          "namespace": "MemoryNaut",
+          "term_code": "D01-STG-040",
+          "canonical_uri": "urn:namencora:d01:memorynaut",
+          "subsystem": "3. Diagnostic Agents & Utility Tier",
+          "category": "Telemetry & Diagnostic Tooling:",
+          "path": "02_Entities/Division 01/Entity — MemoryNaut.md"
+        },
+        {
+          "namespace": "MemoryZor",
+          "term_code": "D01-STG-041",
+          "canonical_uri": "urn:namencora:d01:memoryzor",
+          "subsystem": "3. Diagnostic Agents & Utility Tier",
+          "category": "Telemetry & Diagnostic Tooling:",
+          "path": "02_Entities/Division 01/Entity — MemoryZor.md"
+        },
+        {
+          "namespace": "MonadaIndex",
+          "term_code": "D01-STG-003",
+          "canonical_uri": "urn:namencora:d01:monadaindex",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Core Indexing Engines:",
+          "path": "02_Entities/Division 01/Entity — MonadaIndex.md"
+        },
+        {
+          "namespace": "MonadaVector",
+          "term_code": "D01-STG-030",
+          "canonical_uri": "urn:namencora:d01:monadavector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — MonadaVector.md"
+        },
+        {
+          "namespace": "PhenoVector",
+          "term_code": "D01-STG-031",
+          "canonical_uri": "urn:namencora:d01:phenovector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — PhenoVector.md"
+        },
+        {
+          "namespace": "PhireIndex",
+          "term_code": "D01-STG-004",
+          "canonical_uri": "urn:namencora:d01:phireindex",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Core Indexing Engines:",
+          "path": "02_Entities/Division 01/Entity — PhireIndex.md"
+        },
+        {
+          "namespace": "PraxVector",
+          "term_code": "D01-STG-032",
+          "canonical_uri": "urn:namencora:d01:praxvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — PraxVector.md"
+        },
+        {
+          "namespace": "SignalEmbedding",
+          "term_code": "D01-STG-020",
+          "canonical_uri": "urn:namencora:d01:signalembedding",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Drift, Telemetry & Signal Embeddings:",
+          "path": "02_Entities/Division 01/Entity — SignalEmbedding.md"
+        },
+        {
+          "namespace": "SignalSubstrate",
+          "term_code": "D01-STG-010",
+          "canonical_uri": "urn:namencora:d01:signalsubstrate",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Zero-Copy & Hardware Substrates:",
+          "path": "02_Entities/Division 01/Entity — SignalSubstrate.md"
+        },
+        {
+          "namespace": "SteerVector",
+          "term_code": "D01-STG-021",
+          "canonical_uri": "urn:namencora:d01:steervector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Steering & Semantic Trajectory:",
+          "path": "02_Entities/Division 01/Entity — SteerVector.md"
+        },
+        {
+          "namespace": "StorageNaut",
+          "term_code": "D01-STG-042",
+          "canonical_uri": "urn:namencora:d01:storagenaut",
+          "subsystem": "3. Diagnostic Agents & Utility Tier",
+          "category": "Telemetry & Diagnostic Tooling:",
+          "path": "02_Entities/Division 01/Entity — StorageNaut.md"
+        },
+        {
+          "namespace": "StrainVector",
+          "term_code": "D01-STG-033",
+          "canonical_uri": "urn:namencora:d01:strainvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — StrainVector.md"
+        },
+        {
+          "namespace": "SubstrateBlock",
+          "term_code": "D01-STG-007",
+          "canonical_uri": "urn:namencora:d01:substrateblock",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Zero-Copy & Hardware Substrates:",
+          "path": "02_Entities/Division 01/Entity — SubstrateBlock.md"
+        },
+        {
+          "namespace": "SubstrateFlow",
+          "term_code": "D01-STG-006",
+          "canonical_uri": "urn:namencora:d01:substrateflow",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Zero-Copy & Hardware Substrates:",
+          "path": "02_Entities/Division 01/Entity — SubstrateFlow.md"
+        },
+        {
+          "namespace": "SubstrateFoundry",
+          "term_code": "D01-STG-009",
+          "canonical_uri": "urn:namencora:d01:substratefoundry",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Zero-Copy & Hardware Substrates:",
+          "path": "02_Entities/Division 01/Entity — SubstrateFoundry.md"
+        },
+        {
+          "namespace": "SubstrateNode",
+          "term_code": "D01-STG-008",
+          "canonical_uri": "urn:namencora:d01:substratenode",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Zero-Copy & Hardware Substrates:",
+          "path": "02_Entities/Division 01/Entity — SubstrateNode.md"
+        },
+        {
+          "namespace": "TickSubstrate",
+          "term_code": "D01-STG-011",
+          "canonical_uri": "urn:namencora:d01:ticksubstrate",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Zero-Copy & Hardware Substrates:",
+          "path": "02_Entities/Division 01/Entity — TickSubstrate.md"
+        },
+        {
+          "namespace": "TraceEmbedding",
+          "term_code": "D01-STG-017",
+          "canonical_uri": "urn:namencora:d01:traceembedding",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Drift, Telemetry & Signal Embeddings:",
+          "path": "02_Entities/Division 01/Entity — TraceEmbedding.md"
+        },
+        {
+          "namespace": "TrajectoryVector",
+          "term_code": "D01-STG-022",
+          "canonical_uri": "urn:namencora:d01:trajectoryvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Steering & Semantic Trajectory:",
+          "path": "02_Entities/Division 01/Entity — TrajectoryVector.md"
+        },
+        {
+          "namespace": "TraxVector",
+          "term_code": "D01-STG-034",
+          "canonical_uri": "urn:namencora:d01:traxvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — TraxVector.md"
+        },
+        {
+          "namespace": "TurVector",
+          "term_code": "D01-STG-035",
+          "canonical_uri": "urn:namencora:d01:turvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — TurVector.md"
+        },
+        {
+          "namespace": "VectorOra",
+          "term_code": "D01-STG-036",
+          "canonical_uri": "urn:namencora:d01:vectorora",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — VectorOra.md"
+        },
+        {
+          "namespace": "VectorRift",
+          "term_code": "D01-STG-037",
+          "canonical_uri": "urn:namencora:d01:vectorrift",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Vector Space Operators:",
+          "path": "02_Entities/Division 01/Entity — VectorRift.md"
+        },
+        {
+          "namespace": "VectorVisor",
+          "term_code": "D01-STG-023",
+          "canonical_uri": "urn:namencora:d01:vectorvisor",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Steering & Semantic Trajectory:",
+          "path": "02_Entities/Division 01/Entity — VectorVisor.md"
+        },
+        {
+          "namespace": "VectorVizer",
+          "term_code": "D01-STG-024",
+          "canonical_uri": "urn:namencora:d01:vectorvizer",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Steering & Semantic Trajectory:",
+          "path": "02_Entities/Division 01/Entity — VectorVizer.md"
+        },
+        {
+          "namespace": "VimIndex",
+          "term_code": "D01-STG-002",
+          "canonical_uri": "urn:namencora:d01:vimindex",
+          "subsystem": "1. Deep Storage & Hardware Substrates",
+          "category": "Core Indexing Engines:",
+          "path": "02_Entities/Division 01/Entity — VimIndex.md"
+        },
+        {
+          "namespace": "VimVector",
+          "term_code": "D01-STG-025",
+          "canonical_uri": "urn:namencora:d01:vimvector",
+          "subsystem": "2. High-Dimensional Vector Runtime",
+          "category": "Steering & Semantic Trajectory:",
+          "path": "02_Entities/Division 01/Entity — VimVector.md"
+        }
+      ]
+    },
+    {
+      "id": "Division 02",
+      "title": "Cognitive & Ontological Systems",
+      "description": "Онтологічні матриці, класифікатори та семантичні простори",
+      "count": 91,
+      "entities": [
+        {
+          "namespace": "AilabLogic",
+          "term_code": "D02-COG-071",
+          "canonical_uri": "urn:namencora:d02:ailablogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — AilabLogic.md"
+        },
+        {
+          "namespace": "AssayNode",
+          "term_code": "D02-COG-045",
+          "canonical_uri": "urn:namencora:d02:assaynode",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Code, Schema & Execution Verification:",
+          "path": "02_Entities/Division 02/Entity — AssayNode.md"
+        },
+        {
+          "namespace": "Assayax",
+          "term_code": "D02-COG-057",
+          "canonical_uri": "urn:namencora:d02:assayax",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Bus & Transaction Conformance:",
+          "path": "02_Entities/Division 02/Entity — Assayax.md"
+        },
+        {
+          "namespace": "Assayaxio",
+          "term_code": "D02-COG-058",
+          "canonical_uri": "urn:namencora:d02:assayaxio",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Bus & Transaction Conformance:",
+          "path": "02_Entities/Division 02/Entity — Assayaxio.md"
+        },
+        {
+          "namespace": "Assaybrain",
+          "term_code": "D02-COG-050",
+          "canonical_uri": "urn:namencora:d02:assaybrain",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Model Evaluation & AI Safety (Evals):",
+          "path": "02_Entities/Division 02/Entity — Assaybrain.md"
+        },
+        {
+          "namespace": "Assaycipher",
+          "term_code": "D02-COG-043",
+          "canonical_uri": "urn:namencora:d02:assaycipher",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Code, Schema & Execution Verification:",
+          "path": "02_Entities/Division 02/Entity — Assaycipher.md"
+        },
+        {
+          "namespace": "Assaycode",
+          "term_code": "D02-COG-039",
+          "canonical_uri": "urn:namencora:d02:assaycode",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Code, Schema & Execution Verification:",
+          "path": "02_Entities/Division 02/Entity — Assaycode.md"
+        },
+        {
+          "namespace": "Assayio",
+          "term_code": "D02-COG-046",
+          "canonical_uri": "urn:namencora:d02:assayio",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Code, Schema & Execution Verification:",
+          "path": "02_Entities/Division 02/Entity — Assayio.md"
+        },
+        {
+          "namespace": "Assayml",
+          "term_code": "D02-COG-048",
+          "canonical_uri": "urn:namencora:d02:assayml",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Model Evaluation & AI Safety (Evals):",
+          "path": "02_Entities/Division 02/Entity — Assayml.md"
+        },
+        {
+          "namespace": "Assayneural",
+          "term_code": "D02-COG-047",
+          "canonical_uri": "urn:namencora:d02:assayneural",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Model Evaluation & AI Safety (Evals):",
+          "path": "02_Entities/Division 02/Entity — Assayneural.md"
+        },
+        {
+          "namespace": "Assaysafe",
+          "term_code": "D02-COG-040",
+          "canonical_uri": "urn:namencora:d02:assaysafe",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Code, Schema & Execution Verification:",
+          "path": "02_Entities/Division 02/Entity — Assaysafe.md"
+        },
+        {
+          "namespace": "Assayschema",
+          "term_code": "D02-COG-042",
+          "canonical_uri": "urn:namencora:d02:assayschema",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Code, Schema & Execution Verification:",
+          "path": "02_Entities/Division 02/Entity — Assayschema.md"
+        },
+        {
+          "namespace": "Assaystack",
+          "term_code": "D02-COG-044",
+          "canonical_uri": "urn:namencora:d02:assaystack",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Code, Schema & Execution Verification:",
+          "path": "02_Entities/Division 02/Entity — Assaystack.md"
+        },
+        {
+          "namespace": "Assaytrax",
+          "term_code": "D02-COG-054",
+          "canonical_uri": "urn:namencora:d02:assaytrax",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Bus & Transaction Conformance:",
+          "path": "02_Entities/Division 02/Entity — Assaytrax.md"
+        },
+        {
+          "namespace": "Assaytrx",
+          "term_code": "D02-COG-055",
+          "canonical_uri": "urn:namencora:d02:assaytrx",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Bus & Transaction Conformance:",
+          "path": "02_Entities/Division 02/Entity — Assaytrx.md"
+        },
+        {
+          "namespace": "Axassay",
+          "term_code": "D02-COG-059",
+          "canonical_uri": "urn:namencora:d02:axassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Bus & Transaction Conformance:",
+          "path": "02_Entities/Division 02/Entity — Axassay.md"
+        },
+        {
+          "namespace": "Axioassay",
+          "term_code": "D02-COG-060",
+          "canonical_uri": "urn:namencora:d02:axioassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Bus & Transaction Conformance:",
+          "path": "02_Entities/Division 02/Entity — Axioassay.md"
+        },
+        {
+          "namespace": "BalisticLogic",
+          "term_code": "D02-COG-070",
+          "canonical_uri": "urn:namencora:d02:balisticlogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — BalisticLogic.md"
+        },
+        {
+          "namespace": "BallisticMatrix",
+          "term_code": "D02-COG-074",
+          "canonical_uri": "urn:namencora:d02:ballisticmatrix",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — BallisticMatrix.md"
+        },
+        {
+          "namespace": "Bastionneural",
+          "term_code": "D02-COG-081",
+          "canonical_uri": "urn:namencora:d02:bastionneural",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Bastionneural.md"
+        },
+        {
+          "namespace": "Bluesema",
+          "term_code": "D02-COG-028",
+          "canonical_uri": "urn:namencora:d02:bluesema",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Bluesema.md"
+        },
+        {
+          "namespace": "Botassay",
+          "term_code": "D02-COG-051",
+          "canonical_uri": "urn:namencora:d02:botassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Model Evaluation & AI Safety (Evals):",
+          "path": "02_Entities/Division 02/Entity — Botassay.md"
+        },
+        {
+          "namespace": "CerberLogic",
+          "term_code": "D02-COG-067",
+          "canonical_uri": "urn:namencora:d02:cerberlogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — CerberLogic.md"
+        },
+        {
+          "namespace": "CerberMatrix",
+          "term_code": "D02-COG-076",
+          "canonical_uri": "urn:namencora:d02:cerbermatrix",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — CerberMatrix.md"
+        },
+        {
+          "namespace": "Cerberassay",
+          "term_code": "D02-COG-061",
+          "canonical_uri": "urn:namencora:d02:cerberassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Bus & Transaction Conformance:",
+          "path": "02_Entities/Division 02/Entity — Cerberassay.md"
+        },
+        {
+          "namespace": "Cerberneural",
+          "term_code": "D02-COG-080",
+          "canonical_uri": "urn:namencora:d02:cerberneural",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Cerberneural.md"
+        },
+        {
+          "namespace": "Clexicle",
+          "term_code": "D02-COG-083",
+          "canonical_uri": "urn:namencora:d02:clexicle",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Clexicle.md"
+        },
+        {
+          "namespace": "Controlschema",
+          "term_code": "D02-COG-009",
+          "canonical_uri": "urn:namencora:d02:controlschema",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Formal Schemas & Validation:",
+          "path": "02_Entities/Division 02/Entity — Controlschema.md"
+        },
+        {
+          "namespace": "Coregraphx",
+          "term_code": "D02-COG-014",
+          "canonical_uri": "urn:namencora:d02:coregraphx",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Knowledge & Lock Graphs:",
+          "path": "02_Entities/Division 02/Entity — Coregraphx.md"
+        },
+        {
+          "namespace": "CuratorLogic",
+          "term_code": "D02-COG-068",
+          "canonical_uri": "urn:namencora:d02:curatorlogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — CuratorLogic.md"
+        },
+        {
+          "namespace": "Edgeassay",
+          "term_code": "D02-COG-052",
+          "canonical_uri": "urn:namencora:d02:edgeassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Model Evaluation & AI Safety (Evals):",
+          "path": "02_Entities/Division 02/Entity — Edgeassay.md"
+        },
+        {
+          "namespace": "EtaLogic",
+          "term_code": "D02-COG-066",
+          "canonical_uri": "urn:namencora:d02:etalogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — EtaLogic.md"
+        },
+        {
+          "namespace": "Etaneural",
+          "term_code": "D02-COG-079",
+          "canonical_uri": "urn:namencora:d02:etaneural",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Etaneural.md"
+        },
+        {
+          "namespace": "Eventplexa",
+          "term_code": "D02-COG-085",
+          "canonical_uri": "urn:namencora:d02:eventplexa",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Eventplexa.md"
+        },
+        {
+          "namespace": "Flexcle",
+          "term_code": "D02-COG-084",
+          "canonical_uri": "urn:namencora:d02:flexcle",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Flexcle.md"
+        },
+        {
+          "namespace": "Graphioma",
+          "term_code": "D02-COG-086",
+          "canonical_uri": "urn:namencora:d02:graphioma",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Graphioma.md"
+        },
+        {
+          "namespace": "Graphydian",
+          "term_code": "D02-COG-087",
+          "canonical_uri": "urn:namencora:d02:graphydian",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Graphydian.md"
+        },
+        {
+          "namespace": "Lexiclave",
+          "term_code": "D02-COG-034",
+          "canonical_uri": "urn:namencora:d02:lexiclave",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Lexical Enclaves & Parsers:",
+          "path": "02_Entities/Division 02/Entity — Lexiclave.md"
+        },
+        {
+          "namespace": "Lexifluid",
+          "term_code": "D02-COG-035",
+          "canonical_uri": "urn:namencora:d02:lexifluid",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Lexical Enclaves & Parsers:",
+          "path": "02_Entities/Division 02/Entity — Lexifluid.md"
+        },
+        {
+          "namespace": "Lexigara",
+          "term_code": "D02-COG-088",
+          "canonical_uri": "urn:namencora:d02:lexigara",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Lexigara.md"
+        },
+        {
+          "namespace": "Lexilogue",
+          "term_code": "D02-COG-036",
+          "canonical_uri": "urn:namencora:d02:lexilogue",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Lexical Enclaves & Parsers:",
+          "path": "02_Entities/Division 02/Entity — Lexilogue.md"
+        },
+        {
+          "namespace": "Lexistruct",
+          "term_code": "D02-COG-010",
+          "canonical_uri": "urn:namencora:d02:lexistruct",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Formal Schemas & Validation:",
+          "path": "02_Entities/Division 02/Entity — Lexistruct.md"
+        },
+        {
+          "namespace": "LockGraph",
+          "term_code": "D02-COG-015",
+          "canonical_uri": "urn:namencora:d02:lockgraph",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Knowledge & Lock Graphs:",
+          "path": "02_Entities/Division 02/Entity — LockGraph.md"
+        },
+        {
+          "namespace": "Logickeyai",
+          "term_code": "D02-COG-072",
+          "canonical_uri": "urn:namencora:d02:logickeyai",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — Logickeyai.md"
+        },
+        {
+          "namespace": "Logicula",
+          "term_code": "D02-COG-073",
+          "canonical_uri": "urn:namencora:d02:logicula",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — Logicula.md"
+        },
+        {
+          "namespace": "MonadaLogic",
+          "term_code": "D02-COG-065",
+          "canonical_uri": "urn:namencora:d02:monadalogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — MonadaLogic.md"
+        },
+        {
+          "namespace": "MonadaMatrix",
+          "term_code": "D02-COG-075",
+          "canonical_uri": "urn:namencora:d02:monadamatrix",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — MonadaMatrix.md"
+        },
+        {
+          "namespace": "Monadaneural",
+          "term_code": "D02-COG-082",
+          "canonical_uri": "urn:namencora:d02:monadaneural",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Monadaneural.md"
+        },
+        {
+          "namespace": "MorseLogic",
+          "term_code": "D02-COG-069",
+          "canonical_uri": "urn:namencora:d02:morselogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — MorseLogic.md"
+        },
+        {
+          "namespace": "Neuralassay",
+          "term_code": "D02-COG-049",
+          "canonical_uri": "urn:namencora:d02:neuralassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Model Evaluation & AI Safety (Evals):",
+          "path": "02_Entities/Division 02/Entity — Neuralassay.md"
+        },
+        {
+          "namespace": "Phenoschema",
+          "term_code": "D02-COG-012",
+          "canonical_uri": "urn:namencora:d02:phenoschema",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Formal Schemas & Validation:",
+          "path": "02_Entities/Division 02/Entity — Phenoschema.md"
+        },
+        {
+          "namespace": "PhireGraph",
+          "term_code": "D02-COG-018",
+          "canonical_uri": "urn:namencora:d02:phiregraph",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Knowledge & Lock Graphs:",
+          "path": "02_Entities/Division 02/Entity — PhireGraph.md"
+        },
+        {
+          "namespace": "PlatonLogic",
+          "term_code": "D02-COG-064",
+          "canonical_uri": "urn:namencora:d02:platonlogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — PlatonLogic.md"
+        },
+        {
+          "namespace": "PostulatLogic",
+          "term_code": "D02-COG-062",
+          "canonical_uri": "urn:namencora:d02:postulatlogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — PostulatLogic.md"
+        },
+        {
+          "namespace": "PostulatorLogic",
+          "term_code": "D02-COG-063",
+          "canonical_uri": "urn:namencora:d02:postulatorlogic",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Axiomatic & Postulate Engines:",
+          "path": "02_Entities/Division 02/Entity — PostulatorLogic.md"
+        },
+        {
+          "namespace": "Postulex",
+          "term_code": "D02-COG-037",
+          "canonical_uri": "urn:namencora:d02:postulex",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Lexical Enclaves & Parsers:",
+          "path": "02_Entities/Division 02/Entity — Postulex.md"
+        },
+        {
+          "namespace": "RiftMatrix",
+          "term_code": "D02-COG-077",
+          "canonical_uri": "urn:namencora:d02:riftmatrix",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — RiftMatrix.md"
+        },
+        {
+          "namespace": "RtGraph",
+          "term_code": "D02-COG-016",
+          "canonical_uri": "urn:namencora:d02:rtgraph",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Knowledge & Lock Graphs:",
+          "path": "02_Entities/Division 02/Entity — RtGraph.md"
+        },
+        {
+          "namespace": "Safeassay",
+          "term_code": "D02-COG-041",
+          "canonical_uri": "urn:namencora:d02:safeassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Code, Schema & Execution Verification:",
+          "path": "02_Entities/Division 02/Entity — Safeassay.md"
+        },
+        {
+          "namespace": "Scalexsys",
+          "term_code": "D02-COG-038",
+          "canonical_uri": "urn:namencora:d02:scalexsys",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Lexical Enclaves & Parsers:",
+          "path": "02_Entities/Division 02/Entity — Scalexsys.md"
+        },
+        {
+          "namespace": "SemaVim",
+          "term_code": "D02-COG-025",
+          "canonical_uri": "urn:namencora:d02:semavim",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — SemaVim.md"
+        },
+        {
+          "namespace": "Semaconn",
+          "term_code": "D02-COG-021",
+          "canonical_uri": "urn:namencora:d02:semaconn",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Semaconn.md"
+        },
+        {
+          "namespace": "Semacont",
+          "term_code": "D02-COG-022",
+          "canonical_uri": "urn:namencora:d02:semacont",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Semacont.md"
+        },
+        {
+          "namespace": "Semafield",
+          "term_code": "D02-COG-023",
+          "canonical_uri": "urn:namencora:d02:semafield",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Semafield.md"
+        },
+        {
+          "namespace": "Semafork",
+          "term_code": "D02-COG-024",
+          "canonical_uri": "urn:namencora:d02:semafork",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Semafork.md"
+        },
+        {
+          "namespace": "Semaintegra",
+          "term_code": "D02-COG-027",
+          "canonical_uri": "urn:namencora:d02:semaintegra",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Semaintegra.md"
+        },
+        {
+          "namespace": "Semaintegral",
+          "term_code": "D02-COG-020",
+          "canonical_uri": "urn:namencora:d02:semaintegral",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Semaintegral.md"
+        },
+        {
+          "namespace": "Semakernel",
+          "term_code": "D02-COG-019",
+          "canonical_uri": "urn:namencora:d02:semakernel",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Semakernel.md"
+        },
+        {
+          "namespace": "Semamat",
+          "term_code": "D02-COG-026",
+          "canonical_uri": "urn:namencora:d02:semamat",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Semantic Cores & Routing:",
+          "path": "02_Entities/Division 02/Entity — Semamat.md"
+        },
+        {
+          "namespace": "Semanticanalyticstools",
+          "term_code": "D02-COG-031",
+          "canonical_uri": "urn:namencora:d02:semanticanalyticstools",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Analysis, Scanning & Metrics:",
+          "path": "02_Entities/Division 02/Entity — Semanticanalyticstools.md"
+        },
+        {
+          "namespace": "Semanticballistics",
+          "term_code": "D02-COG-033",
+          "canonical_uri": "urn:namencora:d02:semanticballistics",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Analysis, Scanning & Metrics:",
+          "path": "02_Entities/Division 02/Entity — Semanticballistics.md"
+        },
+        {
+          "namespace": "Semantona",
+          "term_code": "D02-COG-089",
+          "canonical_uri": "urn:namencora:d02:semantona",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Semantona.md"
+        },
+        {
+          "namespace": "Semantora",
+          "term_code": "D02-COG-090",
+          "canonical_uri": "urn:namencora:d02:semantora",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Semantora.md"
+        },
+        {
+          "namespace": "Semantuda",
+          "term_code": "D02-COG-091",
+          "canonical_uri": "urn:namencora:d02:semantuda",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Semantuda.md"
+        },
+        {
+          "namespace": "Semarate",
+          "term_code": "D02-COG-032",
+          "canonical_uri": "urn:namencora:d02:semarate",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Analysis, Scanning & Metrics:",
+          "path": "02_Entities/Division 02/Entity — Semarate.md"
+        },
+        {
+          "namespace": "Semascan",
+          "term_code": "D02-COG-029",
+          "canonical_uri": "urn:namencora:d02:semascan",
+          "subsystem": "2. Semantic Runtime & Knowledge Representation",
+          "category": "Analysis, Scanning & Metrics:",
+          "path": "02_Entities/Division 02/Entity — Semascan.md"
+        },
+        {
+          "namespace": "Semature",
+          "term_code": "D02-COG-092",
+          "canonical_uri": "urn:namencora:d02:semature",
+          "subsystem": "5. Auxiliary Lexical Neologisms",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Semature.md"
+        },
+        {
+          "namespace": "Shellassay",
+          "term_code": "D02-COG-053",
+          "canonical_uri": "urn:namencora:d02:shellassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Model Evaluation & AI Safety (Evals):",
+          "path": "02_Entities/Division 02/Entity — Shellassay.md"
+        },
+        {
+          "namespace": "Stackgraphx",
+          "term_code": "D02-COG-017",
+          "canonical_uri": "urn:namencora:d02:stackgraphx",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Knowledge & Lock Graphs:",
+          "path": "02_Entities/Division 02/Entity — Stackgraphx.md"
+        },
+        {
+          "namespace": "TaxonFlow",
+          "term_code": "D02-COG-005",
+          "canonical_uri": "urn:namencora:d02:taxonflow",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Core Taxonomic Engines:",
+          "path": "02_Entities/Division 02/Entity — TaxonFlow.md"
+        },
+        {
+          "namespace": "TaxonMatrix",
+          "term_code": "D02-COG-002",
+          "canonical_uri": "urn:namencora:d02:taxonmatrix",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Core Taxonomic Engines:",
+          "path": "02_Entities/Division 02/Entity — TaxonMatrix.md"
+        },
+        {
+          "namespace": "Taxonalgo",
+          "term_code": "D02-COG-004",
+          "canonical_uri": "urn:namencora:d02:taxonalgo",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Core Taxonomic Engines:",
+          "path": "02_Entities/Division 02/Entity — Taxonalgo.md"
+        },
+        {
+          "namespace": "Taxonatlas",
+          "term_code": "D02-COG-003",
+          "canonical_uri": "urn:namencora:d02:taxonatlas",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Core Taxonomic Engines:",
+          "path": "02_Entities/Division 02/Entity — Taxonatlas.md"
+        },
+        {
+          "namespace": "Taxonext",
+          "term_code": "D02-COG-006",
+          "canonical_uri": "urn:namencora:d02:taxonext",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Core Taxonomic Engines:",
+          "path": "02_Entities/Division 02/Entity — Taxonext.md"
+        },
+        {
+          "namespace": "Taxonior",
+          "term_code": "D02-COG-008",
+          "canonical_uri": "urn:namencora:d02:taxonior",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Core Taxonomic Engines:",
+          "path": "02_Entities/Division 02/Entity — Taxonior.md"
+        },
+        {
+          "namespace": "Taxonology",
+          "term_code": "D02-COG-001",
+          "canonical_uri": "urn:namencora:d02:taxonology",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Core Taxonomic Engines:",
+          "path": "02_Entities/Division 02/Entity — Taxonology.md"
+        },
+        {
+          "namespace": "Taxonox",
+          "term_code": "D02-COG-007",
+          "canonical_uri": "urn:namencora:d02:taxonox",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Core Taxonomic Engines:",
+          "path": "02_Entities/Division 02/Entity — Taxonox.md"
+        },
+        {
+          "namespace": "Trxassay",
+          "term_code": "D02-COG-056",
+          "canonical_uri": "urn:namencora:d02:trxassay",
+          "subsystem": "3. Formal Verification & Evaluation Harness",
+          "category": "Bus & Transaction Conformance:",
+          "path": "02_Entities/Division 02/Entity — Trxassay.md"
+        },
+        {
+          "namespace": "Vimneural",
+          "term_code": "D02-COG-078",
+          "canonical_uri": "urn:namencora:d02:vimneural",
+          "subsystem": "4. Axiomatic Reasoning & Matrix Topologies",
+          "category": "Multi-Dimensional Neural Matrices:",
+          "path": "02_Entities/Division 02/Entity — Vimneural.md"
+        },
+        {
+          "namespace": "Vimschema",
+          "term_code": "D02-COG-011",
+          "canonical_uri": "urn:namencora:d02:vimschema",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Formal Schemas & Validation:",
+          "path": "02_Entities/Division 02/Entity — Vimschema.md"
+        },
+        {
+          "namespace": "Xorschema",
+          "term_code": "D02-COG-013",
+          "canonical_uri": "urn:namencora:d02:xorschema",
+          "subsystem": "1. Machine Ontologies & Taxonomic Hierarchies",
+          "category": "Formal Schemas & Validation:",
+          "path": "02_Entities/Division 02/Entity — Xorschema.md"
+        }
+      ]
+    },
+    {
+      "id": "Division 03",
+      "title": "Systems Governance & Consensus",
+      "description": "Запобіжники (circuit breakers), вето-кворуми та арбітраж компромісів",
+      "count": 67,
+      "entities": [
+        {
+          "namespace": "AgentVeto",
+          "term_code": "D03-GOV-011",
+          "canonical_uri": "urn:namencora:d03:agentveto",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — AgentVeto.md"
+        },
+        {
+          "namespace": "Agisyncos",
+          "term_code": "D03-GOV-031",
+          "canonical_uri": "urn:namencora:d03:agisyncos",
+          "subsystem": "3. Distributed State Synchronization",
+          "category": "Synchronization Protocols & Clocks:",
+          "path": "02_Entities/Division 03/Entity — Agisyncos.md"
+        },
+        {
+          "namespace": "Aidronops",
+          "term_code": "D03-GOV-081",
+          "canonical_uri": "urn:namencora:d03:aidronops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — AidronOps.md"
+        },
+        {
+          "namespace": "Aidronesops",
+          "term_code": "D03-GOV-080",
+          "canonical_uri": "urn:namencora:d03:aidronesops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — AidronesOps.md"
+        },
+        {
+          "namespace": "Aidronsops",
+          "term_code": "D03-GOV-082",
+          "canonical_uri": "urn:namencora:d03:aidronsops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — AidronsOps.md"
+        },
+        {
+          "namespace": "Arkaops",
+          "term_code": "D03-GOV-076",
+          "canonical_uri": "urn:namencora:d03:arkaops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — ArkaOps.md"
+        },
+        {
+          "namespace": "AuditNaut",
+          "term_code": "D03-GOV-038",
+          "canonical_uri": "urn:namencora:d03:auditnaut",
+          "subsystem": "4. Cryptographic Proof & Ledger Auditing",
+          "category": "Proof Generation & Audit Trails:",
+          "path": "02_Entities/Division 03/Entity — AuditNaut.md"
+        },
+        {
+          "namespace": "BallisticTradeoffs",
+          "term_code": "D03-GOV-067",
+          "canonical_uri": "urn:namencora:d03:ballistictradeoffs",
+          "subsystem": "Multi-Objective Trade-off Engines",
+          "category": "Trade-off Analysis & Arbitration",
+          "path": "02_Entities/Division 03/Entity — BallisticTradeoffs.md"
+        },
+        {
+          "namespace": "Caphops",
+          "term_code": "D03-GOV-077",
+          "canonical_uri": "urn:namencora:d03:caphops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — CaphOps.md"
+        },
+        {
+          "namespace": "Cerberaudit",
+          "term_code": "D03-GOV-034",
+          "canonical_uri": "urn:namencora:d03:cerberaudit",
+          "subsystem": "4. Cryptographic Proof & Ledger Auditing",
+          "category": "Proof Generation & Audit Trails:",
+          "path": "02_Entities/Division 03/Entity — Cerberaudit.md"
+        },
+        {
+          "namespace": "Cerberproof",
+          "term_code": "D03-GOV-032",
+          "canonical_uri": "urn:namencora:d03:cerberproof",
+          "subsystem": "4. Cryptographic Proof & Ledger Auditing",
+          "category": "Proof Generation & Audit Trails:",
+          "path": "02_Entities/Division 03/Entity — Cerberproof.md"
+        },
+        {
+          "namespace": "Cerbersync",
+          "term_code": "D03-GOV-026",
+          "canonical_uri": "urn:namencora:d03:cerbersync",
+          "subsystem": "3. Distributed State Synchronization",
+          "category": "Synchronization Protocols & Clocks:",
+          "path": "02_Entities/Division 03/Entity — Cerbersync.md"
+        },
+        {
+          "namespace": "Cryopsy",
+          "term_code": "D03-GOV-053",
+          "canonical_uri": "urn:namencora:d03:cryopsy",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Cryopsy.md"
+        },
+        {
+          "namespace": "Distillops",
+          "term_code": "D03-GOV-073",
+          "canonical_uri": "urn:namencora:d03:distillops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — DistillOps.md"
+        },
+        {
+          "namespace": "EdgeVeto",
+          "term_code": "D03-GOV-001",
+          "canonical_uri": "urn:namencora:d03:edgeveto",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — EdgeVeto.md"
+        },
+        {
+          "namespace": "Essenceaudit",
+          "term_code": "D03-GOV-035",
+          "canonical_uri": "urn:namencora:d03:essenceaudit",
+          "subsystem": "4. Cryptographic Proof & Ledger Auditing",
+          "category": "Proof Generation & Audit Trails:",
+          "path": "02_Entities/Division 03/Entity — Essenceaudit.md"
+        },
+        {
+          "namespace": "Gnosisaudit",
+          "term_code": "D03-GOV-036",
+          "canonical_uri": "urn:namencora:d03:gnosisaudit",
+          "subsystem": "4. Cryptographic Proof & Ledger Auditing",
+          "category": "Proof Generation & Audit Trails:",
+          "path": "02_Entities/Division 03/Entity — Gnosisaudit.md"
+        },
+        {
+          "namespace": "Gridsynchrony",
+          "term_code": "D03-GOV-024",
+          "canonical_uri": "urn:namencora:d03:gridsynchrony",
+          "subsystem": "3. Distributed State Synchronization",
+          "category": "Synchronization Protocols & Clocks:",
+          "path": "02_Entities/Division 03/Entity — Gridsynchrony.md"
+        },
+        {
+          "namespace": "Gschainsync",
+          "term_code": "D03-GOV-030",
+          "canonical_uri": "urn:namencora:d03:gschainsync",
+          "subsystem": "3. Distributed State Synchronization",
+          "category": "Synchronization Protocols & Clocks:",
+          "path": "02_Entities/Division 03/Entity — Gschainsync.md"
+        },
+        {
+          "namespace": "Llmopshub",
+          "term_code": "D03-GOV-071",
+          "canonical_uri": "urn:namencora:d03:llmopshub",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — LlmopsHub.md"
+        },
+        {
+          "namespace": "Llmopscloud",
+          "term_code": "D03-GOV-047",
+          "canonical_uri": "urn:namencora:d03:llmopscloud",
+          "subsystem": "5. Operations Runtimes & Execution Queues",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Llmopscloud.md"
+        },
+        {
+          "namespace": "Mlopscore",
+          "term_code": "D03-GOV-070",
+          "canonical_uri": "urn:namencora:d03:mlopscore",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — MlopsCore.md"
+        },
+        {
+          "namespace": "Monadaops",
+          "term_code": "D03-GOV-074",
+          "canonical_uri": "urn:namencora:d03:monadaops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — MonadaOps.md"
+        },
+        {
+          "namespace": "Morsesync",
+          "term_code": "D03-GOV-027",
+          "canonical_uri": "urn:namencora:d03:morsesync",
+          "subsystem": "3. Distributed State Synchronization",
+          "category": "Synchronization Protocols & Clocks:",
+          "path": "02_Entities/Division 03/Entity — Morsesync.md"
+        },
+        {
+          "namespace": "Muteops",
+          "term_code": "D03-GOV-075",
+          "canonical_uri": "urn:namencora:d03:muteops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — MuteOps.md"
+        },
+        {
+          "namespace": "Opschip",
+          "term_code": "D03-GOV-069",
+          "canonical_uri": "urn:namencora:d03:opschip",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — OpsChip.md"
+        },
+        {
+          "namespace": "OpsQueue",
+          "term_code": "D03-GOV-039",
+          "canonical_uri": "urn:namencora:d03:opsqueue",
+          "subsystem": "5. Operations Runtimes & Execution Queues",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — OpsQueue.md"
+        },
+        {
+          "namespace": "Opsapix",
+          "term_code": "D03-GOV-044",
+          "canonical_uri": "urn:namencora:d03:opsapix",
+          "subsystem": "5. Operations Runtimes & Execution Queues",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Opsapix.md"
+        },
+        {
+          "namespace": "Opsmechanism",
+          "term_code": "D03-GOV-041",
+          "canonical_uri": "urn:namencora:d03:opsmechanism",
+          "subsystem": "5. Operations Runtimes & Execution Queues",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Opsmechanism.md"
+        },
+        {
+          "namespace": "Opsque",
+          "term_code": "D03-GOV-040",
+          "canonical_uri": "urn:namencora:d03:opsque",
+          "subsystem": "5. Operations Runtimes & Execution Queues",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Opsque.md"
+        },
+        {
+          "namespace": "Opsrule",
+          "term_code": "D03-GOV-042",
+          "canonical_uri": "urn:namencora:d03:opsrule",
+          "subsystem": "5. Operations Runtimes & Execution Queues",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Opsrule.md"
+        },
+        {
+          "namespace": "OpsyFlow",
+          "term_code": "D03-GOV-054",
+          "canonical_uri": "urn:namencora:d03:opsyflow",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — OpsyFlow.md"
+        },
+        {
+          "namespace": "Opsychain",
+          "term_code": "D03-GOV-055",
+          "canonical_uri": "urn:namencora:d03:opsychain",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Opsychain.md"
+        },
+        {
+          "namespace": "Opsygon",
+          "term_code": "D03-GOV-056",
+          "canonical_uri": "urn:namencora:d03:opsygon",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Opsygon.md"
+        },
+        {
+          "namespace": "Opsylyn",
+          "term_code": "D03-GOV-057",
+          "canonical_uri": "urn:namencora:d03:opsylyn",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Opsylyn.md"
+        },
+        {
+          "namespace": "Opsyslife",
+          "term_code": "D03-GOV-058",
+          "canonical_uri": "urn:namencora:d03:opsyslife",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Opsyslife.md"
+        },
+        {
+          "namespace": "Proofator",
+          "term_code": "D03-GOV-033",
+          "canonical_uri": "urn:namencora:d03:proofator",
+          "subsystem": "4. Cryptographic Proof & Ledger Auditing",
+          "category": "Proof Generation & Audit Trails:",
+          "path": "02_Entities/Division 03/Entity — Proofator.md"
+        },
+        {
+          "namespace": "RTradeoff",
+          "term_code": "D03-GOV-020",
+          "canonical_uri": "urn:namencora:d03:rtradeoff",
+          "subsystem": "2. Multi-Objective Trade-off Engines",
+          "category": "Systems Trade-off Analysis & Arbitration:",
+          "path": "02_Entities/Division 03/Entity — RTradeoff.md"
+        },
+        {
+          "namespace": "Radyops",
+          "term_code": "D03-GOV-078",
+          "canonical_uri": "urn:namencora:d03:radyops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — RadyOps.md"
+        },
+        {
+          "namespace": "Syncdator",
+          "term_code": "D03-GOV-029",
+          "canonical_uri": "urn:namencora:d03:syncdator",
+          "subsystem": "3. Distributed State Synchronization",
+          "category": "Synchronization Protocols & Clocks:",
+          "path": "02_Entities/Division 03/Entity — Syncdator.md"
+        },
+        {
+          "namespace": "Synchronizator",
+          "term_code": "D03-GOV-028",
+          "canonical_uri": "urn:namencora:d03:synchronizator",
+          "subsystem": "3. Distributed State Synchronization",
+          "category": "Synchronization Protocols & Clocks:",
+          "path": "02_Entities/Division 03/Entity — Synchronizator.md"
+        },
+        {
+          "namespace": "Syncogonia",
+          "term_code": "D03-GOV-062",
+          "canonical_uri": "urn:namencora:d03:syncogonia",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Syncogonia.md"
+        },
+        {
+          "namespace": "Syncorena",
+          "term_code": "D03-GOV-063",
+          "canonical_uri": "urn:namencora:d03:syncorena",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Syncorena.md"
+        },
+        {
+          "namespace": "Syncorona",
+          "term_code": "D03-GOV-064",
+          "canonical_uri": "urn:namencora:d03:syncorona",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Syncorona.md"
+        },
+        {
+          "namespace": "Syncroops",
+          "term_code": "D03-GOV-068",
+          "canonical_uri": "urn:namencora:d03:syncroops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — SyncroOps.md"
+        },
+        {
+          "namespace": "Templatedraft",
+          "term_code": "D03-GOV-065",
+          "canonical_uri": "urn:namencora:d03:templatedraft",
+          "subsystem": "6. Auxiliary Neologisms & Drone Ops",
+          "category": "Queues, Dispatch & Operational Cores:",
+          "path": "02_Entities/Division 03/Entity — Templatedraft.md"
+        },
+        {
+          "namespace": "Thesisaudit",
+          "term_code": "D03-GOV-037",
+          "canonical_uri": "urn:namencora:d03:thesisaudit",
+          "subsystem": "4. Cryptographic Proof & Ledger Auditing",
+          "category": "Proof Generation & Audit Trails:",
+          "path": "02_Entities/Division 03/Entity — Thesisaudit.md"
+        },
+        {
+          "namespace": "TradeOffs",
+          "term_code": "D03-GOV-014",
+          "canonical_uri": "urn:namencora:d03:tradeoffs",
+          "subsystem": "2. Multi-Objective Trade-off Engines",
+          "category": "Systems Trade-off Analysis & Arbitration:",
+          "path": "02_Entities/Division 03/Entity — TradeOffs.md"
+        },
+        {
+          "namespace": "TradeoffChip",
+          "term_code": "D03-GOV-016",
+          "canonical_uri": "urn:namencora:d03:tradeoffchip",
+          "subsystem": "2. Multi-Objective Trade-off Engines",
+          "category": "Systems Trade-off Analysis & Arbitration:",
+          "path": "02_Entities/Division 03/Entity — TradeoffChip.md"
+        },
+        {
+          "namespace": "TradeoffCore",
+          "term_code": "D03-GOV-013",
+          "canonical_uri": "urn:namencora:d03:tradeoffcore",
+          "subsystem": "2. Multi-Objective Trade-off Engines",
+          "category": "Systems Trade-off Analysis & Arbitration:",
+          "path": "02_Entities/Division 03/Entity — TradeoffCore.md"
+        },
+        {
+          "namespace": "TradeoffHub",
+          "term_code": "D03-GOV-019",
+          "canonical_uri": "urn:namencora:d03:tradeoffhub",
+          "subsystem": "2. Multi-Objective Trade-off Engines",
+          "category": "Systems Trade-off Analysis & Arbitration:",
+          "path": "02_Entities/Division 03/Entity — TradeoffHub.md"
+        },
+        {
+          "namespace": "TradeoffIO",
+          "term_code": "D03-GOV-015",
+          "canonical_uri": "urn:namencora:d03:tradeoffio",
+          "subsystem": "2. Multi-Objective Trade-off Engines",
+          "category": "Systems Trade-off Analysis & Arbitration:",
+          "path": "02_Entities/Division 03/Entity — TradeoffIO.md"
+        },
+        {
+          "namespace": "TradeoffNav",
+          "term_code": "D03-GOV-017",
+          "canonical_uri": "urn:namencora:d03:tradeoffnav",
+          "subsystem": "2. Multi-Objective Trade-off Engines",
+          "category": "Systems Trade-off Analysis & Arbitration:",
+          "path": "02_Entities/Division 03/Entity — TradeoffNav.md"
+        },
+        {
+          "namespace": "TradeoffPrism",
+          "term_code": "D03-GOV-018",
+          "canonical_uri": "urn:namencora:d03:tradeoffprism",
+          "subsystem": "2. Multi-Objective Trade-off Engines",
+          "category": "Systems Trade-off Analysis & Arbitration:",
+          "path": "02_Entities/Division 03/Entity — TradeoffPrism.md"
+        },
+        {
+          "namespace": "Trajectoryops",
+          "term_code": "D03-GOV-072",
+          "canonical_uri": "urn:namencora:d03:trajectoryops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — TrajectoryOps.md"
+        },
+        {
+          "namespace": "Trajectorysync",
+          "term_code": "D03-GOV-025",
+          "canonical_uri": "urn:namencora:d03:trajectorysync",
+          "subsystem": "3. Distributed State Synchronization",
+          "category": "Synchronization Protocols & Clocks:",
+          "path": "02_Entities/Division 03/Entity — Trajectorysync.md"
+        },
+        {
+          "namespace": "Uxiops",
+          "term_code": "D03-GOV-079",
+          "canonical_uri": "urn:namencora:d03:uxiops",
+          "subsystem": "Systems Governance",
+          "category": "Consensus Primitive",
+          "path": "02_Entities/Division 03/Entity — UxiOps.md"
+        },
+        {
+          "namespace": "VetoEdge",
+          "term_code": "D03-GOV-002",
+          "canonical_uri": "urn:namencora:d03:vetoedge",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoEdge.md"
+        },
+        {
+          "namespace": "VetoGrid",
+          "term_code": "D03-GOV-005",
+          "canonical_uri": "urn:namencora:d03:vetogrid",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoGrid.md"
+        },
+        {
+          "namespace": "VetoIQ",
+          "term_code": "D03-GOV-010",
+          "canonical_uri": "urn:namencora:d03:vetoiq",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoIQ.md"
+        },
+        {
+          "namespace": "VetoLoop",
+          "term_code": "D03-GOV-003",
+          "canonical_uri": "urn:namencora:d03:vetoloop",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoLoop.md"
+        },
+        {
+          "namespace": "VetoNode",
+          "term_code": "D03-GOV-004",
+          "canonical_uri": "urn:namencora:d03:vetonode",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoNode.md"
+        },
+        {
+          "namespace": "VetoOps",
+          "term_code": "D03-GOV-007",
+          "canonical_uri": "urn:namencora:d03:vetoops",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoOps.md"
+        },
+        {
+          "namespace": "VetoPilot",
+          "term_code": "D03-GOV-006",
+          "canonical_uri": "urn:namencora:d03:vetopilot",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoPilot.md"
+        },
+        {
+          "namespace": "VetoSafe",
+          "term_code": "D03-GOV-008",
+          "canonical_uri": "urn:namencora:d03:vetosafe",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoSafe.md"
+        },
+        {
+          "namespace": "VetoVault",
+          "term_code": "D03-GOV-009",
+          "canonical_uri": "urn:namencora:d03:vetovault",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — VetoVault.md"
+        },
+        {
+          "namespace": "XVetor",
+          "term_code": "D03-GOV-012",
+          "canonical_uri": "urn:namencora:d03:xvetor",
+          "subsystem": "1. Deterministic Circuit Breakers & Veto Quorums",
+          "category": "Core Veto Primitives:",
+          "path": "02_Entities/Division 03/Entity — XVetor.md"
+        }
+      ]
+    },
+    {
+      "id": "Division 04",
+      "title": "Computational Physics & Dynamics",
+      "description": "Фазові простори, нелінійні динамічні оператори та дисипація",
+      "count": 45,
+      "entities": [
+        {
+          "namespace": "Aegisoptic",
+          "term_code": "D04-DYN-039",
+          "canonical_uri": "urn:namencora:d04:aegisoptic",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — Aegisoptic.md"
+        },
+        {
+          "namespace": "Ballisticpulse",
+          "term_code": "D04-DYN-041",
+          "canonical_uri": "urn:namencora:d04:ballisticpulse",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — Ballisticpulse.md"
+        },
+        {
+          "namespace": "Basalchip",
+          "term_code": "D04-DYN-021",
+          "canonical_uri": "urn:namencora:d04:basalchip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Basalchip.md"
+        },
+        {
+          "namespace": "Cerberpulse",
+          "term_code": "D04-DYN-042",
+          "canonical_uri": "urn:namencora:d04:cerberpulse",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — Cerberpulse.md"
+        },
+        {
+          "namespace": "Chipator",
+          "term_code": "D04-DYN-044",
+          "canonical_uri": "urn:namencora:d04:chipator",
+          "subsystem": "5. Auxiliary Tooling Tier",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — Chipator.md"
+        },
+        {
+          "namespace": "FieldWarp",
+          "term_code": "D04-DYN-012",
+          "canonical_uri": "urn:namencora:d04:fieldwarp",
+          "subsystem": "2. Differential Geometry & Manifold Warping",
+          "category": "Computational Geometry & Surface Deformation:",
+          "path": "02_Entities/Division 04/Entity — FieldWarp.md"
+        },
+        {
+          "namespace": "GradientPhase",
+          "term_code": "D04-DYN-002",
+          "canonical_uri": "urn:namencora:d04:gradientphase",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — GradientPhase.md"
+        },
+        {
+          "namespace": "Gradientfold",
+          "term_code": "D04-DYN-015",
+          "canonical_uri": "urn:namencora:d04:gradientfold",
+          "subsystem": "2. Differential Geometry & Manifold Warping",
+          "category": "Computational Geometry & Surface Deformation:",
+          "path": "02_Entities/Division 04/Entity — Gradientfold.md"
+        },
+        {
+          "namespace": "Gradientwarp",
+          "term_code": "D04-DYN-014",
+          "canonical_uri": "urn:namencora:d04:gradientwarp",
+          "subsystem": "2. Differential Geometry & Manifold Warping",
+          "category": "Computational Geometry & Surface Deformation:",
+          "path": "02_Entities/Division 04/Entity — Gradientwarp.md"
+        },
+        {
+          "namespace": "Ioarm",
+          "term_code": "D04-DYN-016",
+          "canonical_uri": "urn:namencora:d04:ioarm",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Ioarm.md"
+        },
+        {
+          "namespace": "Iterachip",
+          "term_code": "D04-DYN-019",
+          "canonical_uri": "urn:namencora:d04:iterachip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Iterachip.md"
+        },
+        {
+          "namespace": "Kronchip",
+          "term_code": "D04-DYN-020",
+          "canonical_uri": "urn:namencora:d04:kronchip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Kronchip.md"
+        },
+        {
+          "namespace": "Lithochip",
+          "term_code": "D04-DYN-018",
+          "canonical_uri": "urn:namencora:d04:lithochip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Lithochip.md"
+        },
+        {
+          "namespace": "Meshwarper",
+          "term_code": "D04-DYN-011",
+          "canonical_uri": "urn:namencora:d04:meshwarper",
+          "subsystem": "2. Differential Geometry & Manifold Warping",
+          "category": "Computational Geometry & Surface Deformation:",
+          "path": "02_Entities/Division 04/Entity — Meshwarper.md"
+        },
+        {
+          "namespace": "Monadpulse",
+          "term_code": "D04-DYN-043",
+          "canonical_uri": "urn:namencora:d04:monadpulse",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — Monadpulse.md"
+        },
+        {
+          "namespace": "Morsechip",
+          "term_code": "D04-DYN-032",
+          "canonical_uri": "urn:namencora:d04:morsechip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Morsechip.md"
+        },
+        {
+          "namespace": "Neutrochip",
+          "term_code": "D04-DYN-025",
+          "canonical_uri": "urn:namencora:d04:neutrochip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Neutrochip.md"
+        },
+        {
+          "namespace": "Opschip",
+          "term_code": "D04-DYN-023",
+          "canonical_uri": "urn:namencora:d04:opschip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Opschip.md"
+        },
+        {
+          "namespace": "Opticballistics",
+          "term_code": "D04-DYN-040",
+          "canonical_uri": "urn:namencora:d04:opticballistics",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — Opticballistics.md"
+        },
+        {
+          "namespace": "PhaseCorrector",
+          "term_code": "D04-DYN-006",
+          "canonical_uri": "urn:namencora:d04:phasecorrector",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — PhaseCorrector.md"
+        },
+        {
+          "namespace": "PhaseCurvature",
+          "term_code": "D04-DYN-004",
+          "canonical_uri": "urn:namencora:d04:phasecurvature",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — PhaseCurvature.md"
+        },
+        {
+          "namespace": "PhaseGradient",
+          "term_code": "D04-DYN-001",
+          "canonical_uri": "urn:namencora:d04:phasegradient",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — PhaseGradient.md"
+        },
+        {
+          "namespace": "PhaseMorph",
+          "term_code": "D04-DYN-007",
+          "canonical_uri": "urn:namencora:d04:phasemorph",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — PhaseMorph.md"
+        },
+        {
+          "namespace": "PhaseShear",
+          "term_code": "D04-DYN-005",
+          "canonical_uri": "urn:namencora:d04:phaseshear",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — PhaseShear.md"
+        },
+        {
+          "namespace": "PhaseTensor",
+          "term_code": "D04-DYN-003",
+          "canonical_uri": "urn:namencora:d04:phasetensor",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — PhaseTensor.md"
+        },
+        {
+          "namespace": "PhaseXor",
+          "term_code": "D04-DYN-008",
+          "canonical_uri": "urn:namencora:d04:phasexor",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — PhaseXor.md"
+        },
+        {
+          "namespace": "Phirechip",
+          "term_code": "D04-DYN-027",
+          "canonical_uri": "urn:namencora:d04:phirechip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Phirechip.md"
+        },
+        {
+          "namespace": "Piochip",
+          "term_code": "D04-DYN-017",
+          "canonical_uri": "urn:namencora:d04:piochip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Piochip.md"
+        },
+        {
+          "namespace": "Quarchip",
+          "term_code": "D04-DYN-031",
+          "canonical_uri": "urn:namencora:d04:quarchip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Quarchip.md"
+        },
+        {
+          "namespace": "Riftchip",
+          "term_code": "D04-DYN-028",
+          "canonical_uri": "urn:namencora:d04:riftchip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Riftchip.md"
+        },
+        {
+          "namespace": "Silicochip",
+          "term_code": "D04-DYN-026",
+          "canonical_uri": "urn:namencora:d04:silicochip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Silicochip.md"
+        },
+        {
+          "namespace": "Staplechip",
+          "term_code": "D04-DYN-030",
+          "canonical_uri": "urn:namencora:d04:staplechip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Staplechip.md"
+        },
+        {
+          "namespace": "Starkchip",
+          "term_code": "D04-DYN-029",
+          "canonical_uri": "urn:namencora:d04:starkchip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Starkchip.md"
+        },
+        {
+          "namespace": "Surfacewarper",
+          "term_code": "D04-DYN-010",
+          "canonical_uri": "urn:namencora:d04:surfacewarper",
+          "subsystem": "2. Differential Geometry & Manifold Warping",
+          "category": "Computational Geometry & Surface Deformation:",
+          "path": "02_Entities/Division 04/Entity — Surfacewarper.md"
+        },
+        {
+          "namespace": "Thrustnaut",
+          "term_code": "D04-DYN-045",
+          "canonical_uri": "urn:namencora:d04:thrustnaut",
+          "subsystem": "5. Auxiliary Tooling Tier",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — Thrustnaut.md"
+        },
+        {
+          "namespace": "Tracewarp",
+          "term_code": "D04-DYN-013",
+          "canonical_uri": "urn:namencora:d04:tracewarp",
+          "subsystem": "2. Differential Geometry & Manifold Warping",
+          "category": "Computational Geometry & Surface Deformation:",
+          "path": "02_Entities/Division 04/Entity — Tracewarp.md"
+        },
+        {
+          "namespace": "Tradeoffchip",
+          "term_code": "D04-DYN-024",
+          "canonical_uri": "urn:namencora:d04:tradeoffchip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Tradeoffchip.md"
+        },
+        {
+          "namespace": "VimChip",
+          "term_code": "D04-DYN-022",
+          "canonical_uri": "urn:namencora:d04:vimchip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — VimChip.md"
+        },
+        {
+          "namespace": "VimPhase",
+          "term_code": "D04-DYN-009",
+          "canonical_uri": "urn:namencora:d04:vimphase",
+          "subsystem": "1. Phase Dynamics & Tensor Analysis",
+          "category": "Phase Spaces, Curvature & Tensors:",
+          "path": "02_Entities/Division 04/Entity — VimPhase.md"
+        },
+        {
+          "namespace": "Vugchip",
+          "term_code": "D04-DYN-033",
+          "canonical_uri": "urn:namencora:d04:vugchip",
+          "subsystem": "3. Hardware Controllers & Bus Architectures",
+          "category": "I/O Engines & Silicon Primitives:",
+          "path": "02_Entities/Division 04/Entity — Vugchip.md"
+        },
+        {
+          "namespace": "XrayAtom",
+          "term_code": "D04-DYN-037",
+          "canonical_uri": "urn:namencora:d04:xrayatom",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — XrayAtom.md"
+        },
+        {
+          "namespace": "XrayChip",
+          "term_code": "D04-DYN-034",
+          "canonical_uri": "urn:namencora:d04:xraychip",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — XrayChip.md"
+        },
+        {
+          "namespace": "XrayPipe",
+          "term_code": "D04-DYN-035",
+          "canonical_uri": "urn:namencora:d04:xraypipe",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — XrayPipe.md"
+        },
+        {
+          "namespace": "XrayPrism",
+          "term_code": "D04-DYN-036",
+          "canonical_uri": "urn:namencora:d04:xrayprism",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — XrayPrism.md"
+        },
+        {
+          "namespace": "XrayProtect",
+          "term_code": "D04-DYN-038",
+          "canonical_uri": "urn:namencora:d04:xrayprotect",
+          "subsystem": "4. Applied Photonics, X-Ray & Signal Pulses",
+          "category": "X-Ray Guides & High-Frequency Pulses:",
+          "path": "02_Entities/Division 04/Entity — XrayProtect.md"
+        }
+      ]
+    },
+    {
+      "id": "Division 05",
+      "title": "Execution Pipelines & Streaming Runtimes",
+      "description": "Потокові рантайми, конвеєри нульового копіювання та черги подій",
+      "count": 94,
+      "entities": [
+        {
+          "namespace": "BallisticFlow",
+          "term_code": "D05-RUN-011",
+          "canonical_uri": "urn:namencora:d05:ballisticflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — BallisticFlow.md"
+        },
+        {
+          "namespace": "Ballistictask",
+          "term_code": "D05-RUN-021",
+          "canonical_uri": "urn:namencora:d05:ballistictask",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — Ballistictask.md"
+        },
+        {
+          "namespace": "CerberFlow",
+          "term_code": "D05-RUN-025",
+          "canonical_uri": "urn:namencora:d05:cerberflow",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — CerberFlow.md"
+        },
+        {
+          "namespace": "ConstructFlowAI",
+          "term_code": "D05-RUN-094",
+          "canonical_uri": "urn:namencora:d05:constructflowai",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — ConstructFlowAI.md"
+        },
+        {
+          "namespace": "CuratorFlow",
+          "term_code": "D05-RUN-023",
+          "canonical_uri": "urn:namencora:d05:curatorflow",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — CuratorFlow.md"
+        },
+        {
+          "namespace": "DistillFlow",
+          "term_code": "D05-RUN-014",
+          "canonical_uri": "urn:namencora:d05:distillflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — DistillFlow.md"
+        },
+        {
+          "namespace": "DistillationFlow",
+          "term_code": "D05-RUN-013",
+          "canonical_uri": "urn:namencora:d05:distillationflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — DistillationFlow.md"
+        },
+        {
+          "namespace": "DroneFlowX",
+          "term_code": "D05-RUN-092",
+          "canonical_uri": "urn:namencora:d05:droneflowx",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — DroneFlowX.md"
+        },
+        {
+          "namespace": "DronsFlow",
+          "term_code": "D05-RUN-093",
+          "canonical_uri": "urn:namencora:d05:dronsflow",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — DronsFlow.md"
+        },
+        {
+          "namespace": "EgressFlow",
+          "term_code": "D05-RUN-015",
+          "canonical_uri": "urn:namencora:d05:egressflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — EgressFlow.md"
+        },
+        {
+          "namespace": "Eigenvim",
+          "term_code": "D05-RUN-034",
+          "canonical_uri": "urn:namencora:d05:eigenvim",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Compute Units & Mathematical Cores:",
+          "path": "02_Entities/Division 05/Entity — Eigenvim.md"
+        },
+        {
+          "namespace": "FlowCle",
+          "term_code": "D05-RUN-071",
+          "canonical_uri": "urn:namencora:d05:flowcle",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowCle.md"
+        },
+        {
+          "namespace": "FlowDator",
+          "term_code": "D05-RUN-072",
+          "canonical_uri": "urn:namencora:d05:flowdator",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowDator.md"
+        },
+        {
+          "namespace": "FlowFormator",
+          "term_code": "D05-RUN-073",
+          "canonical_uri": "urn:namencora:d05:flowformator",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowFormator.md"
+        },
+        {
+          "namespace": "FlowGara",
+          "term_code": "D05-RUN-074",
+          "canonical_uri": "urn:namencora:d05:flowgara",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowGara.md"
+        },
+        {
+          "namespace": "FlowGonia",
+          "term_code": "D05-RUN-075",
+          "canonical_uri": "urn:namencora:d05:flowgonia",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowGonia.md"
+        },
+        {
+          "namespace": "FlowNizer",
+          "term_code": "D05-RUN-076",
+          "canonical_uri": "urn:namencora:d05:flownizer",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowNizer.md"
+        },
+        {
+          "namespace": "FlowPhore",
+          "term_code": "D05-RUN-077",
+          "canonical_uri": "urn:namencora:d05:flowphore",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowPhore.md"
+        },
+        {
+          "namespace": "FlowPike",
+          "term_code": "D05-RUN-078",
+          "canonical_uri": "urn:namencora:d05:flowpike",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowPike.md"
+        },
+        {
+          "namespace": "FlowUla",
+          "term_code": "D05-RUN-079",
+          "canonical_uri": "urn:namencora:d05:flowula",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — FlowUla.md"
+        },
+        {
+          "namespace": "Gigavim",
+          "term_code": "D05-RUN-055",
+          "canonical_uri": "urn:namencora:d05:gigavim",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — Gigavim.md"
+        },
+        {
+          "namespace": "GyreFlow",
+          "term_code": "D05-RUN-012",
+          "canonical_uri": "urn:namencora:d05:gyreflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — GyreFlow.md"
+        },
+        {
+          "namespace": "Infivim",
+          "term_code": "D05-RUN-056",
+          "canonical_uri": "urn:namencora:d05:infivim",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — Infivim.md"
+        },
+        {
+          "namespace": "IngestStream",
+          "term_code": "D05-RUN-005",
+          "canonical_uri": "urn:namencora:d05:ingeststream",
+          "subsystem": "1. Core Streaming Fabrics & Message Queues",
+          "category": "Category Standard Queues & Streams:",
+          "path": "02_Entities/Division 05/Entity — IngestStream.md"
+        },
+        {
+          "namespace": "Ipvim",
+          "term_code": "D05-RUN-059",
+          "canonical_uri": "urn:namencora:d05:ipvim",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — Ipvim.md"
+        },
+        {
+          "namespace": "Jetvim",
+          "term_code": "D05-RUN-058",
+          "canonical_uri": "urn:namencora:d05:jetvim",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — Jetvim.md"
+        },
+        {
+          "namespace": "Messagequeues",
+          "term_code": "D05-RUN-001",
+          "canonical_uri": "urn:namencora:d05:messagequeues",
+          "subsystem": "1. Core Streaming Fabrics & Message Queues",
+          "category": "Category Standard Queues & Streams:",
+          "path": "02_Entities/Division 05/Entity — Messagequeues.md"
+        },
+        {
+          "namespace": "MonadaFlow",
+          "term_code": "D05-RUN-024",
+          "canonical_uri": "urn:namencora:d05:monadaflow",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — MonadaFlow.md"
+        },
+        {
+          "namespace": "OpsQueue",
+          "term_code": "D05-RUN-004",
+          "canonical_uri": "urn:namencora:d05:opsqueue",
+          "subsystem": "1. Core Streaming Fabrics & Message Queues",
+          "category": "Category Standard Queues & Streams:",
+          "path": "02_Entities/Division 05/Entity — OpsQueue.md"
+        },
+        {
+          "namespace": "OpsyFlow",
+          "term_code": "D05-RUN-070",
+          "canonical_uri": "urn:namencora:d05:opsyflow",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — OpsyFlow.md"
+        },
+        {
+          "namespace": "PerimeterFlow",
+          "term_code": "D05-RUN-016",
+          "canonical_uri": "urn:namencora:d05:perimeterflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — PerimeterFlow.md"
+        },
+        {
+          "namespace": "Peritask",
+          "term_code": "D05-RUN-022",
+          "canonical_uri": "urn:namencora:d05:peritask",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — Peritask.md"
+        },
+        {
+          "namespace": "PhenoStream",
+          "term_code": "D05-RUN-007",
+          "canonical_uri": "urn:namencora:d05:phenostream",
+          "subsystem": "1. Core Streaming Fabrics & Message Queues",
+          "category": "Category Standard Queues & Streams:",
+          "path": "02_Entities/Division 05/Entity — PhenoStream.md"
+        },
+        {
+          "namespace": "PlatonFlow",
+          "term_code": "D05-RUN-026",
+          "canonical_uri": "urn:namencora:d05:platonflow",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — PlatonFlow.md"
+        },
+        {
+          "namespace": "PoissonFlow",
+          "term_code": "D05-RUN-008",
+          "canonical_uri": "urn:namencora:d05:poissonflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — PoissonFlow.md"
+        },
+        {
+          "namespace": "PostulatFlow",
+          "term_code": "D05-RUN-027",
+          "canonical_uri": "urn:namencora:d05:postulatflow",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — PostulatFlow.md"
+        },
+        {
+          "namespace": "PostulatorFlow",
+          "term_code": "D05-RUN-028",
+          "canonical_uri": "urn:namencora:d05:postulatorflow",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — PostulatorFlow.md"
+        },
+        {
+          "namespace": "Quantovim",
+          "term_code": "D05-RUN-035",
+          "canonical_uri": "urn:namencora:d05:quantovim",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Compute Units & Mathematical Cores:",
+          "path": "02_Entities/Division 05/Entity — Quantovim.md"
+        },
+        {
+          "namespace": "QueueAtlas",
+          "term_code": "D05-RUN-003",
+          "canonical_uri": "urn:namencora:d05:queueatlas",
+          "subsystem": "1. Core Streaming Fabrics & Message Queues",
+          "category": "Category Standard Queues & Streams:",
+          "path": "02_Entities/Division 05/Entity — QueueAtlas.md"
+        },
+        {
+          "namespace": "ReliabilityFlow",
+          "term_code": "D05-RUN-017",
+          "canonical_uri": "urn:namencora:d05:reliabilityflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — ReliabilityFlow.md"
+        },
+        {
+          "namespace": "Semavim",
+          "term_code": "D05-RUN-063",
+          "canonical_uri": "urn:namencora:d05:semavim",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — Semavim.md"
+        },
+        {
+          "namespace": "Stratovim",
+          "term_code": "D05-RUN-057",
+          "canonical_uri": "urn:namencora:d05:stratovim",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — Stratovim.md"
+        },
+        {
+          "namespace": "StreamDigm",
+          "term_code": "D05-RUN-080",
+          "canonical_uri": "urn:namencora:d05:streamdigm",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — StreamDigm.md"
+        },
+        {
+          "namespace": "StreamInfer",
+          "term_code": "D05-RUN-006",
+          "canonical_uri": "urn:namencora:d05:streaminfer",
+          "subsystem": "1. Core Streaming Fabrics & Message Queues",
+          "category": "Category Standard Queues & Streams:",
+          "path": "02_Entities/Division 05/Entity — StreamInfer.md"
+        },
+        {
+          "namespace": "StreamIngpipeline",
+          "term_code": "D05-RUN-002",
+          "canonical_uri": "urn:namencora:d05:streamingpipeline",
+          "subsystem": "1. Core Streaming Fabrics & Message Queues",
+          "category": "Category Standard Queues & Streams:",
+          "path": "02_Entities/Division 05/Entity — StreamIngpipeline.md"
+        },
+        {
+          "namespace": "StreamNaut",
+          "term_code": "D05-RUN-081",
+          "canonical_uri": "urn:namencora:d05:streamnaut",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — StreamNaut.md"
+        },
+        {
+          "namespace": "SubstrateFlow",
+          "term_code": "D05-RUN-061",
+          "canonical_uri": "urn:namencora:d05:substrateflow",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — SubstrateFlow.md"
+        },
+        {
+          "namespace": "TaxonFlow",
+          "term_code": "D05-RUN-062",
+          "canonical_uri": "urn:namencora:d05:taxonflow",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — TaxonFlow.md"
+        },
+        {
+          "namespace": "Tickpipeline",
+          "term_code": "D05-RUN-018",
+          "canonical_uri": "urn:namencora:d05:tickpipeline",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — Tickpipeline.md"
+        },
+        {
+          "namespace": "Tickruntime",
+          "term_code": "D05-RUN-019",
+          "canonical_uri": "urn:namencora:d05:tickruntime",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — Tickruntime.md"
+        },
+        {
+          "namespace": "TorridFlow",
+          "term_code": "D05-RUN-009",
+          "canonical_uri": "urn:namencora:d05:torridflow",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — TorridFlow.md"
+        },
+        {
+          "namespace": "Torriddata",
+          "term_code": "D05-RUN-010",
+          "canonical_uri": "urn:namencora:d05:torriddata",
+          "subsystem": "2. Stochastic & High-Velocity Pipelines",
+          "category": "Stochastic Models & High-Throughput Streams:",
+          "path": "02_Entities/Division 05/Entity — Torriddata.md"
+        },
+        {
+          "namespace": "Traxruntime",
+          "term_code": "D05-RUN-020",
+          "canonical_uri": "urn:namencora:d05:traxruntime",
+          "subsystem": "3. Event Runtimes & Execution Schedulers",
+          "category": "Schedulers, Task Loops & Pipelines:",
+          "path": "02_Entities/Division 05/Entity — Traxruntime.md"
+        },
+        {
+          "namespace": "Uxvim",
+          "term_code": "D05-RUN-060",
+          "canonical_uri": "urn:namencora:d05:uxvim",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — Uxvim.md"
+        },
+        {
+          "namespace": "VimAtom",
+          "term_code": "D05-RUN-032",
+          "canonical_uri": "urn:namencora:d05:vimatom",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Compute Units & Mathematical Cores:",
+          "path": "02_Entities/Division 05/Entity — VimAtom.md"
+        },
+        {
+          "namespace": "VimBos",
+          "term_code": "D05-RUN-082",
+          "canonical_uri": "urn:namencora:d05:vimbos",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimBos.md"
+        },
+        {
+          "namespace": "VimChip",
+          "term_code": "D05-RUN-031",
+          "canonical_uri": "urn:namencora:d05:vimchip",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Compute Units & Mathematical Cores:",
+          "path": "02_Entities/Division 05/Entity — VimChip.md"
+        },
+        {
+          "namespace": "VimCpu",
+          "term_code": "D05-RUN-030",
+          "canonical_uri": "urn:namencora:d05:vimcpu",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Compute Units & Mathematical Cores:",
+          "path": "02_Entities/Division 05/Entity — VimCpu.md"
+        },
+        {
+          "namespace": "VimDigit",
+          "term_code": "D05-RUN-052",
+          "canonical_uri": "urn:namencora:d05:vimdigit",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimDigit.md"
+        },
+        {
+          "namespace": "VimDrift",
+          "term_code": "D05-RUN-050",
+          "canonical_uri": "urn:namencora:d05:vimdrift",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimDrift.md"
+        },
+        {
+          "namespace": "VimForm",
+          "term_code": "D05-RUN-053",
+          "canonical_uri": "urn:namencora:d05:vimform",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimForm.md"
+        },
+        {
+          "namespace": "VimFurcate",
+          "term_code": "D05-RUN-042",
+          "canonical_uri": "urn:namencora:d05:vimfurcate",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Tensor Graph & Loop Execution:",
+          "path": "02_Entities/Division 05/Entity — VimFurcate.md"
+        },
+        {
+          "namespace": "VimGor",
+          "term_code": "D05-RUN-083",
+          "canonical_uri": "urn:namencora:d05:vimgor",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimGor.md"
+        },
+        {
+          "namespace": "VimGrad",
+          "term_code": "D05-RUN-037",
+          "canonical_uri": "urn:namencora:d05:vimgrad",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Tensor Graph & Loop Execution:",
+          "path": "02_Entities/Division 05/Entity — VimGrad.md"
+        },
+        {
+          "namespace": "VimIndex",
+          "term_code": "D05-RUN-064",
+          "canonical_uri": "urn:namencora:d05:vimindex",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimIndex.md"
+        },
+        {
+          "namespace": "VimLine",
+          "term_code": "D05-RUN-041",
+          "canonical_uri": "urn:namencora:d05:vimline",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Tensor Graph & Loop Execution:",
+          "path": "02_Entities/Division 05/Entity — VimLine.md"
+        },
+        {
+          "namespace": "VimLoop",
+          "term_code": "D05-RUN-040",
+          "canonical_uri": "urn:namencora:d05:vimloop",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Tensor Graph & Loop Execution:",
+          "path": "02_Entities/Division 05/Entity — VimLoop.md"
+        },
+        {
+          "namespace": "VimMesh",
+          "term_code": "D05-RUN-051",
+          "canonical_uri": "urn:namencora:d05:vimmesh",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimMesh.md"
+        },
+        {
+          "namespace": "VimModel",
+          "term_code": "D05-RUN-039",
+          "canonical_uri": "urn:namencora:d05:vimmodel",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Tensor Graph & Loop Execution:",
+          "path": "02_Entities/Division 05/Entity — VimModel.md"
+        },
+        {
+          "namespace": "VimNeural",
+          "term_code": "D05-RUN-065",
+          "canonical_uri": "urn:namencora:d05:vimneural",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimNeural.md"
+        },
+        {
+          "namespace": "VimNode",
+          "term_code": "D05-RUN-033",
+          "canonical_uri": "urn:namencora:d05:vimnode",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Compute Units & Mathematical Cores:",
+          "path": "02_Entities/Division 05/Entity — VimNode.md"
+        },
+        {
+          "namespace": "VimPart",
+          "term_code": "D05-RUN-084",
+          "canonical_uri": "urn:namencora:d05:vimpart",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimPart.md"
+        },
+        {
+          "namespace": "VimPhase",
+          "term_code": "D05-RUN-066",
+          "canonical_uri": "urn:namencora:d05:vimphase",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimPhase.md"
+        },
+        {
+          "namespace": "VimPhore",
+          "term_code": "D05-RUN-085",
+          "canonical_uri": "urn:namencora:d05:vimphore",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimPhore.md"
+        },
+        {
+          "namespace": "VimPike",
+          "term_code": "D05-RUN-046",
+          "canonical_uri": "urn:namencora:d05:vimpike",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimPike.md"
+        },
+        {
+          "namespace": "VimQuery",
+          "term_code": "D05-RUN-047",
+          "canonical_uri": "urn:namencora:d05:vimquery",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimQuery.md"
+        },
+        {
+          "namespace": "VimQueue",
+          "term_code": "D05-RUN-044",
+          "canonical_uri": "urn:namencora:d05:vimqueue",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimQueue.md"
+        },
+        {
+          "namespace": "VimSchema",
+          "term_code": "D05-RUN-067",
+          "canonical_uri": "urn:namencora:d05:vimschema",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimSchema.md"
+        },
+        {
+          "namespace": "VimShift",
+          "term_code": "D05-RUN-049",
+          "canonical_uri": "urn:namencora:d05:vimshift",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimShift.md"
+        },
+        {
+          "namespace": "VimSona",
+          "term_code": "D05-RUN-086",
+          "canonical_uri": "urn:namencora:d05:vimsona",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimSona.md"
+        },
+        {
+          "namespace": "VimSor",
+          "term_code": "D05-RUN-087",
+          "canonical_uri": "urn:namencora:d05:vimsor",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimSor.md"
+        },
+        {
+          "namespace": "VimSpark",
+          "term_code": "D05-RUN-088",
+          "canonical_uri": "urn:namencora:d05:vimspark",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimSpark.md"
+        },
+        {
+          "namespace": "VimTensor",
+          "term_code": "D05-RUN-036",
+          "canonical_uri": "urn:namencora:d05:vimtensor",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Tensor Graph & Loop Execution:",
+          "path": "02_Entities/Division 05/Entity — VimTensor.md"
+        },
+        {
+          "namespace": "VimTick",
+          "term_code": "D05-RUN-045",
+          "canonical_uri": "urn:namencora:d05:vimtick",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimTick.md"
+        },
+        {
+          "namespace": "VimTorch",
+          "term_code": "D05-RUN-038",
+          "canonical_uri": "urn:namencora:d05:vimtorch",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Tensor Graph & Loop Execution:",
+          "path": "02_Entities/Division 05/Entity — VimTorch.md"
+        },
+        {
+          "namespace": "VimTrace",
+          "term_code": "D05-RUN-048",
+          "canonical_uri": "urn:namencora:d05:vimtrace",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimTrace.md"
+        },
+        {
+          "namespace": "VimUnit",
+          "term_code": "D05-RUN-029",
+          "canonical_uri": "urn:namencora:d05:vimunit",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Compute Units & Mathematical Cores:",
+          "path": "02_Entities/Division 05/Entity — VimUnit.md"
+        },
+        {
+          "namespace": "VimVault",
+          "term_code": "D05-RUN-054",
+          "canonical_uri": "urn:namencora:d05:vimvault",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Telemetry, Queuing & Routing:",
+          "path": "02_Entities/Division 05/Entity — VimVault.md"
+        },
+        {
+          "namespace": "VimVector",
+          "term_code": "D05-RUN-068",
+          "canonical_uri": "urn:namencora:d05:vimvector",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimVector.md"
+        },
+        {
+          "namespace": "VimVex",
+          "term_code": "D05-RUN-089",
+          "canonical_uri": "urn:namencora:d05:vimvex",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimVex.md"
+        },
+        {
+          "namespace": "VimVolt",
+          "term_code": "D05-RUN-090",
+          "canonical_uri": "urn:namencora:d05:vimvolt",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimVolt.md"
+        },
+        {
+          "namespace": "VimWall",
+          "term_code": "D05-RUN-091",
+          "canonical_uri": "urn:namencora:d05:vimwall",
+          "subsystem": "6. Auxiliary Neologisms & Tooling Tier",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — VimWall.md"
+        },
+        {
+          "namespace": "VimXor",
+          "term_code": "D05-RUN-043",
+          "canonical_uri": "urn:namencora:d05:vimxor",
+          "subsystem": "4. The Vim Micro-Kernel Execution Stack",
+          "category": "Tensor Graph & Loop Execution:",
+          "path": "02_Entities/Division 05/Entity — VimXor.md"
+        },
+        {
+          "namespace": "XrayPipe",
+          "term_code": "D05-RUN-069",
+          "canonical_uri": "urn:namencora:d05:xraypipe",
+          "subsystem": "5. Cross-Division Anchors",
+          "category": "High-Throughput Node Clusters:",
+          "path": "02_Entities/Division 05/Entity — XrayPipe.md"
+        }
+      ]
+    }
+  ],
+  "total_entities": 341
+}
