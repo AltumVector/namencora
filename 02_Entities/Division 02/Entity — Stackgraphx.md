@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
 category: "Knowledge & Lock Graphs:"
-namespace: Stackgraphx
+namespace: StackGraphX
 term_code: D02-COG-017
 status: candidate
 canonical_uri: "urn:namencora:d02:stackgraphx"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Stackgraphx
+  name: StackGraphX
   termCode: D02-COG-017
 ---
 
-# Stackgraphx
+# StackGraphX
 
 > **System Anchor**: `stackgraphx.com`  
 > **Classification ID**: `D02-COG-017`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Stackgraphx",
+  "name": "StackGraphX",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-017",
   "description": "Formal architectural primitive for knowledge & lock graphs: within 1. machine ontologies & taxonomic hierarchies.",

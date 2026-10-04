@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "3. Hardware Controllers & Bus Architectures"
 category: "I/O Engines & Silicon Primitives:"
-namespace: Piochip
+namespace: PioChip
 term_code: D04-DYN-017
 status: candidate
 canonical_uri: "urn:namencora:d04:piochip"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Piochip
+  name: PioChip
   termCode: D04-DYN-017
 ---
 
-# Piochip
+# PioChip
 
 > **System Anchor**: `piochip.com`  
 > **Classification ID**: `D04-DYN-017`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Piochip",
+  "name": "PioChip",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-017",
   "description": "Formal architectural primitive for i/o engines & silicon primitives: within 3. hardware controllers & bus architectures.",

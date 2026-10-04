@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "3. Formal Verification & Evaluation Harness"
 category: "Model Evaluation & AI Safety (Evals):"
-namespace: Botassay
+namespace: BotAssay
 term_code: D02-COG-051
 status: candidate
 canonical_uri: "urn:namencora:d02:botassay"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Botassay
+  name: BotAssay
   termCode: D02-COG-051
 ---
 
-# Botassay
+# BotAssay
 
 > **System Anchor**: `botassay.com`  
 > **Classification ID**: `D02-COG-051`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Botassay",
+  "name": "BotAssay",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-051",
   "description": "Formal architectural primitive for model evaluation & ai safety (evals): within 3. formal verification & evaluation harness.",

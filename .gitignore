@@ -10,3 +10,9 @@ Thumbs.db
 # Raw candidate backlog (Cohort B source left out of public repo)
 02_Entities/Candidates_Cohort_B.md
 *.csv
+
+
+# Starlight build artifacts
+node_modules/
+dist/
+.astro/

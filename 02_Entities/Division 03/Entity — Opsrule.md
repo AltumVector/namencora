@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "5. Operations Runtimes & Execution Queues"
 category: "Queues, Dispatch & Operational Cores:"
-namespace: Opsrule
+namespace: OpsRule
 term_code: D03-GOV-042
 status: candidate
 canonical_uri: "urn:namencora:d03:opsrule"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Opsrule
+  name: OpsRule
   termCode: D03-GOV-042
 ---
 
-# Opsrule
+# OpsRule
 
 > **System Anchor**: `opsrule.com`  
 > **Classification ID**: `D03-GOV-042`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Opsrule",
+  "name": "OpsRule",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-042",
   "description": "Formal architectural primitive for queues, dispatch & operational cores: within 5. operations runtimes & execution queues.",

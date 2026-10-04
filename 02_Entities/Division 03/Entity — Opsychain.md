@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "6. Auxiliary Neologisms & Drone Ops"
 category: "Queues, Dispatch & Operational Cores:"
-namespace: Opsychain
+namespace: OpsYchain
 term_code: D03-GOV-055
 status: candidate
 canonical_uri: "urn:namencora:d03:opsychain"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Opsychain
+  name: OpsYchain
   termCode: D03-GOV-055
 ---
 
-# Opsychain
+# OpsYchain
 
 > **System Anchor**: `opsychain.com`  
 > **Classification ID**: `D03-GOV-055`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Opsychain",
+  "name": "OpsYchain",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-055",
   "description": "Formal architectural primitive for queues, dispatch & operational cores: within 6. auxiliary neologisms & drone ops.",

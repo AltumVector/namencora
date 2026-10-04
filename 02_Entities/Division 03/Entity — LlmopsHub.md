@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
 category: "Consensus Primitive"
-namespace: Llmopshub
+namespace: LlmOpsHub
 term_code: D03-GOV-071
 status: candidate
 canonical_uri: "urn:namencora:d03:llmopshub"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Llmopshub
+  name: LlmOpsHub
   termCode: D03-GOV-071
 ---
 
-# Llmopshub
+# LlmOpsHub
 
 > **System Anchor**: `llmopshub.com`  
 > **Classification ID**: `D03-GOV-071`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Llmopshub",
+  "name": "LlmOpsHub",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-071",
   "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",

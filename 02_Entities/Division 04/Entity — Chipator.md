@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "5. Auxiliary Tooling Tier"
 category: "X-Ray Guides & High-Frequency Pulses:"
-namespace: Chipator
+namespace: ChipAtor
 term_code: D04-DYN-044
 status: candidate
 canonical_uri: "urn:namencora:d04:chipator"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Chipator
+  name: ChipAtor
   termCode: D04-DYN-044
 ---
 
-# Chipator
+# ChipAtor
 
 > **System Anchor**: `chipator.com`  
 > **Classification ID**: `D04-DYN-044`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Chipator",
+  "name": "ChipAtor",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-044",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses: within 5. auxiliary tooling tier.",

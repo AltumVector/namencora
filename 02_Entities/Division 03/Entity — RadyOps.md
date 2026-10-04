@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
 category: "Consensus Primitive"
-namespace: Radyops
+namespace: RadyOps
 term_code: D03-GOV-078
 status: candidate
 canonical_uri: "urn:namencora:d03:radyops"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Radyops
+  name: RadyOps
   termCode: D03-GOV-078
 ---
 
-# Radyops
+# RadyOps
 
 > **System Anchor**: `radyops.com`  
 > **Classification ID**: `D03-GOV-078`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Radyops",
+  "name": "RadyOps",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-078",
   "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",

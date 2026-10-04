@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "3. Formal Verification & Evaluation Harness"
 category: "Bus & Transaction Conformance:"
-namespace: Assaytrax
+namespace: AssayTrax
 term_code: D02-COG-054
 status: candidate
 canonical_uri: "urn:namencora:d02:assaytrax"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Assaytrax
+  name: AssayTrax
   termCode: D02-COG-054
 ---
 
-# Assaytrax
+# AssayTrax
 
 > **System Anchor**: `assaytrax.com`  
 > **Classification ID**: `D02-COG-054`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Assaytrax",
+  "name": "AssayTrax",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-054",
   "description": "Formal architectural primitive for bus & transaction conformance: within 3. formal verification & evaluation harness.",

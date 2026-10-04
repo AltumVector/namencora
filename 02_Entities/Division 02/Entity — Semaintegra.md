@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Semantic Cores & Routing:"
-namespace: Semaintegra
+namespace: SemaIntegra
 term_code: D02-COG-027
 status: candidate
 canonical_uri: "urn:namencora:d02:semaintegra"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semaintegra
+  name: SemaIntegra
   termCode: D02-COG-027
 ---
 
-# Semaintegra
+# SemaIntegra
 
 > **System Anchor**: `semaintegra.com`  
 > **Classification ID**: `D02-COG-027`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semaintegra",
+  "name": "SemaIntegra",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-027",
   "description": "Formal architectural primitive for semantic cores & routing: within 2. semantic runtime & knowledge representation.",

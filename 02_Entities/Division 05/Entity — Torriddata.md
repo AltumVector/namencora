@@ -4,7 +4,7 @@ project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
 subsystem: "2. Stochastic & High-Velocity Pipelines"
 category: "Stochastic Models & High-Throughput Streams:"
-namespace: Torriddata
+namespace: TorridData
 term_code: D05-RUN-010
 status: candidate
 canonical_uri: "urn:namencora:d05:torriddata"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Torriddata
+  name: TorridData
   termCode: D05-RUN-010
 ---
 
-# Torriddata
+# TorridData
 
 > **System Anchor**: `torriddata.com`  
 > **Classification ID**: `D05-RUN-010`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Torriddata",
+  "name": "TorridData",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-010",
   "description": "Formal architectural primitive for stochastic models & high-throughput streams: within 2. stochastic & high-velocity pipelines.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
 category: "Core Taxonomic Engines:"
-namespace: Taxonatlas
+namespace: TaxonAtlas
 term_code: D02-COG-003
 status: candidate
 canonical_uri: "urn:namencora:d02:taxonatlas"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Taxonatlas
+  name: TaxonAtlas
   termCode: D02-COG-003
 ---
 
-# Taxonatlas
+# TaxonAtlas
 
 > **System Anchor**: `taxonatlas.com`  
 > **Classification ID**: `D02-COG-003`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Taxonatlas",
+  "name": "TaxonAtlas",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-003",
   "description": "Formal architectural primitive for core taxonomic engines: within 1. machine ontologies & taxonomic hierarchies.",

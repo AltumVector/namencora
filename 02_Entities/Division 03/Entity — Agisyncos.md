@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "3. Distributed State Synchronization"
 category: "Synchronization Protocols & Clocks:"
-namespace: Agisyncos
+namespace: AgiSyncOs
 term_code: D03-GOV-031
 status: candidate
 canonical_uri: "urn:namencora:d03:agisyncos"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Agisyncos
+  name: AgiSyncOs
   termCode: D03-GOV-031
 ---
 
-# Agisyncos
+# AgiSyncOs
 
 > **System Anchor**: `agisyncos.com`  
 > **Classification ID**: `D03-GOV-031`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Agisyncos",
+  "name": "AgiSyncOs",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-031",
   "description": "Formal architectural primitive for synchronization protocols & clocks: within 3. distributed state synchronization.",

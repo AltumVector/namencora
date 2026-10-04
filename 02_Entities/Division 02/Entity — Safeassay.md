@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "3. Formal Verification & Evaluation Harness"
 category: "Code, Schema & Execution Verification:"
-namespace: Safeassay
+namespace: SafeAssay
 term_code: D02-COG-041
 status: candidate
 canonical_uri: "urn:namencora:d02:safeassay"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Safeassay
+  name: SafeAssay
   termCode: D02-COG-041
 ---
 
-# Safeassay
+# SafeAssay
 
 > **System Anchor**: `safeassay.com`  
 > **Classification ID**: `D02-COG-041`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Safeassay",
+  "name": "SafeAssay",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-041",
   "description": "Formal architectural primitive for code, schema & execution verification: within 3. formal verification & evaluation harness.",

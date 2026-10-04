@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "5. Operations Runtimes & Execution Queues"
 category: "Queues, Dispatch & Operational Cores:"
-namespace: Opsque
+namespace: OpsQue
 term_code: D03-GOV-040
 status: candidate
 canonical_uri: "urn:namencora:d03:opsque"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Opsque
+  name: OpsQue
   termCode: D03-GOV-040
 ---
 
-# Opsque
+# OpsQue
 
 > **System Anchor**: `opsque.com`  
 > **Classification ID**: `D03-GOV-040`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Opsque",
+  "name": "OpsQue",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-040",
   "description": "Formal architectural primitive for queues, dispatch & operational cores: within 5. operations runtimes & execution queues.",

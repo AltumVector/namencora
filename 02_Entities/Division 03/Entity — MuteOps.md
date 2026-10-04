@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
 category: "Consensus Primitive"
-namespace: Muteops
+namespace: MuteOps
 term_code: D03-GOV-075
 status: candidate
 canonical_uri: "urn:namencora:d03:muteops"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Muteops
+  name: MuteOps
   termCode: D03-GOV-075
 ---
 
-# Muteops
+# MuteOps
 
 > **System Anchor**: `muteops.com`  
 > **Classification ID**: `D03-GOV-075`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Muteops",
+  "name": "MuteOps",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-075",
   "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",

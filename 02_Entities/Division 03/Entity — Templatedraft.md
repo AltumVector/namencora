@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "6. Auxiliary Neologisms & Drone Ops"
 category: "Queues, Dispatch & Operational Cores:"
-namespace: Templatedraft
+namespace: TemplateDraft
 term_code: D03-GOV-065
 status: candidate
 canonical_uri: "urn:namencora:d03:templatedraft"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Templatedraft
+  name: TemplateDraft
   termCode: D03-GOV-065
 ---
 
-# Templatedraft
+# TemplateDraft
 
 > **System Anchor**: `templatedraft.com`  
 > **Classification ID**: `D03-GOV-065`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Templatedraft",
+  "name": "TemplateDraft",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-065",
   "description": "Formal architectural primitive for queues, dispatch & operational cores: within 6. auxiliary neologisms & drone ops.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
 category: "Consensus Primitive"
-namespace: Caphops
+namespace: CaphOps
 term_code: D03-GOV-077
 status: candidate
 canonical_uri: "urn:namencora:d03:caphops"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Caphops
+  name: CaphOps
   termCode: D03-GOV-077
 ---
 
-# Caphops
+# CaphOps
 
 > **System Anchor**: `caphops.com`  
 > **Classification ID**: `D03-GOV-077`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Caphops",
+  "name": "CaphOps",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-077",
   "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",

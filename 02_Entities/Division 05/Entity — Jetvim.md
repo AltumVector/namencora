@@ -4,7 +4,7 @@ project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
 subsystem: "4. The Vim Micro-Kernel Execution Stack"
 category: "High-Throughput Node Clusters:"
-namespace: Jetvim
+namespace: JetVim
 term_code: D05-RUN-058
 status: candidate
 canonical_uri: "urn:namencora:d05:jetvim"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Jetvim
+  name: JetVim
   termCode: D05-RUN-058
 ---
 
-# Jetvim
+# JetVim
 
 > **System Anchor**: `jetvim.com`  
 > **Classification ID**: `D05-RUN-058`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Jetvim",
+  "name": "JetVim",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-058",
   "description": "Formal architectural primitive for high-throughput node clusters: within 4. the vim micro-kernel execution stack.",

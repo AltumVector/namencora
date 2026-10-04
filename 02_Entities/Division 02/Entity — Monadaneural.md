@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "4. Axiomatic Reasoning & Matrix Topologies"
 category: "Multi-Dimensional Neural Matrices:"
-namespace: Monadaneural
+namespace: MonadaNeural
 term_code: D02-COG-082
 status: candidate
 canonical_uri: "urn:namencora:d02:monadaneural"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Monadaneural
+  name: MonadaNeural
   termCode: D02-COG-082
 ---
 
-# Monadaneural
+# MonadaNeural
 
 > **System Anchor**: `monadaneural.com`  
 > **Classification ID**: `D02-COG-082`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Monadaneural",
+  "name": "MonadaNeural",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-082",
   "description": "Formal architectural primitive for multi-dimensional neural matrices: within 4. axiomatic reasoning & matrix topologies.",

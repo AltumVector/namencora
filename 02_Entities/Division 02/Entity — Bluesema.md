@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Semantic Cores & Routing:"
-namespace: Bluesema
+namespace: BlueSema
 term_code: D02-COG-028
 status: candidate
 canonical_uri: "urn:namencora:d02:bluesema"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Bluesema
+  name: BlueSema
   termCode: D02-COG-028
 ---
 
-# Bluesema
+# BlueSema
 
 > **System Anchor**: `bluesema.com`  
 > **Classification ID**: `D02-COG-028`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Bluesema",
+  "name": "BlueSema",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-028",
   "description": "Formal architectural primitive for semantic cores & routing: within 2. semantic runtime & knowledge representation.",

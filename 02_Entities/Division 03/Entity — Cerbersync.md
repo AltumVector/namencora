@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "3. Distributed State Synchronization"
 category: "Synchronization Protocols & Clocks:"
-namespace: Cerbersync
+namespace: CerberSync
 term_code: D03-GOV-026
 status: candidate
 canonical_uri: "urn:namencora:d03:cerbersync"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Cerbersync
+  name: CerberSync
   termCode: D03-GOV-026
 ---
 
-# Cerbersync
+# CerberSync
 
 > **System Anchor**: `cerbersync.com`  
 > **Classification ID**: `D03-GOV-026`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Cerbersync",
+  "name": "CerberSync",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-026",
   "description": "Formal architectural primitive for synchronization protocols & clocks: within 3. distributed state synchronization.",

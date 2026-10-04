@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Lexical Enclaves & Parsers:"
-namespace: Lexilogue
+namespace: LexiLogue
 term_code: D02-COG-036
 status: candidate
 canonical_uri: "urn:namencora:d02:lexilogue"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Lexilogue
+  name: LexiLogue
   termCode: D02-COG-036
 ---
 
-# Lexilogue
+# LexiLogue
 
 > **System Anchor**: `lexilogue.com`  
 > **Classification ID**: `D02-COG-036`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Lexilogue",
+  "name": "LexiLogue",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-036",
   "description": "Formal architectural primitive for lexical enclaves & parsers: within 2. semantic runtime & knowledge representation.",

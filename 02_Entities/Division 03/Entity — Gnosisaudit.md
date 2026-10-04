@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "4. Cryptographic Proof & Ledger Auditing"
 category: "Proof Generation & Audit Trails:"
-namespace: Gnosisaudit
+namespace: GnosisAudit
 term_code: D03-GOV-036
 status: candidate
 canonical_uri: "urn:namencora:d03:gnosisaudit"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Gnosisaudit
+  name: GnosisAudit
   termCode: D03-GOV-036
 ---
 
-# Gnosisaudit
+# GnosisAudit
 
 > **System Anchor**: `gnosisaudit.com`  
 > **Classification ID**: `D03-GOV-036`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Gnosisaudit",
+  "name": "GnosisAudit",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-036",
   "description": "Formal architectural primitive for proof generation & audit trails: within 4. cryptographic proof & ledger auditing.",

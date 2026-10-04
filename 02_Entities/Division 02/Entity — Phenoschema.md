@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
 category: "Formal Schemas & Validation:"
-namespace: Phenoschema
+namespace: PhenoSchema
 term_code: D02-COG-012
 status: candidate
 canonical_uri: "urn:namencora:d02:phenoschema"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Phenoschema
+  name: PhenoSchema
   termCode: D02-COG-012
 ---
 
-# Phenoschema
+# PhenoSchema
 
 > **System Anchor**: `phenoschema.com`  
 > **Classification ID**: `D02-COG-012`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Phenoschema",
+  "name": "PhenoSchema",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-012",
   "description": "Formal architectural primitive for formal schemas & validation: within 1. machine ontologies & taxonomic hierarchies.",

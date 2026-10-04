@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Analysis, Scanning & Metrics:"
-namespace: Semanticanalyticstools
+namespace: SemanticAnalyticsTools
 term_code: D02-COG-031
 status: candidate
 aliases:
@@ -17,11 +17,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semanticanalyticstools
+  name: SemanticAnalyticsTools
   termCode: D02-COG-031
 ---
 
-# Semanticanalyticstools
+# SemanticAnalyticsTools
 
 > **System Anchor**: `semanticanalyticstools.com`  
 > **Classification ID**: `D02-COG-031`  
@@ -41,7 +41,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semanticanalyticstools",
+  "name": "SemanticAnalyticsTools",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-031",
   "description": "Formal architectural primitive for analysis, scanning & metrics: within 2. semantic runtime & knowledge representation.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "6. Auxiliary Neologisms & Drone Ops"
 category: "Queues, Dispatch & Operational Cores:"
-namespace: Opsyslife
+namespace: OpsysLife
 term_code: D03-GOV-058
 status: candidate
 canonical_uri: "urn:namencora:d03:opsyslife"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Opsyslife
+  name: OpsysLife
   termCode: D03-GOV-058
 ---
 
-# Opsyslife
+# OpsysLife
 
 > **System Anchor**: `opsyslife.com`  
 > **Classification ID**: `D03-GOV-058`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Opsyslife",
+  "name": "OpsysLife",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-058",
   "description": "Formal architectural primitive for queues, dispatch & operational cores: within 6. auxiliary neologisms & drone ops.",

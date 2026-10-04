@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "3. Formal Verification & Evaluation Harness"
 category: "Bus & Transaction Conformance:"
-namespace: Axassay
+namespace: AxAssay
 term_code: D02-COG-059
 status: candidate
 canonical_uri: "urn:namencora:d02:axassay"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Axassay
+  name: AxAssay
   termCode: D02-COG-059
 ---
 
-# Axassay
+# AxAssay
 
 > **System Anchor**: `axassay.com`  
 > **Classification ID**: `D02-COG-059`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Axassay",
+  "name": "AxAssay",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-059",
   "description": "Formal architectural primitive for bus & transaction conformance: within 3. formal verification & evaluation harness.",

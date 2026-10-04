@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Lexical Enclaves & Parsers:"
-namespace: Lexifluid
+namespace: LexiFluid
 term_code: D02-COG-035
 status: candidate
 canonical_uri: "urn:namencora:d02:lexifluid"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Lexifluid
+  name: LexiFluid
   termCode: D02-COG-035
 ---
 
-# Lexifluid
+# LexiFluid
 
 > **System Anchor**: `lexifluid.com`  
 > **Classification ID**: `D02-COG-035`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Lexifluid",
+  "name": "LexiFluid",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-035",
   "description": "Formal architectural primitive for lexical enclaves & parsers: within 2. semantic runtime & knowledge representation.",

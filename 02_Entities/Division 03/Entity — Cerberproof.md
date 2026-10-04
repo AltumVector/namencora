@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "4. Cryptographic Proof & Ledger Auditing"
 category: "Proof Generation & Audit Trails:"
-namespace: Cerberproof
+namespace: CerberProof
 term_code: D03-GOV-032
 status: candidate
 canonical_uri: "urn:namencora:d03:cerberproof"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Cerberproof
+  name: CerberProof
   termCode: D03-GOV-032
 ---
 
-# Cerberproof
+# CerberProof
 
 > **System Anchor**: `cerberproof.com`  
 > **Classification ID**: `D03-GOV-032`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Cerberproof",
+  "name": "CerberProof",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-032",
   "description": "Formal architectural primitive for proof generation & audit trails: within 4. cryptographic proof & ledger auditing.",

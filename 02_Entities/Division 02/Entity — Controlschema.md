@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
 category: "Formal Schemas & Validation:"
-namespace: Controlschema
+namespace: ControlSchema
 term_code: D02-COG-009
 status: candidate
 canonical_uri: "urn:namencora:d02:controlschema"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Controlschema
+  name: ControlSchema
   termCode: D02-COG-009
 ---
 
-# Controlschema
+# ControlSchema
 
 > **System Anchor**: `controlschema.com`  
 > **Classification ID**: `D02-COG-009`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Controlschema",
+  "name": "ControlSchema",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-009",
   "description": "Formal architectural primitive for formal schemas & validation: within 1. machine ontologies & taxonomic hierarchies.",

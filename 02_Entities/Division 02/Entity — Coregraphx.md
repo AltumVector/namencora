@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
 category: "Knowledge & Lock Graphs:"
-namespace: Coregraphx
+namespace: CoreGraphX
 term_code: D02-COG-014
 status: candidate
 canonical_uri: "urn:namencora:d02:coregraphx"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Coregraphx
+  name: CoreGraphX
   termCode: D02-COG-014
 ---
 
-# Coregraphx
+# CoreGraphX
 
 > **System Anchor**: `coregraphx.com`  
 > **Classification ID**: `D02-COG-014`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Coregraphx",
+  "name": "CoreGraphX",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-014",
   "description": "Formal architectural primitive for knowledge & lock graphs: within 1. machine ontologies & taxonomic hierarchies.",

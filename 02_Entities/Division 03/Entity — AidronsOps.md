@@ -1,35 +1,39 @@
 ---
-type: entity
+type: alias
 project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
-category: "Consensus Primitive"
-namespace: Aidronsops
+category: "Defensive Namespace Resolution / Phonetic Collision Guard"
+namespace: AiDronsOps
 term_code: D03-GOV-082
 status: candidate
-canonical_uri: "urn:namencora:d03:aidronsops"
+canonical_target: AiDronesOps
+canonical_uri: urn:namencora:d03:aidronsops
 tags:
-  - entity
-  - namespace
+  - alias
+  - defensive-namespace
   - systems-governance
   - cohort-b
 schema_org:
-  "@type": DefinedTerm
-  name: Aidronsops
-  termCode: D03-GOV-082
+  "@context": "https://schema.org"
+  "@type": "DefinedTerm"
+  name: "AiDronsOps"
+  termCode: "D03-GOV-082"
+  inDefinedTermSet: "Division 03: Systems Governance & Consensus"
 ---
 
-# Aidronsops
+# AiDronsOps
 
-> **System Anchor**: `aidronsops.com`  
-> **Classification ID**: `D03-GOV-082`  
-> **Subsystem**: Systems Governance / Consensus Primitive
+> **System Anchor**: `aidronsops.com`
+> **Classification ID**: `D03-GOV-082`
+> **Canonical Target**: `AiDronesOps (D03-GOV-080)`
+> **Subsystem**: Systems Governance / Defensive Namespace Resolution
 
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур безпеки підсистеми **Systems Governance**. Реалізує детермінований арбітраж транзакцій та механізми переривання (circuit breakers).
+Детермінований захисний примітив (Defensive Namespace Mirror) множинної форми для канонічної специфікації AiDronesOps. Забезпечує збереження цілісності простору імен та відмовостійку резолюцію запитів при адресації операцій агентного флоту.
 
 ---
 
@@ -39,24 +43,10 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Aidronsops",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "name": "AiDronsOps",
   "termCode": "D03-GOV-082",
-  "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",
-  "additionalProperty": [
-    {
-      "name": "subsystem",
-      "value": "Systems Governance"
-    },
-    {
-      "name": "category",
-      "value": "Consensus Primitive"
-    },
-    {
-      "name": "canonicalUri",
-      "value": "urn:namencora:d03:aidronsops"
-    }
-  ]
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "sameAs": "https://namencora.com/d03/entity--aidronesops/"
 }
 ```
 
@@ -66,10 +56,11 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `Systems Governance` |
-| **Category Target** | `Consensus Primitive` |
-| **Canonical URI** | `urn:namencora:d03:aidronsops` |
-| **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
+| **Subsystem Tier** | Systems Governance |
+| **Category Target** | Defensive Namespace Resolution |
+| **Canonical URI** | urn:namencora:d03:aidronsops |
+| **Canonical Target URI** | urn:namencora:d03:aidronesops |
+| **Resolution Mode** | Deterministic Alias Forwarding |
 
 ---
-*Part of the Namencora Systems & Nomenclature Registry (Cohort B).*
+*Part of the Namencora Systems & Nomenclature Registry (Defensive Namespace Layer).*

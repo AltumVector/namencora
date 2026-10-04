@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "4. Applied Photonics, X-Ray & Signal Pulses"
 category: "X-Ray Guides & High-Frequency Pulses:"
-namespace: Cerberpulse
+namespace: CerberPulse
 term_code: D04-DYN-042
 status: candidate
 canonical_uri: "urn:namencora:d04:cerberpulse"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Cerberpulse
+  name: CerberPulse
   termCode: D04-DYN-042
 ---
 
-# Cerberpulse
+# CerberPulse
 
 > **System Anchor**: `cerberpulse.com`  
 > **Classification ID**: `D04-DYN-042`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Cerberpulse",
+  "name": "CerberPulse",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-042",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses: within 4. applied photonics, x-ray & signal pulses.",

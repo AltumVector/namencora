@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "4. Axiomatic Reasoning & Matrix Topologies"
 category: "Multi-Dimensional Neural Matrices:"
-namespace: Etaneural
+namespace: EtaNeural
 term_code: D02-COG-079
 status: candidate
 canonical_uri: "urn:namencora:d02:etaneural"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Etaneural
+  name: EtaNeural
   termCode: D02-COG-079
 ---
 
-# Etaneural
+# EtaNeural
 
 > **System Anchor**: `etaneural.com`  
 > **Classification ID**: `D02-COG-079`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Etaneural",
+  "name": "EtaNeural",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-079",
   "description": "Formal architectural primitive for multi-dimensional neural matrices: within 4. axiomatic reasoning & matrix topologies.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "4. Applied Photonics, X-Ray & Signal Pulses"
 category: "X-Ray Guides & High-Frequency Pulses:"
-namespace: Monadpulse
+namespace: MonadPulse
 term_code: D04-DYN-043
 status: candidate
 canonical_uri: "urn:namencora:d04:monadpulse"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Monadpulse
+  name: MonadPulse
   termCode: D04-DYN-043
 ---
 
-# Monadpulse
+# MonadPulse
 
 > **System Anchor**: `monadpulse.com`  
 > **Classification ID**: `D04-DYN-043`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Monadpulse",
+  "name": "MonadPulse",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-043",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses: within 4. applied photonics, x-ray & signal pulses.",

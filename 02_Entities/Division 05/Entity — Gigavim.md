@@ -4,7 +4,7 @@ project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
 subsystem: "4. The Vim Micro-Kernel Execution Stack"
 category: "High-Throughput Node Clusters:"
-namespace: Gigavim
+namespace: GigaVim
 term_code: D05-RUN-055
 status: candidate
 canonical_uri: "urn:namencora:d05:gigavim"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Gigavim
+  name: GigaVim
   termCode: D05-RUN-055
 ---
 
-# Gigavim
+# GigaVim
 
 > **System Anchor**: `gigavim.com`  
 > **Classification ID**: `D05-RUN-055`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Gigavim",
+  "name": "GigaVim",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-055",
   "description": "Formal architectural primitive for high-throughput node clusters: within 4. the vim micro-kernel execution stack.",

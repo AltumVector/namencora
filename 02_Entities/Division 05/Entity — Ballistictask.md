@@ -4,7 +4,7 @@ project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
 subsystem: "3. Event Runtimes & Execution Schedulers"
 category: "Schedulers, Task Loops & Pipelines:"
-namespace: Ballistictask
+namespace: BallisticTask
 term_code: D05-RUN-021
 status: candidate
 canonical_uri: "urn:namencora:d05:ballistictask"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Ballistictask
+  name: BallisticTask
   termCode: D05-RUN-021
 ---
 
-# Ballistictask
+# BallisticTask
 
 > **System Anchor**: `ballistictask.com`  
 > **Classification ID**: `D05-RUN-021`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Ballistictask",
+  "name": "BallisticTask",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-021",
   "description": "Formal architectural primitive for schedulers, task loops & pipelines: within 3. event runtimes & execution schedulers.",

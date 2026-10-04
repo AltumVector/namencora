@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "5. Auxiliary Lexical Neologisms"
 category: "Multi-Dimensional Neural Matrices:"
-namespace: Graphydian
+namespace: GraphYdian
 term_code: D02-COG-087
 status: candidate
 canonical_uri: "urn:namencora:d02:graphydian"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Graphydian
+  name: GraphYdian
   termCode: D02-COG-087
 ---
 
-# Graphydian
+# GraphYdian
 
 > **System Anchor**: `graphydian.com`  
 > **Classification ID**: `D02-COG-087`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Graphydian",
+  "name": "GraphYdian",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-087",
   "description": "Formal architectural primitive for multi-dimensional neural matrices: within 5. auxiliary lexical neologisms.",

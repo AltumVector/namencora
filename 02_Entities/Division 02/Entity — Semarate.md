@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Analysis, Scanning & Metrics:"
-namespace: Semarate
+namespace: SemaRate
 term_code: D02-COG-032
 status: candidate
 canonical_uri: "urn:namencora:d02:semarate"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semarate
+  name: SemaRate
   termCode: D02-COG-032
 ---
 
-# Semarate
+# SemaRate
 
 > **System Anchor**: `semarate.com`  
 > **Classification ID**: `D02-COG-032`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semarate",
+  "name": "SemaRate",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-032",
   "description": "Formal architectural primitive for analysis, scanning & metrics: within 2. semantic runtime & knowledge representation.",

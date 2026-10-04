@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
 category: "Consensus Primitive"
-namespace: Uxiops
+namespace: UxiOps
 term_code: D03-GOV-079
 status: candidate
 canonical_uri: "urn:namencora:d03:uxiops"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Uxiops
+  name: UxiOps
   termCode: D03-GOV-079
 ---
 
-# Uxiops
+# UxiOps
 
 > **System Anchor**: `uxiops.com`  
 > **Classification ID**: `D03-GOV-079`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Uxiops",
+  "name": "UxiOps",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-079",
   "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",

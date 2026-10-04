@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "3. Distributed State Synchronization"
 category: "Synchronization Protocols & Clocks:"
-namespace: Gschainsync
+namespace: GsChainSync
 term_code: D03-GOV-030
 status: candidate
 canonical_uri: "urn:namencora:d03:gschainsync"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Gschainsync
+  name: GsChainSync
   termCode: D03-GOV-030
 ---
 
-# Gschainsync
+# GsChainSync
 
 > **System Anchor**: `gschainsync.com`  
 > **Classification ID**: `D03-GOV-030`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Gschainsync",
+  "name": "GsChainSync",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-030",
   "description": "Formal architectural primitive for synchronization protocols & clocks: within 3. distributed state synchronization.",

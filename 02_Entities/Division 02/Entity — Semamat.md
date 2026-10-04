@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Semantic Cores & Routing:"
-namespace: Semamat
+namespace: SemaMat
 term_code: D02-COG-026
 status: candidate
 canonical_uri: "urn:namencora:d02:semamat"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semamat
+  name: SemaMat
   termCode: D02-COG-026
 ---
 
-# Semamat
+# SemaMat
 
 > **System Anchor**: `semamat.com`  
 > **Classification ID**: `D02-COG-026`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semamat",
+  "name": "SemaMat",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-026",
   "description": "Formal architectural primitive for semantic cores & routing: within 2. semantic runtime & knowledge representation.",

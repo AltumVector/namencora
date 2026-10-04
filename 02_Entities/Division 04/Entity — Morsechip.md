@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "3. Hardware Controllers & Bus Architectures"
 category: "I/O Engines & Silicon Primitives:"
-namespace: Morsechip
+namespace: MorseChip
 term_code: D04-DYN-032
 status: candidate
 canonical_uri: "urn:namencora:d04:morsechip"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Morsechip
+  name: MorseChip
   termCode: D04-DYN-032
 ---
 
-# Morsechip
+# MorseChip
 
 > **System Anchor**: `morsechip.com`  
 > **Classification ID**: `D04-DYN-032`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Morsechip",
+  "name": "MorseChip",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-032",
   "description": "Formal architectural primitive for i/o engines & silicon primitives: within 3. hardware controllers & bus architectures.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Analysis, Scanning & Metrics:"
-namespace: Semascan
+namespace: SemaScan
 term_code: D02-COG-029
 status: candidate
 canonical_uri: "urn:namencora:d02:semascan"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semascan
+  name: SemaScan
   termCode: D02-COG-029
 ---
 
-# Semascan
+# SemaScan
 
 > **System Anchor**: `semascan.com`  
 > **Classification ID**: `D02-COG-029`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semascan",
+  "name": "SemaScan",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-029",
   "description": "Formal architectural primitive for analysis, scanning & metrics: within 2. semantic runtime & knowledge representation.",

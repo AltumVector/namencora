@@ -4,7 +4,7 @@ project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
 subsystem: "5. Cross-Division Anchors"
 category: "High-Throughput Node Clusters:"
-namespace: Semavim
+namespace: SemaVim
 term_code: D05-RUN-063
 status: candidate
 canonical_uri: "urn:namencora:d05:semavim"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semavim
+  name: SemaVim
   termCode: D05-RUN-063
 ---
 
-# Semavim
+# SemaVim
 
 > **System Anchor**: `semavim.com`  
 > **Classification ID**: `D05-RUN-063`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semavim",
+  "name": "SemaVim",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-063",
   "description": "Formal architectural primitive for high-throughput node clusters: within 5. cross-division anchors.",

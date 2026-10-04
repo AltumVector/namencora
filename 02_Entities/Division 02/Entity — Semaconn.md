@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Semantic Cores & Routing:"
-namespace: Semaconn
+namespace: SemaConn
 term_code: D02-COG-021
 status: candidate
 canonical_uri: "urn:namencora:d02:semaconn"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semaconn
+  name: SemaConn
   termCode: D02-COG-021
 ---
 
-# Semaconn
+# SemaConn
 
 > **System Anchor**: `semaconn.com`  
 > **Classification ID**: `D02-COG-021`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semaconn",
+  "name": "SemaConn",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-021",
   "description": "Formal architectural primitive for semantic cores & routing: within 2. semantic runtime & knowledge representation.",

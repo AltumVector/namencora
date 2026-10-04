@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Semantic Cores & Routing:"
-namespace: Semafork
+namespace: SemaFork
 term_code: D02-COG-024
 status: candidate
 canonical_uri: "urn:namencora:d02:semafork"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semafork
+  name: SemaFork
   termCode: D02-COG-024
 ---
 
-# Semafork
+# SemaFork
 
 > **System Anchor**: `semafork.com`  
 > **Classification ID**: `D02-COG-024`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semafork",
+  "name": "SemaFork",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-024",
   "description": "Formal architectural primitive for semantic cores & routing: within 2. semantic runtime & knowledge representation.",

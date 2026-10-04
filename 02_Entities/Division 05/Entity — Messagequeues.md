@@ -4,7 +4,7 @@ project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
 subsystem: "1. Core Streaming Fabrics & Message Queues"
 category: "Category Standard Queues & Streams:"
-namespace: Messagequeues
+namespace: MessageQueues
 term_code: D05-RUN-001
 status: candidate
 canonical_uri: "urn:namencora:d05:messagequeues"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Messagequeues
+  name: MessageQueues
   termCode: D05-RUN-001
 ---
 
-# Messagequeues
+# MessageQueues
 
 > **System Anchor**: `messagequeues.com`  
 > **Classification ID**: `D05-RUN-001`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Messagequeues",
+  "name": "MessageQueues",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-001",
   "description": "Formal architectural primitive for category standard queues & streams: within 1. core streaming fabrics & message queues.",

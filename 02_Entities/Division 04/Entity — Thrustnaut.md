@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "5. Auxiliary Tooling Tier"
 category: "X-Ray Guides & High-Frequency Pulses:"
-namespace: Thrustnaut
+namespace: ThrustNaut
 term_code: D04-DYN-045
 status: candidate
 canonical_uri: "urn:namencora:d04:thrustnaut"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Thrustnaut
+  name: ThrustNaut
   termCode: D04-DYN-045
 ---
 
-# Thrustnaut
+# ThrustNaut
 
 > **System Anchor**: `thrustnaut.com`  
 > **Classification ID**: `D04-DYN-045`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Thrustnaut",
+  "name": "ThrustNaut",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-045",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses: within 5. auxiliary tooling tier.",

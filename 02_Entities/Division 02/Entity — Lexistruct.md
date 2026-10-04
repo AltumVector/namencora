@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
 category: "Formal Schemas & Validation:"
-namespace: Lexistruct
+namespace: LexiStruct
 term_code: D02-COG-010
 status: candidate
 canonical_uri: "urn:namencora:d02:lexistruct"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Lexistruct
+  name: LexiStruct
   termCode: D02-COG-010
 ---
 
-# Lexistruct
+# LexiStruct
 
 > **System Anchor**: `lexistruct.com`  
 > **Classification ID**: `D02-COG-010`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Lexistruct",
+  "name": "LexiStruct",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-010",
   "description": "Formal architectural primitive for formal schemas & validation: within 1. machine ontologies & taxonomic hierarchies.",

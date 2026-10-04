@@ -4,7 +4,7 @@ project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
 subsystem: "3. Event Runtimes & Execution Schedulers"
 category: "Schedulers, Task Loops & Pipelines:"
-namespace: Traxruntime
+namespace: TraxRuntime
 term_code: D05-RUN-020
 status: candidate
 canonical_uri: "urn:namencora:d05:traxruntime"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Traxruntime
+  name: TraxRuntime
   termCode: D05-RUN-020
 ---
 
-# Traxruntime
+# TraxRuntime
 
 > **System Anchor**: `traxruntime.com`  
 > **Classification ID**: `D05-RUN-020`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Traxruntime",
+  "name": "TraxRuntime",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-020",
   "description": "Formal architectural primitive for schedulers, task loops & pipelines: within 3. event runtimes & execution schedulers.",

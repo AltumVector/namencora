@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
 category: "Consensus Primitive"
-namespace: Opschip
+namespace: OpsChip
 term_code: D03-GOV-069
 status: candidate
 canonical_uri: "urn:namencora:d03:opschip"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Opschip
+  name: OpsChip
   termCode: D03-GOV-069
 ---
 
-# Opschip
+# OpsChip
 
 > **System Anchor**: `opschip.com`  
 > **Classification ID**: `D03-GOV-069`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Opschip",
+  "name": "OpsChip",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-069",
   "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",

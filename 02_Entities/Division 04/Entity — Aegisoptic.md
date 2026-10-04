@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "4. Applied Photonics, X-Ray & Signal Pulses"
 category: "X-Ray Guides & High-Frequency Pulses:"
-namespace: Aegisoptic
+namespace: AegisOptic
 term_code: D04-DYN-039
 status: candidate
 canonical_uri: "urn:namencora:d04:aegisoptic"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Aegisoptic
+  name: AegisOptic
   termCode: D04-DYN-039
 ---
 
-# Aegisoptic
+# AegisOptic
 
 > **System Anchor**: `aegisoptic.com`  
 > **Classification ID**: `D04-DYN-039`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Aegisoptic",
+  "name": "AegisOptic",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-039",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses: within 4. applied photonics, x-ray & signal pulses.",

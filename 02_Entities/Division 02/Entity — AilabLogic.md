@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "4. Axiomatic Reasoning & Matrix Topologies"
 category: "Axiomatic & Postulate Engines:"
-namespace: AilabLogic
+namespace: AiLabLogic
 term_code: D02-COG-071
 status: candidate
 canonical_uri: "urn:namencora:d02:ailablogic"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: AilabLogic
+  name: AiLabLogic
   termCode: D02-COG-071
 ---
 
-# AilabLogic
+# AiLabLogic
 
 > **System Anchor**: `ailablogic.com`  
 > **Classification ID**: `D02-COG-071`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "AilabLogic",
+  "name": "AiLabLogic",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-071",
   "description": "Formal architectural primitive for axiomatic & postulate engines: within 4. axiomatic reasoning & matrix topologies.",

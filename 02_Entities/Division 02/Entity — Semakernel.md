@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "2. Semantic Runtime & Knowledge Representation"
 category: "Semantic Cores & Routing:"
-namespace: Semakernel
+namespace: SemaKernel
 term_code: D02-COG-019
 status: candidate
 canonical_uri: "urn:namencora:d02:semakernel"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semakernel
+  name: SemaKernel
   termCode: D02-COG-019
 ---
 
-# Semakernel
+# SemaKernel
 
 > **System Anchor**: `semakernel.com`  
 > **Classification ID**: `D02-COG-019`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semakernel",
+  "name": "SemaKernel",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-019",
   "description": "Formal architectural primitive for semantic cores & routing: within 2. semantic runtime & knowledge representation.",

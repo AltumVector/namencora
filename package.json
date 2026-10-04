@@ -1,0 +1,17 @@
+{
+  "name": "namencora-registry",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "sync": "python3 sync_docs.py",
+    "dev": "python3 sync_docs.py && astro dev",
+    "start": "python3 sync_docs.py && astro dev",
+    "build": "python3 sync_docs.py && astro build && python3 -c 'import sync_docs; sync_docs.generate_sitemap()'",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.28.0",
+    "astro": "^4.16.0",
+    "sharp": "^0.33.5"
+  }
+}

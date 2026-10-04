@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "6. Auxiliary Neologisms & Drone Ops"
 category: "Queues, Dispatch & Operational Cores:"
-namespace: Opsylyn
+namespace: OpsYlyn
 term_code: D03-GOV-057
 status: candidate
 canonical_uri: "urn:namencora:d03:opsylyn"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Opsylyn
+  name: OpsYlyn
   termCode: D03-GOV-057
 ---
 
-# Opsylyn
+# OpsYlyn
 
 > **System Anchor**: `opsylyn.com`  
 > **Classification ID**: `D03-GOV-057`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Opsylyn",
+  "name": "OpsYlyn",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-057",
   "description": "Formal architectural primitive for queues, dispatch & operational cores: within 6. auxiliary neologisms & drone ops.",

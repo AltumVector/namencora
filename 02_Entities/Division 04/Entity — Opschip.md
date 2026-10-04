@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "3. Hardware Controllers & Bus Architectures"
 category: "I/O Engines & Silicon Primitives:"
-namespace: Opschip
+namespace: OpsChip
 term_code: D04-DYN-023
 status: candidate
 canonical_uri: "urn:namencora:d04:opschip"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Opschip
+  name: OpsChip
   termCode: D04-DYN-023
 ---
 
-# Opschip
+# OpsChip
 
 > **System Anchor**: `opschip.com`  
 > **Classification ID**: `D04-DYN-023`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Opschip",
+  "name": "OpsChip",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-023",
   "description": "Formal architectural primitive for i/o engines & silicon primitives: within 3. hardware controllers & bus architectures.",

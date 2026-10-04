@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "3. Distributed State Synchronization"
 category: "Synchronization Protocols & Clocks:"
-namespace: Syncdator
+namespace: SyncDator
 term_code: D03-GOV-029
 status: candidate
 canonical_uri: "urn:namencora:d03:syncdator"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Syncdator
+  name: SyncDator
   termCode: D03-GOV-029
 ---
 
-# Syncdator
+# SyncDator
 
 > **System Anchor**: `syncdator.com`  
 > **Classification ID**: `D03-GOV-029`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Syncdator",
+  "name": "SyncDator",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-029",
   "description": "Formal architectural primitive for synchronization protocols & clocks: within 3. distributed state synchronization.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "4. Axiomatic Reasoning & Matrix Topologies"
 category: "Axiomatic & Postulate Engines:"
-namespace: Logickeyai
+namespace: LogicKeyAI
 term_code: D02-COG-072
 status: candidate
 canonical_uri: "urn:namencora:d02:logickeyai"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Logickeyai
+  name: LogicKeyAI
   termCode: D02-COG-072
 ---
 
-# Logickeyai
+# LogicKeyAI
 
 > **System Anchor**: `logickeyai.com`  
 > **Classification ID**: `D02-COG-072`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Logickeyai",
+  "name": "LogicKeyAI",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-072",
   "description": "Formal architectural primitive for axiomatic & postulate engines: within 4. axiomatic reasoning & matrix topologies.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "2. Differential Geometry & Manifold Warping"
 category: "Computational Geometry & Surface Deformation:"
-namespace: Surfacewarper
+namespace: SurfaceWarper
 term_code: D04-DYN-010
 status: candidate
 canonical_uri: "urn:namencora:d04:surfacewarper"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Surfacewarper
+  name: SurfaceWarper
   termCode: D04-DYN-010
 ---
 
-# Surfacewarper
+# SurfaceWarper
 
 > **System Anchor**: `surfacewarper.com`  
 > **Classification ID**: `D04-DYN-010`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Surfacewarper",
+  "name": "SurfaceWarper",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-010",
   "description": "Formal architectural primitive for computational geometry & surface deformation: within 2. differential geometry & manifold warping.",

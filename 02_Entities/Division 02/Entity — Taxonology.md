@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
 category: "Core Taxonomic Engines:"
-namespace: Taxonology
+namespace: TaxonOlogy
 term_code: D02-COG-001
 status: candidate
 canonical_uri: "urn:namencora:d02:taxonology"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Taxonology
+  name: TaxonOlogy
   termCode: D02-COG-001
 ---
 
-# Taxonology
+# TaxonOlogy
 
 > **System Anchor**: `taxonology.com`  
 > **Classification ID**: `D02-COG-001`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Taxonology",
+  "name": "TaxonOlogy",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-001",
   "description": "Formal architectural primitive for core taxonomic engines: within 1. machine ontologies & taxonomic hierarchies.",

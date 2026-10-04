@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "2. Differential Geometry & Manifold Warping"
 category: "Computational Geometry & Surface Deformation:"
-namespace: Gradientfold
+namespace: GradientFold
 term_code: D04-DYN-015
 status: candidate
 canonical_uri: "urn:namencora:d04:gradientfold"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Gradientfold
+  name: GradientFold
   termCode: D04-DYN-015
 ---
 
-# Gradientfold
+# GradientFold
 
 > **System Anchor**: `gradientfold.com`  
 > **Classification ID**: `D04-DYN-015`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Gradientfold",
+  "name": "GradientFold",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-015",
   "description": "Formal architectural primitive for computational geometry & surface deformation: within 2. differential geometry & manifold warping.",

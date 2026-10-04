@@ -4,7 +4,7 @@ project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
 subsystem: "4. The Vim Micro-Kernel Execution Stack"
 category: "Compute Units & Mathematical Cores:"
-namespace: Eigenvim
+namespace: EigenVim
 term_code: D05-RUN-034
 status: candidate
 canonical_uri: "urn:namencora:d05:eigenvim"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Eigenvim
+  name: EigenVim
   termCode: D05-RUN-034
 ---
 
-# Eigenvim
+# EigenVim
 
 > **System Anchor**: `eigenvim.com`  
 > **Classification ID**: `D05-RUN-034`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Eigenvim",
+  "name": "EigenVim",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-034",
   "description": "Formal architectural primitive for compute units & mathematical cores: within 4. the vim micro-kernel execution stack.",

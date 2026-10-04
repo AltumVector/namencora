@@ -4,7 +4,7 @@ project: namencora
 division: "Division 04: Computational Physics & Dynamics"
 subsystem: "2. Differential Geometry & Manifold Warping"
 category: "Computational Geometry & Surface Deformation:"
-namespace: Gradientwarp
+namespace: GradientWarp
 term_code: D04-DYN-014
 status: candidate
 canonical_uri: "urn:namencora:d04:gradientwarp"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Gradientwarp
+  name: GradientWarp
   termCode: D04-DYN-014
 ---
 
-# Gradientwarp
+# GradientWarp
 
 > **System Anchor**: `gradientwarp.com`  
 > **Classification ID**: `D04-DYN-014`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Gradientwarp",
+  "name": "GradientWarp",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-014",
   "description": "Formal architectural primitive for computational geometry & surface deformation: within 2. differential geometry & manifold warping.",

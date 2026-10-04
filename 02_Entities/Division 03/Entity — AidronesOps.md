@@ -3,8 +3,8 @@ type: entity
 project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
-category: "Consensus Primitive"
-namespace: Aidronesops
+category: "Autonomous Fleet Governance / Drone Operations Policy"
+namespace: AiDronesOps
 term_code: D03-GOV-080
 status: candidate
 canonical_uri: "urn:namencora:d03:aidronesops"
@@ -15,21 +15,21 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Aidronesops
+  name: AiDronesOps
   termCode: D03-GOV-080
 ---
 
-# Aidronesops
+# AiDronesOps
 
 > **System Anchor**: `aidronesops.com`  
 > **Classification ID**: `D03-GOV-080`  
-> **Subsystem**: Systems Governance / Consensus Primitive
+> **Subsystem**: Systems Governance / Autonomous Fleet Governance
 
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур безпеки підсистеми **Systems Governance**. Реалізує детермінований арбітраж транзакцій та механізми переривання (circuit breakers).
+Керуючий примітив та контур безпеки автономних польотних місій. Забезпечує детерміновану верифікацію польотних регламентів, авторизацію доступу дронів до повітряних коридорів та координацію операційних ролей.
 
 ---
 
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Aidronesops",
+  "name": "AiDronesOps",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-080",
   "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",

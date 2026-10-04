@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "5. Auxiliary Lexical Neologisms"
 category: "Multi-Dimensional Neural Matrices:"
-namespace: Semantuda
+namespace: SemanTuda
 term_code: D02-COG-091
 status: candidate
 canonical_uri: "urn:namencora:d02:semantuda"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Semantuda
+  name: SemanTuda
   termCode: D02-COG-091
 ---
 
-# Semantuda
+# SemanTuda
 
 > **System Anchor**: `semantuda.com`  
 > **Classification ID**: `D02-COG-091`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Semantuda",
+  "name": "SemanTuda",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-091",
   "description": "Formal architectural primitive for multi-dimensional neural matrices: within 5. auxiliary lexical neologisms.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
 subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
 category: "Core Taxonomic Engines:"
-namespace: Taxonior
+namespace: TaxonIor
 term_code: D02-COG-008
 status: candidate
 canonical_uri: "urn:namencora:d02:taxonior"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Taxonior
+  name: TaxonIor
   termCode: D02-COG-008
 ---
 
-# Taxonior
+# TaxonIor
 
 > **System Anchor**: `taxonior.com`  
 > **Classification ID**: `D02-COG-008`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Taxonior",
+  "name": "TaxonIor",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-008",
   "description": "Formal architectural primitive for core taxonomic engines: within 1. machine ontologies & taxonomic hierarchies.",

@@ -4,7 +4,7 @@ project: namencora
 division: "Division 03: Systems Governance & Consensus"
 subsystem: "Systems Governance"
 category: "Consensus Primitive"
-namespace: Monadaops
+namespace: MonadaOps
 term_code: D03-GOV-074
 status: candidate
 canonical_uri: "urn:namencora:d03:monadaops"
@@ -15,11 +15,11 @@ tags:
   - cohort-b
 schema_org:
   "@type": DefinedTerm
-  name: Monadaops
+  name: MonadaOps
   termCode: D03-GOV-074
 ---
 
-# Monadaops
+# MonadaOps
 
 > **System Anchor**: `monadaops.com`  
 > **Classification ID**: `D03-GOV-074`  
@@ -39,7 +39,7 @@ schema_org:
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Monadaops",
+  "name": "MonadaOps",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-074",
   "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",
