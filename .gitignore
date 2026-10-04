@@ -7,6 +7,7 @@
 Thumbs.db
 *.tmp
 
+<<<<<<< HEAD
 # Raw candidate backlog (Cohort B source left out of public repo)
 02_Entities/Candidates_Cohort_B.md
 *.csv
@@ -16,3 +17,8 @@ Thumbs.db
 node_modules/
 dist/
 .astro/
+=======
+# jetbrains setting folder
+.idea/
+Domain_List*.csv
+>>>>>>> ef94b14 (chore: ignore raw domain CSV files)
