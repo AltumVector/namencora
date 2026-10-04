@@ -3,8 +3,8 @@ title: "BallisticCache (D01-STG-005)"
 type: entity
 project: namencora
 division: "Division 01: Storage Engines & Memory Topologies"
-subsystem: "1. Deep Storage & Hardware Substrates"
-category: "L1/L2 In-Memory Acceleration:"
+subsystem: "Deep Storage & Hardware Substrates"
+category: "L1/L2 In-Memory Acceleration"
 namespace: BallisticCache
 term_code: D01-STG-005
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D01-STG-005
 ---> **System Anchor**: `ballisticcache.com`  
 > **Classification ID**: `D01-STG-005`  
-> **Subsystem**: 1. Deep Storage & Hardware Substrates / L1/L2 In-Memory Acceleration:
-
+> **Subsystem**: Deep Storage & Hardware Substrates / L1/L2 In-Memory Acceleration
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Архітектурний примітив підсистеми **1. Deep Storage & Hardware Substrates** (категорія: *L1/L2 In-Memory Acceleration:*). Забезпечує детерміновану роботу контуру зберігання та обробки станів.
+Distributed persistence and storage tier primitive for the Deep Storage & Hardware Substrates subsystem (category: L1/L2 In-Memory Acceleration). Enforces deterministic state retention, cache coherency, and transactional replication topologies.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "BallisticCache",
   "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
   "termCode": "D01-STG-005",
-  "description": "Formal architectural primitive for l1/l2 in-memory acceleration: within 1. deep storage & hardware substrates.",
+  "description": "Formal architectural primitive for l1/l2 in-memory acceleration.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "1. Deep Storage & Hardware Substrates"
+      "value": "Deep Storage & Hardware Substrates"
     },
     {
       "name": "category",
-      "value": "L1/L2 In-Memory Acceleration:"
+      "value": "L1/L2 In-Memory Acceleration"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `1. Deep Storage & Hardware Substrates` |
-| **Category Target** | `L1/L2 In-Memory Acceleration:` |
+| **Subsystem Tier** | `Deep Storage & Hardware Substrates` |
+| **Category Target** | `L1/L2 In-Memory Acceleration` |
 | **Canonical URI** | `urn:namencora:d01:ballisticcache` |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 

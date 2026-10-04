@@ -3,8 +3,8 @@ title: "SemanticAnalyticsTools (D02-COG-031)"
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "2. Semantic Runtime & Knowledge Representation"
-category: "Analysis, Scanning & Metrics:"
+subsystem: "Semantic Runtime & Knowledge Representation"
+category: "Analysis, Scanning & Metrics"
 namespace: SemanticAnalyticsTools
 term_code: D02-COG-031
 status: candidate
@@ -22,13 +22,12 @@ schema_org:
   termCode: D02-COG-031
 ---> **System Anchor**: `semanticanalyticstools.com`  
 > **Classification ID**: `D02-COG-031`  
-> **Subsystem**: 2. Semantic Runtime & Knowledge Representation / Analysis, Scanning & Metrics:
-
+> **Subsystem**: Semantic Runtime & Knowledge Representation / Analysis, Scanning & Metrics
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **2. Semantic Runtime & Knowledge Representation** (категорія: *Analysis, Scanning & Metrics:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledge Representation subsystem (category: Analysis, Scanning & Metrics). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -41,15 +40,15 @@ schema_org:
   "name": "SemanticAnalyticsTools",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-031",
-  "description": "Formal architectural primitive for analysis, scanning & metrics: within 2. semantic runtime & knowledge representation.",
+  "description": "Formal architectural primitive for analysis, scanning & metrics.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "2. Semantic Runtime & Knowledge Representation"
+      "value": "Semantic Runtime & Knowledge Representation"
     },
     {
       "name": "category",
-      "value": "Analysis, Scanning & Metrics:"
+      "value": "Analysis, Scanning & Metrics"
     },
     {
       "name": "canonicalUri",
@@ -65,8 +64,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `2. Semantic Runtime & Knowledge Representation` |
-| **Category Target** | `Analysis, Scanning & Metrics:` |
+| **Subsystem Tier** | `Semantic Runtime & Knowledge Representation` |
+| **Category Target** | `Analysis, Scanning & Metrics` |
 | **Canonical URI** | `urn:namencora:d02:semanticanalyticstools` |
 | **Network Alias** | `semanticanalysistools.com` (Typo / Legacy Redirect) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |

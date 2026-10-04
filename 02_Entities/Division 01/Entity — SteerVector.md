@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 01: Storage Engines & Memory Topologies"
-subsystem: "2. High-Dimensional Vector Runtime"
-category: "Steering & Semantic Trajectory:"
+subsystem: "High-Dimensional Vector Runtime"
+category: "Steering & Semantic Trajectory"
 namespace: SteerVector
 term_code: D01-STG-021
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `steervector.com`  
 > **Classification ID**: `D01-STG-021`  
-> **Subsystem**: 2. High-Dimensional Vector Runtime / Steering & Semantic Trajectory:
-
+> **Subsystem**: High-Dimensional Vector Runtime / Steering & Semantic Trajectory
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Архітектурний примітив підсистеми **2. High-Dimensional Vector Runtime** (категорія: *Steering & Semantic Trajectory:*). Забезпечує детерміновану роботу контуру зберігання та обробки станів.
+Distributed persistence and storage tier primitive for the High-Dimensional Vector Runtime subsystem (category: Steering & Semantic Trajectory). Enforces deterministic state retention, cache coherency, and transactional replication topologies.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "SteerVector",
   "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
   "termCode": "D01-STG-021",
-  "description": "Formal architectural primitive for steering & semantic trajectory: within 2. high-dimensional vector runtime.",
+  "description": "Formal architectural primitive for steering & semantic trajectory.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "2. High-Dimensional Vector Runtime"
+      "value": "High-Dimensional Vector Runtime"
     },
     {
       "name": "category",
-      "value": "Steering & Semantic Trajectory:"
+      "value": "Steering & Semantic Trajectory"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `2. High-Dimensional Vector Runtime` |
-| **Category Target** | `Steering & Semantic Trajectory:` |
+| **Subsystem Tier** | `High-Dimensional Vector Runtime` |
+| **Category Target** | `Steering & Semantic Trajectory` |
 | **Canonical URI** | `urn:namencora:d01:steervector` |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 

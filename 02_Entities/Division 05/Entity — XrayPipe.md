@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
-subsystem: "5. Cross-Division Anchors"
-category: "High-Throughput Node Clusters:"
+subsystem: "Cross-Division Anchors"
+category: "High-Throughput Node Clusters"
 namespace: XrayPipe
 term_code: D05-RUN-069
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `xraypipe.com`  
 > **Classification ID**: `D05-RUN-069`  
-> **Subsystem**: 5. Cross-Division Anchors / High-Throughput Node Clusters:
-
+> **Subsystem**: Cross-Division Anchors / High-Throughput Node Clusters
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Виконавчий та потоковий примітив підсистеми **5. Cross-Division Anchors** (категорія: *High-Throughput Node Clusters:*). Забезпечує конвеєрну маршрутизацію транзакцій, нульове копіювання при передачі подій (zero-allocation messaging) та диспетчеризацію задач реального часу.
+Distributed systems and infrastructure primitive for the Cross-Division Anchors subsystem (category: High-Throughput Node Clusters). Coordinates high-throughput asynchronous pipelines, node synchronization, and fault-tolerant telemetry.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "XrayPipe",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-069",
-  "description": "Formal architectural primitive for high-throughput node clusters: within 5. cross-division anchors.",
+  "description": "Formal architectural primitive for high-throughput node clusters.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "5. Cross-Division Anchors"
+      "value": "Cross-Division Anchors"
     },
     {
       "name": "category",
-      "value": "High-Throughput Node Clusters:"
+      "value": "High-Throughput Node Clusters"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `5. Cross-Division Anchors` |
-| **Category Target** | `High-Throughput Node Clusters:` |
+| **Subsystem Tier** | `Cross-Division Anchors` |
+| **Category Target** | `High-Throughput Node Clusters` |
 | **Canonical URI** | `urn:namencora:d05:xraypipe` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
 

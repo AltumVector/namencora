@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
-subsystem: "1. Core Streaming Fabrics & Message Queues"
-category: "Category Standard Queues & Streams:"
+subsystem: "Core Streaming Fabrics & Message Queues"
+category: "Category Standard Queues & Streams"
 namespace: StreamInfer
 term_code: D05-RUN-006
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `streaminfer.com`  
 > **Classification ID**: `D05-RUN-006`  
-> **Subsystem**: 1. Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams:
-
+> **Subsystem**: Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Виконавчий та потоковий примітив підсистеми **1. Core Streaming Fabrics & Message Queues** (категорія: *Category Standard Queues & Streams:*). Забезпечує конвеєрну маршрутизацію транзакцій, нульове копіювання при передачі подій (zero-allocation messaging) та диспетчеризацію задач реального часу.
+Distributed systems and infrastructure primitive for the Core Streaming Fabrics & Message Queues subsystem (category: Category Standard Queues & Streams). Coordinates high-throughput asynchronous pipelines, node synchronization, and fault-tolerant telemetry.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "StreamInfer",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-006",
-  "description": "Formal architectural primitive for category standard queues & streams: within 1. core streaming fabrics & message queues.",
+  "description": "Formal architectural primitive for category standard queues & streams.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "1. Core Streaming Fabrics & Message Queues"
+      "value": "Core Streaming Fabrics & Message Queues"
     },
     {
       "name": "category",
-      "value": "Category Standard Queues & Streams:"
+      "value": "Category Standard Queues & Streams"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `1. Core Streaming Fabrics & Message Queues` |
-| **Category Target** | `Category Standard Queues & Streams:` |
+| **Subsystem Tier** | `Core Streaming Fabrics & Message Queues` |
+| **Category Target** | `Category Standard Queues & Streams` |
 | **Canonical URI** | `urn:namencora:d05:streaminfer` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
 

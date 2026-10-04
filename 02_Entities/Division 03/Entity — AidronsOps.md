@@ -28,12 +28,11 @@ schema_org:
 > **Classification ID**: `D03-GOV-082`
 > **Canonical Target**: `AiDronesOps (D03-GOV-080)`
 > **Subsystem**: Systems Governance / Defensive Namespace Resolution
-
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Детермінований захисний примітив (Defensive Namespace Mirror) множинної форми для канонічної специфікації AiDronesOps. Забезпечує збереження цілісності простору імен та відмовостійку резолюцію запитів при адресації операцій агентного флоту.
+Deterministic defensive namespace mirror (plural form) for the canonical AiDronesOps specification. Preserves namespace integrity and provides fault-tolerant request resolution across autonomous agent fleet operations.
 
 ---
 

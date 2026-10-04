@@ -3,8 +3,8 @@ title: "VimChip (D04-DYN-022)"
 type: entity
 project: namencora
 division: "Division 04: Computational Physics & Dynamics"
-subsystem: "3. Hardware Controllers & Bus Architectures"
-category: "I/O Engines & Silicon Primitives:"
+subsystem: "Hardware Controllers & Bus Architectures"
+category: "I/O Engines & Silicon Primitives"
 namespace: VimChip
 term_code: D04-DYN-022
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D04-DYN-022
 ---> **System Anchor**: `vimchip.com`  
 > **Classification ID**: `D04-DYN-022`  
-> **Subsystem**: 3. Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives:
-
+> **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Фізико-математичний та динамічний примітив підсистеми **3. Hardware Controllers & Bus Architectures** (категорія: *I/O Engines & Silicon Primitives:*). Забезпечує моделювання фазових переходів, операторів нелінійної динаміки, розрахунку градієнтів стану та детермінованої дисипації ентропії.
+Execution runtime and interface boundary primitive for the Hardware Controllers & Bus Architectures subsystem (category: I/O Engines & Silicon Primitives). Governs secure ingress validation, schema transformation, and low-latency interaction protocols.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "VimChip",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-022",
-  "description": "Formal architectural primitive for i/o engines & silicon primitives: within 3. hardware controllers & bus architectures.",
+  "description": "Formal architectural primitive for i/o engines & silicon primitives.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "3. Hardware Controllers & Bus Architectures"
+      "value": "Hardware Controllers & Bus Architectures"
     },
     {
       "name": "category",
-      "value": "I/O Engines & Silicon Primitives:"
+      "value": "I/O Engines & Silicon Primitives"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `3. Hardware Controllers & Bus Architectures` |
-| **Category Target** | `I/O Engines & Silicon Primitives:` |
+| **Subsystem Tier** | `Hardware Controllers & Bus Architectures` |
+| **Category Target** | `I/O Engines & Silicon Primitives` |
 | **Canonical URI** | `urn:namencora:d04:vimchip` |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 

@@ -24,12 +24,11 @@ schema_org:
 > **System Anchor**: `monadaops.com`  
 > **Classification ID**: `D03-GOV-074`  
 > **Subsystem**: Systems Governance / Consensus Primitive
-
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур безпеки підсистеми **Systems Governance**. Реалізує детермінований арбітраж транзакцій та механізми переривання (circuit breakers).
+Architectural governance and control primitive for the Systems Governance subsystem (category: Consensus Primitive). Implements deterministic transaction arbitration, circuit breaking mechanisms, and consensus policy balancing.
 
 ---
 
@@ -42,7 +41,7 @@ schema_org:
   "name": "MonadaOps",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-074",
-  "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",
+  "description": "Formal architectural primitive for consensus primitive.",
   "additionalProperty": [
     {
       "name": "subsystem",

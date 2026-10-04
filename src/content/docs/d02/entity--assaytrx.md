@@ -3,8 +3,8 @@ title: "AssayTrx (D02-COG-055)"
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "3. Formal Verification & Evaluation Harness"
-category: "Bus & Transaction Conformance:"
+subsystem: "Formal Verification & Evaluation Harness"
+category: "Bus & Transaction Conformance"
 namespace: AssayTrx
 term_code: D02-COG-055
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D02-COG-055
 ---> **System Anchor**: `assaytrx.com`  
 > **Classification ID**: `D02-COG-055`  
-> **Subsystem**: 3. Formal Verification & Evaluation Harness / Bus & Transaction Conformance:
-
+> **Subsystem**: Formal Verification & Evaluation Harness / Bus & Transaction Conformance
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **3. Formal Verification & Evaluation Harness** (категорія: *Bus & Transaction Conformance:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Formal Verification & Evaluation Harness subsystem (category: Bus & Transaction Conformance). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "AssayTrx",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-055",
-  "description": "Formal architectural primitive for bus & transaction conformance: within 3. formal verification & evaluation harness.",
+  "description": "Formal architectural primitive for bus & transaction conformance.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "3. Formal Verification & Evaluation Harness"
+      "value": "Formal Verification & Evaluation Harness"
     },
     {
       "name": "category",
-      "value": "Bus & Transaction Conformance:"
+      "value": "Bus & Transaction Conformance"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `3. Formal Verification & Evaluation Harness` |
-| **Category Target** | `Bus & Transaction Conformance:` |
+| **Subsystem Tier** | `Formal Verification & Evaluation Harness` |
+| **Category Target** | `Bus & Transaction Conformance` |
 | **Canonical URI** | `urn:namencora:d02:assaytrx` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

@@ -3,8 +3,8 @@ title: "TaxonOlogy (D02-COG-001)"
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
-category: "Core Taxonomic Engines:"
+subsystem: "Machine Ontologies & Taxonomic Hierarchies"
+category: "Core Taxonomic Engines"
 namespace: TaxonOlogy
 term_code: D02-COG-001
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D02-COG-001
 ---> **System Anchor**: `taxonology.com`  
 > **Classification ID**: `D02-COG-001`  
-> **Subsystem**: 1. Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines:
-
+> **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **1. Machine Ontologies & Taxonomic Hierarchies** (категорія: *Core Taxonomic Engines:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Machine Ontologies & Taxonomic Hierarchies subsystem (category: Core Taxonomic Engines). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "TaxonOlogy",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-001",
-  "description": "Formal architectural primitive for core taxonomic engines: within 1. machine ontologies & taxonomic hierarchies.",
+  "description": "Formal architectural primitive for core taxonomic engines.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "1. Machine Ontologies & Taxonomic Hierarchies"
+      "value": "Machine Ontologies & Taxonomic Hierarchies"
     },
     {
       "name": "category",
-      "value": "Core Taxonomic Engines:"
+      "value": "Core Taxonomic Engines"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `1. Machine Ontologies & Taxonomic Hierarchies` |
-| **Category Target** | `Core Taxonomic Engines:` |
+| **Subsystem Tier** | `Machine Ontologies & Taxonomic Hierarchies` |
+| **Category Target** | `Core Taxonomic Engines` |
 | **Canonical URI** | `urn:namencora:d02:taxonology` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

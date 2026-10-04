@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 01: Storage Engines & Memory Topologies"
-subsystem: "1. Deep Storage & Hardware Substrates"
-category: "Core Indexing Engines:"
+subsystem: "Deep Storage & Hardware Substrates"
+category: "Core Indexing Engines"
 namespace: MonadaIndex
 term_code: D01-STG-003
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `monadaindex.com`  
 > **Classification ID**: `D01-STG-003`  
-> **Subsystem**: 1. Deep Storage & Hardware Substrates / Core Indexing Engines:
-
+> **Subsystem**: Deep Storage & Hardware Substrates / Core Indexing Engines
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Архітектурний примітив підсистеми **1. Deep Storage & Hardware Substrates** (категорія: *Core Indexing Engines:*). Забезпечує детерміновану роботу контуру зберігання та обробки станів.
+Distributed persistence and storage tier primitive for the Deep Storage & Hardware Substrates subsystem (category: Core Indexing Engines). Enforces deterministic state retention, cache coherency, and transactional replication topologies.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "MonadaIndex",
   "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
   "termCode": "D01-STG-003",
-  "description": "Formal architectural primitive for core indexing engines: within 1. deep storage & hardware substrates.",
+  "description": "Formal architectural primitive for core indexing engines.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "1. Deep Storage & Hardware Substrates"
+      "value": "Deep Storage & Hardware Substrates"
     },
     {
       "name": "category",
-      "value": "Core Indexing Engines:"
+      "value": "Core Indexing Engines"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `1. Deep Storage & Hardware Substrates` |
-| **Category Target** | `Core Indexing Engines:` |
+| **Subsystem Tier** | `Deep Storage & Hardware Substrates` |
+| **Category Target** | `Core Indexing Engines` |
 | **Canonical URI** | `urn:namencora:d01:monadaindex` |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 

@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 03: Systems Governance & Consensus"
-subsystem: "4. Cryptographic Proof & Ledger Auditing"
-category: "Proof Generation & Audit Trails:"
+subsystem: "Cryptographic Proof & Ledger Auditing"
+category: "Proof Generation & Audit Trails"
 namespace: CerberProof
 term_code: D03-GOV-032
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `cerberproof.com`  
 > **Classification ID**: `D03-GOV-032`  
-> **Subsystem**: 4. Cryptographic Proof & Ledger Auditing / Proof Generation & Audit Trails:
-
+> **Subsystem**: Cryptographic Proof & Ledger Auditing / Proof Generation & Audit Trails
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур безпеки підсистеми **4. Cryptographic Proof & Ledger Auditing** (категорія: *Proof Generation & Audit Trails:*). Реалізує детермінований арбітраж транзакцій, механізми переривання (circuit breakers) або балансування компромісних критеріїв.
+Architectural governance and control primitive for the Cryptographic Proof & Ledger Auditing subsystem (category: Proof Generation & Audit Trails). Implements deterministic transaction arbitration, circuit breaking mechanisms, and consensus policy balancing.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "CerberProof",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-032",
-  "description": "Formal architectural primitive for proof generation & audit trails: within 4. cryptographic proof & ledger auditing.",
+  "description": "Formal architectural primitive for proof generation & audit trails.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "4. Cryptographic Proof & Ledger Auditing"
+      "value": "Cryptographic Proof & Ledger Auditing"
     },
     {
       "name": "category",
-      "value": "Proof Generation & Audit Trails:"
+      "value": "Proof Generation & Audit Trails"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `4. Cryptographic Proof & Ledger Auditing` |
-| **Category Target** | `Proof Generation & Audit Trails:` |
+| **Subsystem Tier** | `Cryptographic Proof & Ledger Auditing` |
+| **Category Target** | `Proof Generation & Audit Trails` |
 | **Canonical URI** | `urn:namencora:d03:cerberproof` |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 

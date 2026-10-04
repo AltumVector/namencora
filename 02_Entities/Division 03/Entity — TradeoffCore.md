@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 03: Systems Governance & Consensus"
-subsystem: "2. Multi-Objective Trade-off Engines"
-category: "Systems Trade-off Analysis & Arbitration:"
+subsystem: "Multi-Objective Trade-off Engines"
+category: "Systems Trade-off Analysis & Arbitration"
 namespace: TradeoffCore
 term_code: D03-GOV-013
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `tradeoffcore.com`  
 > **Classification ID**: `D03-GOV-013`  
-> **Subsystem**: 2. Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration:
-
+> **Subsystem**: Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур безпеки підсистеми **2. Multi-Objective Trade-off Engines** (категорія: *Systems Trade-off Analysis & Arbitration:*). Реалізує детермінований арбітраж транзакцій, механізми переривання (circuit breakers) або балансування компромісних критеріїв.
+Architectural governance and control primitive for the Multi-Objective Trade-off Engines subsystem (category: Systems Trade-off Analysis & Arbitration). Implements deterministic transaction arbitration, circuit breaking mechanisms, and consensus policy balancing.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "TradeoffCore",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-013",
-  "description": "Formal architectural primitive for systems trade-off analysis & arbitration: within 2. multi-objective trade-off engines.",
+  "description": "Formal architectural primitive for systems trade-off analysis & arbitration.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "2. Multi-Objective Trade-off Engines"
+      "value": "Multi-Objective Trade-off Engines"
     },
     {
       "name": "category",
-      "value": "Systems Trade-off Analysis & Arbitration:"
+      "value": "Systems Trade-off Analysis & Arbitration"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `2. Multi-Objective Trade-off Engines` |
-| **Category Target** | `Systems Trade-off Analysis & Arbitration:` |
+| **Subsystem Tier** | `Multi-Objective Trade-off Engines` |
+| **Category Target** | `Systems Trade-off Analysis & Arbitration` |
 | **Canonical URI** | `urn:namencora:d03:tradeoffcore` |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 

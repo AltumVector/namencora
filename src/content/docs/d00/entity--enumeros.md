@@ -21,12 +21,11 @@ schema_org:
 ---> **System Anchor**: `enumeros.com`  
 > **Classification ID**: `D00-COR-001`  
 > **Subsystem**: Core Deterministic State Primitives / Zero-Copy State Indexing
-
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Фундаментальний протокольний примітив детермінованої координації станів та нульового копіювання (zero-copy state indexing). Базовий системний якір специфікації SPEC-001.
+Foundational protocol primitive for the Core Deterministic State Primitives subsystem (category: Zero-Copy State Indexing). Enforces core consensus invariants, state execution models, and deterministic coordination boundaries.
 
 ---
 
@@ -39,7 +38,7 @@ schema_org:
   "name": "Enumeros",
   "inDefinedTermSet": "Division 00: Core & Protocol Primitives",
   "termCode": "D00-COR-001",
-  "description": "Foundational zero-copy state indexing primitive and deterministic sequence coordinator.",
+  "description": "Formal architectural primitive for zero-copy state indexing.",
   "additionalProperty": [
     {
       "name": "subsystem",

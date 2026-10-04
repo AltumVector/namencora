@@ -23,12 +23,11 @@ schema_org:
 ---> **System Anchor**: `ballistictradeoffs.com`  
 > **Classification ID**: `D03-GOV-067`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Trade-off Analysis & Arbitration
-
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур балансування компромісних критеріїв підсистеми **Systems Governance**. Реалізує детермінований арбітраж між затримкою, узгодженістю та пропускною здатністю.
+Architectural governance and control primitive for the Multi-Objective Trade-off Engines subsystem (category: Trade-off Analysis & Arbitration). Implements deterministic transaction arbitration, circuit breaking mechanisms, and consensus policy balancing.
 
 ---
 
@@ -41,7 +40,7 @@ schema_org:
   "name": "BallisticTradeoffs",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-067",
-  "description": "Formal architectural primitive for trade-off arbitration within Systems Governance.",
+  "description": "Formal architectural primitive for trade-off analysis & arbitration.",
   "additionalProperty": [
     {
       "name": "subsystem",

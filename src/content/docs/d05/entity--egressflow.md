@@ -3,8 +3,8 @@ title: "EgressFlow (D05-RUN-015)"
 type: entity
 project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
-subsystem: "2. Stochastic & High-Velocity Pipelines"
-category: "Stochastic Models & High-Throughput Streams:"
+subsystem: "Stochastic & High-Velocity Pipelines"
+category: "Stochastic Models & High-Throughput Streams"
 namespace: EgressFlow
 term_code: D05-RUN-015
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D05-RUN-015
 ---> **System Anchor**: `egressflow.com`  
 > **Classification ID**: `D05-RUN-015`  
-> **Subsystem**: 2. Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams:
-
+> **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Виконавчий та потоковий примітив підсистеми **2. Stochastic & High-Velocity Pipelines** (категорія: *Stochastic Models & High-Throughput Streams:*). Забезпечує конвеєрну маршрутизацію транзакцій, нульове копіювання при передачі подій (zero-allocation messaging) та диспетчеризацію задач реального часу.
+Distributed systems and infrastructure primitive for the Stochastic & High-Velocity Pipelines subsystem (category: Stochastic Models & High-Throughput Streams). Coordinates high-throughput asynchronous pipelines, node synchronization, and fault-tolerant telemetry.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "EgressFlow",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-015",
-  "description": "Formal architectural primitive for stochastic models & high-throughput streams: within 2. stochastic & high-velocity pipelines.",
+  "description": "Formal architectural primitive for stochastic models & high-throughput streams.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "2. Stochastic & High-Velocity Pipelines"
+      "value": "Stochastic & High-Velocity Pipelines"
     },
     {
       "name": "category",
-      "value": "Stochastic Models & High-Throughput Streams:"
+      "value": "Stochastic Models & High-Throughput Streams"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `2. Stochastic & High-Velocity Pipelines` |
-| **Category Target** | `Stochastic Models & High-Throughput Streams:` |
+| **Subsystem Tier** | `Stochastic & High-Velocity Pipelines` |
+| **Category Target** | `Stochastic Models & High-Throughput Streams` |
 | **Canonical URI** | `urn:namencora:d05:egressflow` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
 

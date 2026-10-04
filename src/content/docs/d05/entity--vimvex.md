@@ -3,8 +3,8 @@ title: "VimVex (D05-RUN-089)"
 type: entity
 project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
-subsystem: "6. Auxiliary Neologisms & Tooling Tier"
-category: "High-Throughput Node Clusters:"
+subsystem: "Auxiliary Neologisms & Tooling Tier"
+category: "High-Throughput Node Clusters"
 namespace: VimVex
 term_code: D05-RUN-089
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D05-RUN-089
 ---> **System Anchor**: `vimvex.com`  
 > **Classification ID**: `D05-RUN-089`  
-> **Subsystem**: 6. Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters:
-
+> **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Виконавчий та потоковий примітив підсистеми **6. Auxiliary Neologisms & Tooling Tier** (категорія: *High-Throughput Node Clusters:*). Забезпечує конвеєрну маршрутизацію транзакцій, нульове копіювання при передачі подій (zero-allocation messaging) та диспетчеризацію задач реального часу.
+Distributed systems and infrastructure primitive for the Auxiliary Neologisms & Tooling Tier subsystem (category: High-Throughput Node Clusters). Coordinates high-throughput asynchronous pipelines, node synchronization, and fault-tolerant telemetry.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "VimVex",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-089",
-  "description": "Formal architectural primitive for high-throughput node clusters: within 6. auxiliary neologisms & tooling tier.",
+  "description": "Formal architectural primitive for high-throughput node clusters.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "6. Auxiliary Neologisms & Tooling Tier"
+      "value": "Auxiliary Neologisms & Tooling Tier"
     },
     {
       "name": "category",
-      "value": "High-Throughput Node Clusters:"
+      "value": "High-Throughput Node Clusters"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `6. Auxiliary Neologisms & Tooling Tier` |
-| **Category Target** | `High-Throughput Node Clusters:` |
+| **Subsystem Tier** | `Auxiliary Neologisms & Tooling Tier` |
+| **Category Target** | `High-Throughput Node Clusters` |
 | **Canonical URI** | `urn:namencora:d05:vimvex` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
 

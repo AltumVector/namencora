@@ -21,12 +21,11 @@ schema_org:
 ---> **System Anchor**: `aidronesops.com`  
 > **Classification ID**: `D03-GOV-080`  
 > **Subsystem**: Systems Governance / Autonomous Fleet Governance
-
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур безпеки автономних польотних місій. Забезпечує детерміновану верифікацію польотних регламентів, авторизацію доступу дронів до повітряних коридорів та координацію операційних ролей.
+Architectural governance and control primitive for the Systems Governance subsystem (category: Autonomous Fleet Governance / Drone Operations Policy). Implements deterministic transaction arbitration, circuit breaking mechanisms, and consensus policy balancing.
 
 ---
 
@@ -39,7 +38,7 @@ schema_org:
   "name": "AiDronesOps",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-080",
-  "description": "Formal architectural primitive for governance and arbitration within Systems Governance.",
+  "description": "Formal architectural primitive for autonomous fleet governance / drone operations policy.",
   "additionalProperty": [
     {
       "name": "subsystem",

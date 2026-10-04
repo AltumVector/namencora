@@ -3,8 +3,8 @@ title: "OpsApix (D03-GOV-044)"
 type: entity
 project: namencora
 division: "Division 03: Systems Governance & Consensus"
-subsystem: "5. Operations Runtimes & Execution Queues"
-category: "Queues, Dispatch & Operational Cores:"
+subsystem: "Operations Runtimes & Execution Queues"
+category: "Queues, Dispatch & Operational Cores"
 namespace: OpsApix
 term_code: D03-GOV-044
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D03-GOV-044
 ---> **System Anchor**: `opsapix.com`  
 > **Classification ID**: `D03-GOV-044`  
-> **Subsystem**: 5. Operations Runtimes & Execution Queues / Queues, Dispatch & Operational Cores:
-
+> **Subsystem**: Operations Runtimes & Execution Queues / Queues, Dispatch & Operational Cores
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур безпеки підсистеми **5. Operations Runtimes & Execution Queues** (категорія: *Queues, Dispatch & Operational Cores:*). Реалізує детермінований арбітраж транзакцій, механізми переривання (circuit breakers) або балансування компромісних критеріїв.
+Architectural governance and control primitive for the Operations Runtimes & Execution Queues subsystem (category: Queues, Dispatch & Operational Cores). Implements deterministic transaction arbitration, circuit breaking mechanisms, and consensus policy balancing.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "OpsApix",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-044",
-  "description": "Formal architectural primitive for queues, dispatch & operational cores: within 5. operations runtimes & execution queues.",
+  "description": "Formal architectural primitive for queues, dispatch & operational cores.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "5. Operations Runtimes & Execution Queues"
+      "value": "Operations Runtimes & Execution Queues"
     },
     {
       "name": "category",
-      "value": "Queues, Dispatch & Operational Cores:"
+      "value": "Queues, Dispatch & Operational Cores"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `5. Operations Runtimes & Execution Queues` |
-| **Category Target** | `Queues, Dispatch & Operational Cores:` |
+| **Subsystem Tier** | `Operations Runtimes & Execution Queues` |
+| **Category Target** | `Queues, Dispatch & Operational Cores` |
 | **Canonical URI** | `urn:namencora:d03:opsapix` |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 

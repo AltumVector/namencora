@@ -3,8 +3,8 @@ title: "ContextEmbedding (D01-STG-012)"
 type: entity
 project: namencora
 division: "Division 01: Storage Engines & Memory Topologies"
-subsystem: "2. High-Dimensional Vector Runtime"
-category: "Context Spaces:"
+subsystem: "High-Dimensional Vector Runtime"
+category: "Context Spaces"
 namespace: ContextEmbedding
 term_code: D01-STG-012
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D01-STG-012
 ---> **System Anchor**: `contextembedding.com`  
 > **Classification ID**: `D01-STG-012`  
-> **Subsystem**: 2. High-Dimensional Vector Runtime / Context Spaces:
-
+> **Subsystem**: High-Dimensional Vector Runtime / Context Spaces
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Архітектурний примітив підсистеми **2. High-Dimensional Vector Runtime** (категорія: *Context Spaces:*). Забезпечує детерміновану роботу контуру зберігання та обробки станів.
+Distributed persistence and storage tier primitive for the High-Dimensional Vector Runtime subsystem (category: Context Spaces). Enforces deterministic state retention, cache coherency, and transactional replication topologies.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "ContextEmbedding",
   "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
   "termCode": "D01-STG-012",
-  "description": "Formal architectural primitive for context spaces: within 2. high-dimensional vector runtime.",
+  "description": "Formal architectural primitive for context spaces.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "2. High-Dimensional Vector Runtime"
+      "value": "High-Dimensional Vector Runtime"
     },
     {
       "name": "category",
-      "value": "Context Spaces:"
+      "value": "Context Spaces"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `2. High-Dimensional Vector Runtime` |
-| **Category Target** | `Context Spaces:` |
+| **Subsystem Tier** | `High-Dimensional Vector Runtime` |
+| **Category Target** | `Context Spaces` |
 | **Canonical URI** | `urn:namencora:d01:contextembedding` |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 

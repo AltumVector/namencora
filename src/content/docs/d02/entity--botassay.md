@@ -3,8 +3,8 @@ title: "BotAssay (D02-COG-051)"
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "3. Formal Verification & Evaluation Harness"
-category: "Model Evaluation & AI Safety (Evals):"
+subsystem: "Formal Verification & Evaluation Harness"
+category: "Model Evaluation & AI Safety (Evals)"
 namespace: BotAssay
 term_code: D02-COG-051
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D02-COG-051
 ---> **System Anchor**: `botassay.com`  
 > **Classification ID**: `D02-COG-051`  
-> **Subsystem**: 3. Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals):
-
+> **Subsystem**: Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals)
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **3. Formal Verification & Evaluation Harness** (категорія: *Model Evaluation & AI Safety (Evals):*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Formal Verification & Evaluation Harness subsystem (category: Model Evaluation & AI Safety (Evals)). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "BotAssay",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-051",
-  "description": "Formal architectural primitive for model evaluation & ai safety (evals): within 3. formal verification & evaluation harness.",
+  "description": "Formal architectural primitive for model evaluation & ai safety (evals).",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "3. Formal Verification & Evaluation Harness"
+      "value": "Formal Verification & Evaluation Harness"
     },
     {
       "name": "category",
-      "value": "Model Evaluation & AI Safety (Evals):"
+      "value": "Model Evaluation & AI Safety (Evals)"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `3. Formal Verification & Evaluation Harness` |
-| **Category Target** | `Model Evaluation & AI Safety (Evals):` |
+| **Subsystem Tier** | `Formal Verification & Evaluation Harness` |
+| **Category Target** | `Model Evaluation & AI Safety (Evals)` |
 | **Canonical URI** | `urn:namencora:d02:botassay` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

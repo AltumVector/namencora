@@ -3,8 +3,8 @@ title: "XrayAtom (D04-DYN-037)"
 type: entity
 project: namencora
 division: "Division 04: Computational Physics & Dynamics"
-subsystem: "4. Applied Photonics, X-Ray & Signal Pulses"
-category: "X-Ray Guides & High-Frequency Pulses:"
+subsystem: "Applied Photonics, X-Ray & Signal Pulses"
+category: "X-Ray Guides & High-Frequency Pulses"
 namespace: XrayAtom
 term_code: D04-DYN-037
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D04-DYN-037
 ---> **System Anchor**: `xrayatom.com`  
 > **Classification ID**: `D04-DYN-037`  
-> **Subsystem**: 4. Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses:
-
+> **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Фізико-математичний та динамічний примітив підсистеми **4. Applied Photonics, X-Ray & Signal Pulses** (категорія: *X-Ray Guides & High-Frequency Pulses:*). Забезпечує моделювання фазових переходів, операторів нелінійної динаміки, розрахунку градієнтів стану та детермінованої дисипації ентропії.
+Execution runtime and interface boundary primitive for the Applied Photonics, X-Ray & Signal Pulses subsystem (category: X-Ray Guides & High-Frequency Pulses). Governs secure ingress validation, schema transformation, and low-latency interaction protocols.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "XrayAtom",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-037",
-  "description": "Formal architectural primitive for x-ray guides & high-frequency pulses: within 4. applied photonics, x-ray & signal pulses.",
+  "description": "Formal architectural primitive for x-ray guides & high-frequency pulses.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "4. Applied Photonics, X-Ray & Signal Pulses"
+      "value": "Applied Photonics, X-Ray & Signal Pulses"
     },
     {
       "name": "category",
-      "value": "X-Ray Guides & High-Frequency Pulses:"
+      "value": "X-Ray Guides & High-Frequency Pulses"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `4. Applied Photonics, X-Ray & Signal Pulses` |
-| **Category Target** | `X-Ray Guides & High-Frequency Pulses:` |
+| **Subsystem Tier** | `Applied Photonics, X-Ray & Signal Pulses` |
+| **Category Target** | `X-Ray Guides & High-Frequency Pulses` |
 | **Canonical URI** | `urn:namencora:d04:xrayatom` |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 

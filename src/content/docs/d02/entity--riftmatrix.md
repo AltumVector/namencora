@@ -3,8 +3,8 @@ title: "RiftMatrix (D02-COG-077)"
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "4. Axiomatic Reasoning & Matrix Topologies"
-category: "Multi-Dimensional Neural Matrices:"
+subsystem: "Axiomatic Reasoning & Matrix Topologies"
+category: "Multi-Dimensional Neural Matrices"
 namespace: RiftMatrix
 term_code: D02-COG-077
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D02-COG-077
 ---> **System Anchor**: `riftmatrix.com`  
 > **Classification ID**: `D02-COG-077`  
-> **Subsystem**: 4. Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices:
-
+> **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **4. Axiomatic Reasoning & Matrix Topologies** (категорія: *Multi-Dimensional Neural Matrices:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matrix Topologies subsystem (category: Multi-Dimensional Neural Matrices). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "RiftMatrix",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-077",
-  "description": "Formal architectural primitive for multi-dimensional neural matrices: within 4. axiomatic reasoning & matrix topologies.",
+  "description": "Formal architectural primitive for multi-dimensional neural matrices.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "4. Axiomatic Reasoning & Matrix Topologies"
+      "value": "Axiomatic Reasoning & Matrix Topologies"
     },
     {
       "name": "category",
-      "value": "Multi-Dimensional Neural Matrices:"
+      "value": "Multi-Dimensional Neural Matrices"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `4. Axiomatic Reasoning & Matrix Topologies` |
-| **Category Target** | `Multi-Dimensional Neural Matrices:` |
+| **Subsystem Tier** | `Axiomatic Reasoning & Matrix Topologies` |
+| **Category Target** | `Multi-Dimensional Neural Matrices` |
 | **Canonical URI** | `urn:namencora:d02:riftmatrix` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

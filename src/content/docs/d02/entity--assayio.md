@@ -3,8 +3,8 @@ title: "AssayIO (D02-COG-046)"
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "3. Formal Verification & Evaluation Harness"
-category: "Code, Schema & Execution Verification:"
+subsystem: "Formal Verification & Evaluation Harness"
+category: "Code, Schema & Execution Verification"
 namespace: AssayIO
 term_code: D02-COG-046
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D02-COG-046
 ---> **System Anchor**: `assayio.com`  
 > **Classification ID**: `D02-COG-046`  
-> **Subsystem**: 3. Formal Verification & Evaluation Harness / Code, Schema & Execution Verification:
-
+> **Subsystem**: Formal Verification & Evaluation Harness / Code, Schema & Execution Verification
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **3. Formal Verification & Evaluation Harness** (категорія: *Code, Schema & Execution Verification:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Formal Verification & Evaluation Harness subsystem (category: Code, Schema & Execution Verification). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "AssayIO",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-046",
-  "description": "Formal architectural primitive for code, schema & execution verification: within 3. formal verification & evaluation harness.",
+  "description": "Formal architectural primitive for code, schema & execution verification.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "3. Formal Verification & Evaluation Harness"
+      "value": "Formal Verification & Evaluation Harness"
     },
     {
       "name": "category",
-      "value": "Code, Schema & Execution Verification:"
+      "value": "Code, Schema & Execution Verification"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `3. Formal Verification & Evaluation Harness` |
-| **Category Target** | `Code, Schema & Execution Verification:` |
+| **Subsystem Tier** | `Formal Verification & Evaluation Harness` |
+| **Category Target** | `Code, Schema & Execution Verification` |
 | **Canonical URI** | `urn:namencora:d02:assayio` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

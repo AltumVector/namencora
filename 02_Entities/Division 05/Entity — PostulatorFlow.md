@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
-subsystem: "3. Event Runtimes & Execution Schedulers"
-category: "Schedulers, Task Loops & Pipelines:"
+subsystem: "Event Runtimes & Execution Schedulers"
+category: "Schedulers, Task Loops & Pipelines"
 namespace: PostulatorFlow
 term_code: D05-RUN-028
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `postulatorflow.com`  
 > **Classification ID**: `D05-RUN-028`  
-> **Subsystem**: 3. Event Runtimes & Execution Schedulers / Schedulers, Task Loops & Pipelines:
-
+> **Subsystem**: Event Runtimes & Execution Schedulers / Schedulers, Task Loops & Pipelines
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Виконавчий та потоковий примітив підсистеми **3. Event Runtimes & Execution Schedulers** (категорія: *Schedulers, Task Loops & Pipelines:*). Забезпечує конвеєрну маршрутизацію транзакцій, нульове копіювання при передачі подій (zero-allocation messaging) та диспетчеризацію задач реального часу.
+Distributed systems and infrastructure primitive for the Event Runtimes & Execution Schedulers subsystem (category: Schedulers, Task Loops & Pipelines). Coordinates high-throughput asynchronous pipelines, node synchronization, and fault-tolerant telemetry.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "PostulatorFlow",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-028",
-  "description": "Formal architectural primitive for schedulers, task loops & pipelines: within 3. event runtimes & execution schedulers.",
+  "description": "Formal architectural primitive for schedulers, task loops & pipelines.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "3. Event Runtimes & Execution Schedulers"
+      "value": "Event Runtimes & Execution Schedulers"
     },
     {
       "name": "category",
-      "value": "Schedulers, Task Loops & Pipelines:"
+      "value": "Schedulers, Task Loops & Pipelines"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `3. Event Runtimes & Execution Schedulers` |
-| **Category Target** | `Schedulers, Task Loops & Pipelines:` |
+| **Subsystem Tier** | `Event Runtimes & Execution Schedulers` |
+| **Category Target** | `Schedulers, Task Loops & Pipelines` |
 | **Canonical URI** | `urn:namencora:d05:postulatorflow` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
 

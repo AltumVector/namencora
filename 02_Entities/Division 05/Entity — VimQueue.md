@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
-subsystem: "4. The Vim Micro-Kernel Execution Stack"
-category: "Telemetry, Queuing & Routing:"
+subsystem: "The Vim Micro-Kernel Execution Stack"
+category: "Telemetry, Queuing & Routing"
 namespace: VimQueue
 term_code: D05-RUN-044
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `vimqueue.com`  
 > **Classification ID**: `D05-RUN-044`  
-> **Subsystem**: 4. The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing:
-
+> **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Виконавчий та потоковий примітив підсистеми **4. The Vim Micro-Kernel Execution Stack** (категорія: *Telemetry, Queuing & Routing:*). Забезпечує конвеєрну маршрутизацію транзакцій, нульове копіювання при передачі подій (zero-allocation messaging) та диспетчеризацію задач реального часу.
+Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Execution Stack subsystem (category: Telemetry, Queuing & Routing). Coordinates high-throughput asynchronous pipelines, node synchronization, and fault-tolerant telemetry.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "VimQueue",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-044",
-  "description": "Formal architectural primitive for telemetry, queuing & routing: within 4. the vim micro-kernel execution stack.",
+  "description": "Formal architectural primitive for telemetry, queuing & routing.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "4. The Vim Micro-Kernel Execution Stack"
+      "value": "The Vim Micro-Kernel Execution Stack"
     },
     {
       "name": "category",
-      "value": "Telemetry, Queuing & Routing:"
+      "value": "Telemetry, Queuing & Routing"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `4. The Vim Micro-Kernel Execution Stack` |
-| **Category Target** | `Telemetry, Queuing & Routing:` |
+| **Subsystem Tier** | `The Vim Micro-Kernel Execution Stack` |
+| **Category Target** | `Telemetry, Queuing & Routing` |
 | **Canonical URI** | `urn:namencora:d05:vimqueue` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
 

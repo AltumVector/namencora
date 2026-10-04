@@ -3,8 +3,8 @@ title: "CerberSync (D03-GOV-026)"
 type: entity
 project: namencora
 division: "Division 03: Systems Governance & Consensus"
-subsystem: "3. Distributed State Synchronization"
-category: "Synchronization Protocols & Clocks:"
+subsystem: "Distributed State Synchronization"
+category: "Synchronization Protocols & Clocks"
 namespace: CerberSync
 term_code: D03-GOV-026
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D03-GOV-026
 ---> **System Anchor**: `cerbersync.com`  
 > **Classification ID**: `D03-GOV-026`  
-> **Subsystem**: 3. Distributed State Synchronization / Synchronization Protocols & Clocks:
-
+> **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Керуючий примітив та контур безпеки підсистеми **3. Distributed State Synchronization** (категорія: *Synchronization Protocols & Clocks:*). Реалізує детермінований арбітраж транзакцій, механізми переривання (circuit breakers) або балансування компромісних критеріїв.
+Architectural governance and control primitive for the Distributed State Synchronization subsystem (category: Synchronization Protocols & Clocks). Implements deterministic transaction arbitration, circuit breaking mechanisms, and consensus policy balancing.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "CerberSync",
   "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
   "termCode": "D03-GOV-026",
-  "description": "Formal architectural primitive for synchronization protocols & clocks: within 3. distributed state synchronization.",
+  "description": "Formal architectural primitive for synchronization protocols & clocks.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "3. Distributed State Synchronization"
+      "value": "Distributed State Synchronization"
     },
     {
       "name": "category",
-      "value": "Synchronization Protocols & Clocks:"
+      "value": "Synchronization Protocols & Clocks"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `3. Distributed State Synchronization` |
-| **Category Target** | `Synchronization Protocols & Clocks:` |
+| **Subsystem Tier** | `Distributed State Synchronization` |
+| **Category Target** | `Synchronization Protocols & Clocks` |
 | **Canonical URI** | `urn:namencora:d03:cerbersync` |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 

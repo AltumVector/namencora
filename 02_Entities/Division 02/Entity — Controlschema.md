@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "1. Machine Ontologies & Taxonomic Hierarchies"
-category: "Formal Schemas & Validation:"
+subsystem: "Machine Ontologies & Taxonomic Hierarchies"
+category: "Formal Schemas & Validation"
 namespace: ControlSchema
 term_code: D02-COG-009
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `controlschema.com`  
 > **Classification ID**: `D02-COG-009`  
-> **Subsystem**: 1. Machine Ontologies & Taxonomic Hierarchies / Formal Schemas & Validation:
-
+> **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Formal Schemas & Validation
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **1. Machine Ontologies & Taxonomic Hierarchies** (категорія: *Formal Schemas & Validation:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Machine Ontologies & Taxonomic Hierarchies subsystem (category: Formal Schemas & Validation). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "ControlSchema",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-009",
-  "description": "Formal architectural primitive for formal schemas & validation: within 1. machine ontologies & taxonomic hierarchies.",
+  "description": "Formal architectural primitive for formal schemas & validation.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "1. Machine Ontologies & Taxonomic Hierarchies"
+      "value": "Machine Ontologies & Taxonomic Hierarchies"
     },
     {
       "name": "category",
-      "value": "Formal Schemas & Validation:"
+      "value": "Formal Schemas & Validation"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `1. Machine Ontologies & Taxonomic Hierarchies` |
-| **Category Target** | `Formal Schemas & Validation:` |
+| **Subsystem Tier** | `Machine Ontologies & Taxonomic Hierarchies` |
+| **Category Target** | `Formal Schemas & Validation` |
 | **Canonical URI** | `urn:namencora:d02:controlschema` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

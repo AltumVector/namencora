@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 01: Storage Engines & Memory Topologies"
-subsystem: "2. High-Dimensional Vector Runtime"
-category: "Vector Space Operators:"
+subsystem: "High-Dimensional Vector Runtime"
+category: "Vector Space Operators"
 namespace: PraxVector
 term_code: D01-STG-032
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `praxvector.com`  
 > **Classification ID**: `D01-STG-032`  
-> **Subsystem**: 2. High-Dimensional Vector Runtime / Vector Space Operators:
-
+> **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Архітектурний примітив підсистеми **2. High-Dimensional Vector Runtime** (категорія: *Vector Space Operators:*). Забезпечує детерміновану роботу контуру зберігання та обробки станів.
+Distributed persistence and storage tier primitive for the High-Dimensional Vector Runtime subsystem (category: Vector Space Operators). Enforces deterministic state retention, cache coherency, and transactional replication topologies.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "PraxVector",
   "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
   "termCode": "D01-STG-032",
-  "description": "Formal architectural primitive for vector space operators: within 2. high-dimensional vector runtime.",
+  "description": "Formal architectural primitive for vector space operators.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "2. High-Dimensional Vector Runtime"
+      "value": "High-Dimensional Vector Runtime"
     },
     {
       "name": "category",
-      "value": "Vector Space Operators:"
+      "value": "Vector Space Operators"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `2. High-Dimensional Vector Runtime` |
-| **Category Target** | `Vector Space Operators:` |
+| **Subsystem Tier** | `High-Dimensional Vector Runtime` |
+| **Category Target** | `Vector Space Operators` |
 | **Canonical URI** | `urn:namencora:d01:praxvector` |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 

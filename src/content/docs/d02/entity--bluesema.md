@@ -3,8 +3,8 @@ title: "BlueSema (D02-COG-028)"
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "2. Semantic Runtime & Knowledge Representation"
-category: "Semantic Cores & Routing:"
+subsystem: "Semantic Runtime & Knowledge Representation"
+category: "Semantic Cores & Routing"
 namespace: BlueSema
 term_code: D02-COG-028
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D02-COG-028
 ---> **System Anchor**: `bluesema.com`  
 > **Classification ID**: `D02-COG-028`  
-> **Subsystem**: 2. Semantic Runtime & Knowledge Representation / Semantic Cores & Routing:
-
+> **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **2. Semantic Runtime & Knowledge Representation** (категорія: *Semantic Cores & Routing:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledge Representation subsystem (category: Semantic Cores & Routing). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "BlueSema",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-028",
-  "description": "Formal architectural primitive for semantic cores & routing: within 2. semantic runtime & knowledge representation.",
+  "description": "Formal architectural primitive for semantic cores & routing.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "2. Semantic Runtime & Knowledge Representation"
+      "value": "Semantic Runtime & Knowledge Representation"
     },
     {
       "name": "category",
-      "value": "Semantic Cores & Routing:"
+      "value": "Semantic Cores & Routing"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `2. Semantic Runtime & Knowledge Representation` |
-| **Category Target** | `Semantic Cores & Routing:` |
+| **Subsystem Tier** | `Semantic Runtime & Knowledge Representation` |
+| **Category Target** | `Semantic Cores & Routing` |
 | **Canonical URI** | `urn:namencora:d02:bluesema` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

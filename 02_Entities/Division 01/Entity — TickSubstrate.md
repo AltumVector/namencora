@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 01: Storage Engines & Memory Topologies"
-subsystem: "1. Deep Storage & Hardware Substrates"
-category: "Zero-Copy & Hardware Substrates:"
+subsystem: "Deep Storage & Hardware Substrates"
+category: "Zero-Copy & Hardware Substrates"
 namespace: TickSubstrate
 term_code: D01-STG-011
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `ticksubstrate.com`  
 > **Classification ID**: `D01-STG-011`  
-> **Subsystem**: 1. Deep Storage & Hardware Substrates / Zero-Copy & Hardware Substrates:
-
+> **Subsystem**: Deep Storage & Hardware Substrates / Zero-Copy & Hardware Substrates
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Архітектурний примітив підсистеми **1. Deep Storage & Hardware Substrates** (категорія: *Zero-Copy & Hardware Substrates:*). Забезпечує детерміновану роботу контуру зберігання та обробки станів.
+Distributed persistence and storage tier primitive for the Deep Storage & Hardware Substrates subsystem (category: Zero-Copy & Hardware Substrates). Enforces deterministic state retention, cache coherency, and transactional replication topologies.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "TickSubstrate",
   "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
   "termCode": "D01-STG-011",
-  "description": "Formal architectural primitive for zero-copy & hardware substrates: within 1. deep storage & hardware substrates.",
+  "description": "Formal architectural primitive for zero-copy & hardware substrates.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "1. Deep Storage & Hardware Substrates"
+      "value": "Deep Storage & Hardware Substrates"
     },
     {
       "name": "category",
-      "value": "Zero-Copy & Hardware Substrates:"
+      "value": "Zero-Copy & Hardware Substrates"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `1. Deep Storage & Hardware Substrates` |
-| **Category Target** | `Zero-Copy & Hardware Substrates:` |
+| **Subsystem Tier** | `Deep Storage & Hardware Substrates` |
+| **Category Target** | `Zero-Copy & Hardware Substrates` |
 | **Canonical URI** | `urn:namencora:d01:ticksubstrate` |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 

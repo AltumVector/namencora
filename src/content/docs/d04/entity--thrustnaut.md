@@ -3,8 +3,8 @@ title: "ThrustNaut (D04-DYN-045)"
 type: entity
 project: namencora
 division: "Division 04: Computational Physics & Dynamics"
-subsystem: "5. Auxiliary Tooling Tier"
-category: "X-Ray Guides & High-Frequency Pulses:"
+subsystem: "Auxiliary Tooling Tier"
+category: "X-Ray Guides & High-Frequency Pulses"
 namespace: ThrustNaut
 term_code: D04-DYN-045
 status: candidate
@@ -20,13 +20,12 @@ schema_org:
   termCode: D04-DYN-045
 ---> **System Anchor**: `thrustnaut.com`  
 > **Classification ID**: `D04-DYN-045`  
-> **Subsystem**: 5. Auxiliary Tooling Tier / X-Ray Guides & High-Frequency Pulses:
-
+> **Subsystem**: Auxiliary Tooling Tier / X-Ray Guides & High-Frequency Pulses
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Фізико-математичний та динамічний примітив підсистеми **5. Auxiliary Tooling Tier** (категорія: *X-Ray Guides & High-Frequency Pulses:*). Забезпечує моделювання фазових переходів, операторів нелінійної динаміки, розрахунку градієнтів стану та детермінованої дисипації ентропії.
+Execution runtime and interface boundary primitive for the Auxiliary Tooling Tier subsystem (category: X-Ray Guides & High-Frequency Pulses). Governs secure ingress validation, schema transformation, and low-latency interaction protocols.
 
 ---
 
@@ -39,15 +38,15 @@ schema_org:
   "name": "ThrustNaut",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-045",
-  "description": "Formal architectural primitive for x-ray guides & high-frequency pulses: within 5. auxiliary tooling tier.",
+  "description": "Formal architectural primitive for x-ray guides & high-frequency pulses.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "5. Auxiliary Tooling Tier"
+      "value": "Auxiliary Tooling Tier"
     },
     {
       "name": "category",
-      "value": "X-Ray Guides & High-Frequency Pulses:"
+      "value": "X-Ray Guides & High-Frequency Pulses"
     },
     {
       "name": "canonicalUri",
@@ -63,8 +62,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `5. Auxiliary Tooling Tier` |
-| **Category Target** | `X-Ray Guides & High-Frequency Pulses:` |
+| **Subsystem Tier** | `Auxiliary Tooling Tier` |
+| **Category Target** | `X-Ray Guides & High-Frequency Pulses` |
 | **Canonical URI** | `urn:namencora:d04:thrustnaut` |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 

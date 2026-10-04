@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 04: Computational Physics & Dynamics"
-subsystem: "1. Phase Dynamics & Tensor Analysis"
-category: "Phase Spaces, Curvature & Tensors:"
+subsystem: "Phase Dynamics & Tensor Analysis"
+category: "Phase Spaces, Curvature & Tensors"
 namespace: PhaseMorph
 term_code: D04-DYN-007
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `phasemorph.com`  
 > **Classification ID**: `D04-DYN-007`  
-> **Subsystem**: 1. Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors:
-
+> **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Фізико-математичний та динамічний примітив підсистеми **1. Phase Dynamics & Tensor Analysis** (категорія: *Phase Spaces, Curvature & Tensors:*). Забезпечує моделювання фазових переходів, операторів нелінійної динаміки, розрахунку градієнтів стану та детермінованої дисипації ентропії.
+Execution runtime and interface boundary primitive for the Phase Dynamics & Tensor Analysis subsystem (category: Phase Spaces, Curvature & Tensors). Governs secure ingress validation, schema transformation, and low-latency interaction protocols.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "PhaseMorph",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-007",
-  "description": "Formal architectural primitive for phase spaces, curvature & tensors: within 1. phase dynamics & tensor analysis.",
+  "description": "Formal architectural primitive for phase spaces, curvature & tensors.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "1. Phase Dynamics & Tensor Analysis"
+      "value": "Phase Dynamics & Tensor Analysis"
     },
     {
       "name": "category",
-      "value": "Phase Spaces, Curvature & Tensors:"
+      "value": "Phase Spaces, Curvature & Tensors"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `1. Phase Dynamics & Tensor Analysis` |
-| **Category Target** | `Phase Spaces, Curvature & Tensors:` |
+| **Subsystem Tier** | `Phase Dynamics & Tensor Analysis` |
+| **Category Target** | `Phase Spaces, Curvature & Tensors` |
 | **Canonical URI** | `urn:namencora:d04:phasemorph` |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 

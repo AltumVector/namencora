@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
-subsystem: "4. The Vim Micro-Kernel Execution Stack"
-category: "Compute Units & Mathematical Cores:"
+subsystem: "The Vim Micro-Kernel Execution Stack"
+category: "Compute Units & Mathematical Cores"
 namespace: VimChip
 term_code: D05-RUN-031
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `vimchip.com`  
 > **Classification ID**: `D05-RUN-031`  
-> **Subsystem**: 4. The Vim Micro-Kernel Execution Stack / Compute Units & Mathematical Cores:
-
+> **Subsystem**: The Vim Micro-Kernel Execution Stack / Compute Units & Mathematical Cores
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Виконавчий та потоковий примітив підсистеми **4. The Vim Micro-Kernel Execution Stack** (категорія: *Compute Units & Mathematical Cores:*). Забезпечує конвеєрну маршрутизацію транзакцій, нульове копіювання при передачі подій (zero-allocation messaging) та диспетчеризацію задач реального часу.
+Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Execution Stack subsystem (category: Compute Units & Mathematical Cores). Coordinates high-throughput asynchronous pipelines, node synchronization, and fault-tolerant telemetry.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "VimChip",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-031",
-  "description": "Formal architectural primitive for compute units & mathematical cores: within 4. the vim micro-kernel execution stack.",
+  "description": "Formal architectural primitive for compute units & mathematical cores.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "4. The Vim Micro-Kernel Execution Stack"
+      "value": "The Vim Micro-Kernel Execution Stack"
     },
     {
       "name": "category",
-      "value": "Compute Units & Mathematical Cores:"
+      "value": "Compute Units & Mathematical Cores"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `4. The Vim Micro-Kernel Execution Stack` |
-| **Category Target** | `Compute Units & Mathematical Cores:` |
+| **Subsystem Tier** | `The Vim Micro-Kernel Execution Stack` |
+| **Category Target** | `Compute Units & Mathematical Cores` |
 | **Canonical URI** | `urn:namencora:d05:vimchip` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
 

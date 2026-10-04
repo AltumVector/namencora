@@ -21,12 +21,11 @@ schema_org:
 ---> **System Anchor**: `enumerat.com`  
 > **Classification ID**: `D00-COR-002`  
 > **Subsystem**: Streaming Execution Engines / High-Throughput Log Iteration
-
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Високопродуктивний рушій ітерації бінарних логів та потокового виконання з нульовою десеріалізацією. Виконавчий компонент специфікації SPEC-001.
+Foundational protocol primitive for the Streaming Execution Engines subsystem (category: High-Throughput Log Iteration). Enforces core consensus invariants, state execution models, and deterministic coordination boundaries.
 
 ---
 
@@ -39,7 +38,7 @@ schema_org:
   "name": "Enumerat",
   "inDefinedTermSet": "Division 00: Core & Protocol Primitives",
   "termCode": "D00-COR-002",
-  "description": "High-throughput binary log iteration and runtime streaming engine with zero-copy deserialization.",
+  "description": "Formal architectural primitive for high-throughput log iteration.",
   "additionalProperty": [
     {
       "name": "subsystem",

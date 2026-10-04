@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "4. Axiomatic Reasoning & Matrix Topologies"
-category: "Axiomatic & Postulate Engines:"
+subsystem: "Axiomatic Reasoning & Matrix Topologies"
+category: "Axiomatic & Postulate Engines"
 namespace: BalisticLogic
 term_code: D02-COG-070
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `balisticlogic.com`  
 > **Classification ID**: `D02-COG-070`  
-> **Subsystem**: 4. Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines:
-
+> **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **4. Axiomatic Reasoning & Matrix Topologies** (категорія: *Axiomatic & Postulate Engines:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matrix Topologies subsystem (category: Axiomatic & Postulate Engines). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "BalisticLogic",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-070",
-  "description": "Formal architectural primitive for axiomatic & postulate engines: within 4. axiomatic reasoning & matrix topologies.",
+  "description": "Formal architectural primitive for axiomatic & postulate engines.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "4. Axiomatic Reasoning & Matrix Topologies"
+      "value": "Axiomatic Reasoning & Matrix Topologies"
     },
     {
       "name": "category",
-      "value": "Axiomatic & Postulate Engines:"
+      "value": "Axiomatic & Postulate Engines"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `4. Axiomatic Reasoning & Matrix Topologies` |
-| **Category Target** | `Axiomatic & Postulate Engines:` |
+| **Subsystem Tier** | `Axiomatic Reasoning & Matrix Topologies` |
+| **Category Target** | `Axiomatic & Postulate Engines` |
 | **Canonical URI** | `urn:namencora:d02:balisticlogic` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

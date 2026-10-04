@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 02: Cognitive & Ontological Systems"
-subsystem: "5. Auxiliary Lexical Neologisms"
-category: "Multi-Dimensional Neural Matrices:"
+subsystem: "Auxiliary Lexical Neologisms"
+category: "Multi-Dimensional Neural Matrices"
 namespace: SemaTure
 term_code: D02-COG-092
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `semature.com`  
 > **Classification ID**: `D02-COG-092`  
-> **Subsystem**: 5. Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices:
-
+> **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Онтологічний та семантичний примітив підсистеми **5. Auxiliary Lexical Neologisms** (категорія: *Multi-Dimensional Neural Matrices:*). Забезпечує детерміновану нормалізацію структур знань, графових зв'язків та концептуальних топологій.
+Ontological and cognitive semantic primitive for the Auxiliary Lexical Neologisms subsystem (category: Multi-Dimensional Neural Matrices). Enforces deterministic knowledge normalization, graph relational structures, and conceptual topologies.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "SemaTure",
   "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
   "termCode": "D02-COG-092",
-  "description": "Formal architectural primitive for multi-dimensional neural matrices: within 5. auxiliary lexical neologisms.",
+  "description": "Formal architectural primitive for multi-dimensional neural matrices.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "5. Auxiliary Lexical Neologisms"
+      "value": "Auxiliary Lexical Neologisms"
     },
     {
       "name": "category",
-      "value": "Multi-Dimensional Neural Matrices:"
+      "value": "Multi-Dimensional Neural Matrices"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `5. Auxiliary Lexical Neologisms` |
-| **Category Target** | `Multi-Dimensional Neural Matrices:` |
+| **Subsystem Tier** | `Auxiliary Lexical Neologisms` |
+| **Category Target** | `Multi-Dimensional Neural Matrices` |
 | **Canonical URI** | `urn:namencora:d02:semature` |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

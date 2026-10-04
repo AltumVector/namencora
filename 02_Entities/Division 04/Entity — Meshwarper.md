@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 04: Computational Physics & Dynamics"
-subsystem: "2. Differential Geometry & Manifold Warping"
-category: "Computational Geometry & Surface Deformation:"
+subsystem: "Differential Geometry & Manifold Warping"
+category: "Computational Geometry & Surface Deformation"
 namespace: MeshWarper
 term_code: D04-DYN-011
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `meshwarper.com`  
 > **Classification ID**: `D04-DYN-011`  
-> **Subsystem**: 2. Differential Geometry & Manifold Warping / Computational Geometry & Surface Deformation:
-
+> **Subsystem**: Differential Geometry & Manifold Warping / Computational Geometry & Surface Deformation
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Фізико-математичний та динамічний примітив підсистеми **2. Differential Geometry & Manifold Warping** (категорія: *Computational Geometry & Surface Deformation:*). Забезпечує моделювання фазових переходів, операторів нелінійної динаміки, розрахунку градієнтів стану та детермінованої дисипації ентропії.
+Execution runtime and interface boundary primitive for the Differential Geometry & Manifold Warping subsystem (category: Computational Geometry & Surface Deformation). Governs secure ingress validation, schema transformation, and low-latency interaction protocols.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "MeshWarper",
   "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
   "termCode": "D04-DYN-011",
-  "description": "Formal architectural primitive for computational geometry & surface deformation: within 2. differential geometry & manifold warping.",
+  "description": "Formal architectural primitive for computational geometry & surface deformation.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "2. Differential Geometry & Manifold Warping"
+      "value": "Differential Geometry & Manifold Warping"
     },
     {
       "name": "category",
-      "value": "Computational Geometry & Surface Deformation:"
+      "value": "Computational Geometry & Surface Deformation"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `2. Differential Geometry & Manifold Warping` |
-| **Category Target** | `Computational Geometry & Surface Deformation:` |
+| **Subsystem Tier** | `Differential Geometry & Manifold Warping` |
+| **Category Target** | `Computational Geometry & Surface Deformation` |
 | **Canonical URI** | `urn:namencora:d04:meshwarper` |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 

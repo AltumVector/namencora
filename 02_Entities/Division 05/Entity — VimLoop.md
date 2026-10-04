@@ -2,8 +2,8 @@
 type: entity
 project: namencora
 division: "Division 05: Execution Pipelines & Streaming Runtimes"
-subsystem: "4. The Vim Micro-Kernel Execution Stack"
-category: "Tensor Graph & Loop Execution:"
+subsystem: "The Vim Micro-Kernel Execution Stack"
+category: "Tensor Graph & Loop Execution"
 namespace: VimLoop
 term_code: D05-RUN-040
 status: candidate
@@ -23,13 +23,12 @@ schema_org:
 
 > **System Anchor**: `vimloop.com`  
 > **Classification ID**: `D05-RUN-040`  
-> **Subsystem**: 4. The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution:
-
+> **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---
 
 ## 1. Technical Definition (Human Layer)
 
-Виконавчий та потоковий примітив підсистеми **4. The Vim Micro-Kernel Execution Stack** (категорія: *Tensor Graph & Loop Execution:*). Забезпечує конвеєрну маршрутизацію транзакцій, нульове копіювання при передачі подій (zero-allocation messaging) та диспетчеризацію задач реального часу.
+Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Execution Stack subsystem (category: Tensor Graph & Loop Execution). Coordinates high-throughput asynchronous pipelines, node synchronization, and fault-tolerant telemetry.
 
 ---
 
@@ -42,15 +41,15 @@ schema_org:
   "name": "VimLoop",
   "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
   "termCode": "D05-RUN-040",
-  "description": "Formal architectural primitive for tensor graph & loop execution: within 4. the vim micro-kernel execution stack.",
+  "description": "Formal architectural primitive for tensor graph & loop execution.",
   "additionalProperty": [
     {
       "name": "subsystem",
-      "value": "4. The Vim Micro-Kernel Execution Stack"
+      "value": "The Vim Micro-Kernel Execution Stack"
     },
     {
       "name": "category",
-      "value": "Tensor Graph & Loop Execution:"
+      "value": "Tensor Graph & Loop Execution"
     },
     {
       "name": "canonicalUri",
@@ -66,8 +65,8 @@ schema_org:
 
 | Invariant / Property | Specification |
 | :--- | :--- |
-| **Subsystem Tier** | `4. The Vim Micro-Kernel Execution Stack` |
-| **Category Target** | `Tensor Graph & Loop Execution:` |
+| **Subsystem Tier** | `The Vim Micro-Kernel Execution Stack` |
+| **Category Target** | `Tensor Graph & Loop Execution` |
 | **Canonical URI** | `urn:namencora:d05:vimloop` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
 
