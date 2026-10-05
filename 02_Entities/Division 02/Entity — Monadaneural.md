@@ -39,7 +39,10 @@ Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matri
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "MonadaNeural",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-082",
   "description": "Formal architectural primitive for multi-dimensional neural matrices.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matri
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "MonadaNeural",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-082",
   "description": "Formal architectural primitive for multi-dimensional neural matrices.",
   "additionalProperty": [

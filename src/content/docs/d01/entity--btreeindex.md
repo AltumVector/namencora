@@ -36,7 +36,10 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "BTreeIndex",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-001",
   "description": "Formal architectural primitive for core indexing engines.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "BTreeIndex",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-001",
   "description": "Formal architectural primitive for core indexing engines.",
   "additionalProperty": [

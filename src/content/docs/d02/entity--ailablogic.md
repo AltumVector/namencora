@@ -36,7 +36,10 @@ Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matri
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "AiLabLogic",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-071",
   "description": "Formal architectural primitive for axiomatic & postulate engines.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matri
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "AiLabLogic",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-071",
   "description": "Formal architectural primitive for axiomatic & postulate engines.",
   "additionalProperty": [

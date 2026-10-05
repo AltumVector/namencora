@@ -38,7 +38,10 @@ Architectural governance and control primitive for the Multi-Objective Trade-off
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "BallisticTradeoffs",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-067",
   "description": "Formal architectural primitive for trade-off analysis & arbitration.",
   "additionalProperty": [
@@ -63,7 +66,10 @@ Architectural governance and control primitive for the Multi-Objective Trade-off
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "BallisticTradeoffs",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-067",
   "description": "Formal architectural primitive for trade-off analysis & arbitration.",
   "additionalProperty": [

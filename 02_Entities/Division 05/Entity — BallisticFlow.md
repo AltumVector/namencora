@@ -39,7 +39,10 @@ Distributed systems and infrastructure primitive for the Stochastic & High-Veloc
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "BallisticFlow",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-011",
   "description": "Formal architectural primitive for stochastic models & high-throughput streams.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Distributed systems and infrastructure primitive for the Stochastic & High-Veloc
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "BallisticFlow",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-011",
   "description": "Formal architectural primitive for stochastic models & high-throughput streams.",
   "additionalProperty": [

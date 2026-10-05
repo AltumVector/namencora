@@ -39,7 +39,10 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "LockGraph",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-015",
   "description": "Formal architectural primitive for knowledge & lock graphs.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "LockGraph",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-015",
   "description": "Formal architectural primitive for knowledge & lock graphs.",
   "additionalProperty": [

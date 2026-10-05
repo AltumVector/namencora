@@ -44,7 +44,10 @@ Deterministic defensive namespace mirror (singular form) for the canonical AiDro
   "@type": "DefinedTerm",
   "name": "AiDronOps",
   "termCode": "D03-GOV-081",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "sameAs": "https://namencora.com/d03/entity--aidronesops/"
 }
 ```
@@ -55,7 +58,10 @@ Deterministic defensive namespace mirror (singular form) for the canonical AiDro
   "@type": "DefinedTerm",
   "name": "AiDronOps",
   "termCode": "D03-GOV-081",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "sameAs": "https://namencora.com/d03/entity--aidronesops/"
 }
 </script>

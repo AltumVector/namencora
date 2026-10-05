@@ -36,7 +36,10 @@ Architectural governance and control primitive for the Auxiliary Neologisms & Dr
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "CryoPsy",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-053",
   "description": "Formal architectural primitive for queues, dispatch & operational cores.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Architectural governance and control primitive for the Auxiliary Neologisms & Dr
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "CryoPsy",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-053",
   "description": "Formal architectural primitive for queues, dispatch & operational cores.",
   "additionalProperty": [

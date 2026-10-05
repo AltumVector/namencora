@@ -39,7 +39,10 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "ContextEmbedding",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-012",
   "description": "Formal architectural primitive for context spaces.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "ContextEmbedding",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-012",
   "description": "Formal architectural primitive for context spaces.",
   "additionalProperty": [

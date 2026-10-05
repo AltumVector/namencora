@@ -36,7 +36,10 @@ Foundational protocol primitive for the Core Deterministic State Primitives subs
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Enumeros",
-  "inDefinedTermSet": "Division 00: Core & Protocol Primitives",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 00: Core & Protocol Primitives"
+  },
   "termCode": "D00-COR-001",
   "description": "Formal architectural primitive for zero-copy state indexing.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Foundational protocol primitive for the Core Deterministic State Primitives subs
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Enumeros",
-  "inDefinedTermSet": "Division 00: Core & Protocol Primitives",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 00: Core & Protocol Primitives"
+  },
   "termCode": "D00-COR-001",
   "description": "Formal architectural primitive for zero-copy state indexing.",
   "additionalProperty": [

@@ -36,7 +36,10 @@ Ontological and cognitive semantic primitive for the Formal Verification & Evalu
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "AssayNeural",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-047",
   "description": "Formal architectural primitive for model evaluation & ai safety (evals).",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Ontological and cognitive semantic primitive for the Formal Verification & Evalu
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "AssayNeural",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-047",
   "description": "Formal architectural primitive for model evaluation & ai safety (evals).",
   "additionalProperty": [

@@ -36,7 +36,10 @@ Distributed systems and infrastructure primitive for the Event Runtimes & Execut
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "MonadaFlow",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-024",
   "description": "Formal architectural primitive for schedulers, task loops & pipelines.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Distributed systems and infrastructure primitive for the Event Runtimes & Execut
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "MonadaFlow",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-024",
   "description": "Formal architectural primitive for schedulers, task loops & pipelines.",
   "additionalProperty": [

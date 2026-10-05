@@ -39,7 +39,10 @@ Architectural governance and control primitive for the Systems Governance subsys
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "UxiOps",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-079",
   "description": "Formal architectural primitive for consensus primitive.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Architectural governance and control primitive for the Systems Governance subsys
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "UxiOps",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-079",
   "description": "Formal architectural primitive for consensus primitive.",
   "additionalProperty": [

@@ -36,7 +36,10 @@ Architectural governance and control primitive for the Cryptographic Proof & Led
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "CerberAudit",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-034",
   "description": "Formal architectural primitive for proof generation & audit trails.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Architectural governance and control primitive for the Cryptographic Proof & Led
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "CerberAudit",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-034",
   "description": "Formal architectural primitive for proof generation & audit trails.",
   "additionalProperty": [

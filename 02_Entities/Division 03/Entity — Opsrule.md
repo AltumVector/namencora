@@ -39,7 +39,10 @@ Architectural governance and control primitive for the Operations Runtimes & Exe
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "OpsRule",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-042",
   "description": "Formal architectural primitive for queues, dispatch & operational cores.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Architectural governance and control primitive for the Operations Runtimes & Exe
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "OpsRule",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-042",
   "description": "Formal architectural primitive for queues, dispatch & operational cores.",
   "additionalProperty": [

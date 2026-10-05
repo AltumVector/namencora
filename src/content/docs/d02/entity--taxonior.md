@@ -36,7 +36,10 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "TaxonIor",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-008",
   "description": "Formal architectural primitive for core taxonomic engines.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "TaxonIor",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-008",
   "description": "Formal architectural primitive for core taxonomic engines.",
   "additionalProperty": [

@@ -39,7 +39,10 @@ Architectural governance and control primitive for the Deterministic Circuit Bre
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "AgentVeto",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-011",
   "description": "Formal architectural primitive for core veto primitives.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Architectural governance and control primitive for the Deterministic Circuit Bre
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "AgentVeto",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-011",
   "description": "Formal architectural primitive for core veto primitives.",
   "additionalProperty": [

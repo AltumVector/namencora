@@ -36,7 +36,10 @@ Foundational protocol primitive for the Streaming Execution Engines subsystem (c
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Enumerat",
-  "inDefinedTermSet": "Division 00: Core & Protocol Primitives",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 00: Core & Protocol Primitives"
+  },
   "termCode": "D00-COR-002",
   "description": "Formal architectural primitive for high-throughput log iteration.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Foundational protocol primitive for the Streaming Execution Engines subsystem (c
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Enumerat",
-  "inDefinedTermSet": "Division 00: Core & Protocol Primitives",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 00: Core & Protocol Primitives"
+  },
   "termCode": "D00-COR-002",
   "description": "Formal architectural primitive for high-throughput log iteration.",
   "additionalProperty": [

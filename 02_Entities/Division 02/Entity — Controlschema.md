@@ -39,7 +39,10 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "ControlSchema",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-009",
   "description": "Formal architectural primitive for formal schemas & validation.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "ControlSchema",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-009",
   "description": "Formal architectural primitive for formal schemas & validation.",
   "additionalProperty": [

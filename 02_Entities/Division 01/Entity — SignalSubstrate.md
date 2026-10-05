@@ -39,7 +39,10 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SignalSubstrate",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-010",
   "description": "Formal architectural primitive for zero-copy & hardware substrates.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SignalSubstrate",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-010",
   "description": "Formal architectural primitive for zero-copy & hardware substrates.",
   "additionalProperty": [

@@ -36,7 +36,10 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SteerVector",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-021",
   "description": "Formal architectural primitive for steering & semantic trajectory.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SteerVector",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-021",
   "description": "Formal architectural primitive for steering & semantic trajectory.",
   "additionalProperty": [

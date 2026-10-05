@@ -39,7 +39,10 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "LexiLogue",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-036",
   "description": "Formal architectural primitive for lexical enclaves & parsers.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "LexiLogue",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-036",
   "description": "Formal architectural primitive for lexical enclaves & parsers.",
   "additionalProperty": [

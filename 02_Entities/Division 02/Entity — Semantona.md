@@ -39,7 +39,10 @@ Ontological and cognitive semantic primitive for the Auxiliary Lexical Neologism
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SemanTona",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-089",
   "description": "Formal architectural primitive for multi-dimensional neural matrices.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Ontological and cognitive semantic primitive for the Auxiliary Lexical Neologism
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SemanTona",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-089",
   "description": "Formal architectural primitive for multi-dimensional neural matrices.",
   "additionalProperty": [

@@ -36,7 +36,10 @@ Execution runtime and interface boundary primitive for the Applied Photonics, X-
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "XrayPrism",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-036",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Execution runtime and interface boundary primitive for the Applied Photonics, X-
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "XrayPrism",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-036",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses.",
   "additionalProperty": [

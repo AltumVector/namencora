@@ -39,7 +39,10 @@ Execution runtime and interface boundary primitive for the Hardware Controllers 
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "OpsChip",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-023",
   "description": "Formal architectural primitive for i/o engines & silicon primitives.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Execution runtime and interface boundary primitive for the Hardware Controllers 
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "OpsChip",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-023",
   "description": "Formal architectural primitive for i/o engines & silicon primitives.",
   "additionalProperty": [

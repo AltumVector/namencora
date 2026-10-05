@@ -39,7 +39,10 @@ Architectural governance and control primitive for the Distributed State Synchro
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SyncDator",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-029",
   "description": "Formal architectural primitive for synchronization protocols & clocks.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Architectural governance and control primitive for the Distributed State Synchro
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SyncDator",
-  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 03: Systems Governance & Consensus"
+  },
   "termCode": "D03-GOV-029",
   "description": "Formal architectural primitive for synchronization protocols & clocks.",
   "additionalProperty": [

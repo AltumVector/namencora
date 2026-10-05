@@ -36,7 +36,10 @@ Distributed systems and infrastructure primitive for the Auxiliary Neologisms & 
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "VimSor",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-087",
   "description": "Formal architectural primitive for high-throughput node clusters.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Distributed systems and infrastructure primitive for the Auxiliary Neologisms & 
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "VimSor",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-087",
   "description": "Formal architectural primitive for high-throughput node clusters.",
   "additionalProperty": [

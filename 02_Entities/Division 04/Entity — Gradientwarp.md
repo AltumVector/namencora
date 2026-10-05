@@ -39,7 +39,10 @@ Execution runtime and interface boundary primitive for the Differential Geometry
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "GradientWarp",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-014",
   "description": "Formal architectural primitive for computational geometry & surface deformation.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Execution runtime and interface boundary primitive for the Differential Geometry
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "GradientWarp",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-014",
   "description": "Formal architectural primitive for computational geometry & surface deformation.",
   "additionalProperty": [

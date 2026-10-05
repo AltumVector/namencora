@@ -36,7 +36,10 @@ Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Ex
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "VimXor",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-043",
   "description": "Formal architectural primitive for tensor graph & loop execution.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Ex
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "VimXor",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-043",
   "description": "Formal architectural primitive for tensor graph & loop execution.",
   "additionalProperty": [

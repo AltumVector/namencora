@@ -39,7 +39,10 @@ Execution runtime and interface boundary primitive for the Phase Dynamics & Tens
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "PhaseCorrector",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-006",
   "description": "Formal architectural primitive for phase spaces, curvature & tensors.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Execution runtime and interface boundary primitive for the Phase Dynamics & Tens
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "PhaseCorrector",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-006",
   "description": "Formal architectural primitive for phase spaces, curvature & tensors.",
   "additionalProperty": [

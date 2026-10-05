@@ -36,7 +36,10 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "BallisticCache",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-005",
   "description": "Formal architectural primitive for l1/l2 in-memory acceleration.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "BallisticCache",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-005",
   "description": "Formal architectural primitive for l1/l2 in-memory acceleration.",
   "additionalProperty": [

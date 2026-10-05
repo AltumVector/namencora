@@ -36,7 +36,10 @@ Execution runtime and interface boundary primitive for the Auxiliary Tooling Tie
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "ChipAtor",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-044",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Execution runtime and interface boundary primitive for the Auxiliary Tooling Tie
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "ChipAtor",
-  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 04: Computational Physics & Dynamics"
+  },
   "termCode": "D04-DYN-044",
   "description": "Formal architectural primitive for x-ray guides & high-frequency pulses.",
   "additionalProperty": [

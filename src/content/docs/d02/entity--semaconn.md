@@ -36,7 +36,10 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SemaConn",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-021",
   "description": "Formal architectural primitive for semantic cores & routing.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SemaConn",
-  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 02: Cognitive & Ontological Systems"
+  },
   "termCode": "D02-COG-021",
   "description": "Formal architectural primitive for semantic cores & routing.",
   "additionalProperty": [

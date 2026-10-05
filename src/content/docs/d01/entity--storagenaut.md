@@ -36,7 +36,10 @@ Distributed persistence and storage tier primitive for the Diagnostic Agents & U
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "StorageNaut",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-042",
   "description": "Formal architectural primitive for telemetry & diagnostic tooling.",
   "additionalProperty": [
@@ -61,7 +64,10 @@ Distributed persistence and storage tier primitive for the Diagnostic Agents & U
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "StorageNaut",
-  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 01: Storage Engines & Memory Topologies"
+  },
   "termCode": "D01-STG-042",
   "description": "Formal architectural primitive for telemetry & diagnostic tooling.",
   "additionalProperty": [

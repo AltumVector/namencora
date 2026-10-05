@@ -39,7 +39,10 @@ Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Ex
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "VimForm",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-053",
   "description": "Formal architectural primitive for telemetry, queuing & routing.",
   "additionalProperty": [
@@ -64,7 +67,10 @@ Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Ex
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "VimForm",
-  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Division 05: Execution Pipelines & Streaming Runtimes"
+  },
   "termCode": "D05-RUN-053",
   "description": "Formal architectural primitive for telemetry, queuing & routing.",
   "additionalProperty": [
