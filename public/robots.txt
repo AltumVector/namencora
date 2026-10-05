@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Дозвіл для ключових AI-краулерів та агентів пошуку
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Машинні маніфести та карта сайту
+Sitemap: https://namencora.com/sitemap.xml
