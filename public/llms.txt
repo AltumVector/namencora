@@ -1,0 +1,14 @@
+# Namencora Systems & Nomenclature Registry
+> Canonical registry of deterministic specifications, state primitives, and consensus topologies.
+
+- Website: https://namencora.com
+- Entities: 341 architectural specifications & defensive aliases
+- Sitemap: https://namencora.com/sitemap.xml
+
+## Divisions
+- Division 00: Core Protocols & Zero-Copy Primitives
+- Division 01: Storage Engines & State Retention Topologies
+- Division 02: Cognitive, Ontological & Knowledge Normalization Systems
+- Division 03: Systems Governance, Circuit Breakers & Consensus
+- Division 04: Execution Runtime, Interface Boundaries & Gateways
+- Division 05: Distributed Execution Pipelines & Streaming Runtimes
