@@ -65,7 +65,7 @@ Foundational protocol primitive for the Core Deterministic State Primitives subs
 | **Subsystem Tier** | `Core Deterministic State Primitives` |
 | **Category Target** | `Zero-Copy State Indexing` |
 | **Canonical URI** | `urn:namencora:d00:enumeros` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Specification Reference** | `SPEC-001: Distributed State Indexing` |
 | **Execution Invariant** | `Zero-Copy Memory Direct / Deterministic Replay` |
 

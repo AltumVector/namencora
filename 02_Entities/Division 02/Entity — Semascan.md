@@ -68,7 +68,7 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
 | **Subsystem Tier** | `Semantic Runtime & Knowledge Representation` |
 | **Category Target** | `Analysis, Scanning & Metrics` |
 | **Canonical URI** | `urn:namencora:d02:semascan` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 
 ---

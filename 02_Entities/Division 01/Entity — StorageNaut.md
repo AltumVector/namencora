@@ -68,7 +68,7 @@ Distributed persistence and storage tier primitive for the Diagnostic Agents & U
 | **Subsystem Tier** | `Diagnostic Agents & Utility Tier` |
 | **Category Target** | `Telemetry & Diagnostic Tooling` |
 | **Canonical URI** | `urn:namencora:d01:storagenaut` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 
 ---

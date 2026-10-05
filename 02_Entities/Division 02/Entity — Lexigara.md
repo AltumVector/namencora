@@ -68,7 +68,7 @@ Ontological and cognitive semantic primitive for the Auxiliary Lexical Neologism
 | **Subsystem Tier** | `Auxiliary Lexical Neologisms` |
 | **Category Target** | `Multi-Dimensional Neural Matrices` |
 | **Canonical URI** | `urn:namencora:d02:lexigara` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 
 ---

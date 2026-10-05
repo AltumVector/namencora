@@ -67,7 +67,7 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
 | **Subsystem Tier** | `Semantic Runtime & Knowledge Representation` |
 | **Category Target** | `Analysis, Scanning & Metrics` |
 | **Canonical URI** | `urn:namencora:d02:semanticanalyticstools` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Network Alias** | `semanticanalysistools.com` (Typo / Legacy Redirect) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 

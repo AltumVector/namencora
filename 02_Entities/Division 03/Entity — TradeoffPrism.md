@@ -68,7 +68,7 @@ Architectural governance and control primitive for the Multi-Objective Trade-off
 | **Subsystem Tier** | `Multi-Objective Trade-off Engines` |
 | **Category Target** | `Systems Trade-off Analysis & Arbitration` |
 | **Canonical URI** | `urn:namencora:d03:tradeoffprism` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 
 ---

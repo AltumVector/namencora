@@ -65,7 +65,7 @@ Ontological and cognitive semantic primitive for the Formal Verification & Evalu
 | **Subsystem Tier** | `Formal Verification & Evaluation Harness` |
 | **Category Target** | `Code, Schema & Execution Verification` |
 | **Canonical URI** | `urn:namencora:d02:assaynode` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 
 ---

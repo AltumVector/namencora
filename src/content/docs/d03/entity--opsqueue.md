@@ -65,7 +65,7 @@ Architectural governance and control primitive for the Operations Runtimes & Exe
 | **Subsystem Tier** | `Operations Runtimes & Execution Queues` |
 | **Category Target** | `Queues, Dispatch & Operational Cores` |
 | **Canonical URI** | `urn:namencora:d03:opsqueue` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 
 ---

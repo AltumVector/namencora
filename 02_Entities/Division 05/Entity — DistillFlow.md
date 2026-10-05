@@ -69,7 +69,7 @@ Distributed systems and infrastructure primitive for the Stochastic & High-Veloc
 | **Category Target** | `Stochastic Models & High-Throughput Streams` |
 | **Canonical URI** | `urn:namencora:d05:distillflow` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 
 ---
 *Part of the Namencora Systems & Nomenclature Registry (Cohort B).*

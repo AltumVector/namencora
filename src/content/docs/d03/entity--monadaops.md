@@ -65,7 +65,7 @@ Architectural governance and control primitive for the Systems Governance subsys
 | **Subsystem Tier** | `Systems Governance` |
 | **Category Target** | `Consensus Primitive` |
 | **Canonical URI** | `urn:namencora:d03:monadaops` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 
 ---

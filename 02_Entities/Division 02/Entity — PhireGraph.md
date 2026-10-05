@@ -68,7 +68,7 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
 | **Subsystem Tier** | `Machine Ontologies & Taxonomic Hierarchies` |
 | **Category Target** | `Knowledge & Lock Graphs` |
 | **Canonical URI** | `urn:namencora:d02:phiregraph` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 
 ---

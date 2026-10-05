@@ -68,7 +68,7 @@ Execution runtime and interface boundary primitive for the Auxiliary Tooling Tie
 | **Subsystem Tier** | `Auxiliary Tooling Tier` |
 | **Category Target** | `X-Ray Guides & High-Frequency Pulses` |
 | **Canonical URI** | `urn:namencora:d04:thrustnaut` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 
 ---

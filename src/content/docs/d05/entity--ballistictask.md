@@ -66,7 +66,7 @@ Distributed systems and infrastructure primitive for the Event Runtimes & Execut
 | **Category Target** | `Schedulers, Task Loops & Pipelines` |
 | **Canonical URI** | `urn:namencora:d05:ballistictask` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 
 ---
 *Part of the Namencora Systems & Nomenclature Registry (Cohort B).*

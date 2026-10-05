@@ -65,7 +65,7 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
 | **Subsystem Tier** | `Machine Ontologies & Taxonomic Hierarchies` |
 | **Category Target** | `Core Taxonomic Engines` |
 | **Canonical URI** | `urn:namencora:d02:taxonmatrix` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 
 ---

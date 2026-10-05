@@ -65,7 +65,7 @@ Execution runtime and interface boundary primitive for the Differential Geometry
 | **Subsystem Tier** | `Differential Geometry & Manifold Warping` |
 | **Category Target** | `Computational Geometry & Surface Deformation` |
 | **Canonical URI** | `urn:namencora:d04:gradientwarp` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 
 ---

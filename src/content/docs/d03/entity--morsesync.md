@@ -65,7 +65,7 @@ Architectural governance and control primitive for the Distributed State Synchro
 | **Subsystem Tier** | `Distributed State Synchronization` |
 | **Category Target** | `Synchronization Protocols & Clocks` |
 | **Canonical URI** | `urn:namencora:d03:morsesync` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 
 ---

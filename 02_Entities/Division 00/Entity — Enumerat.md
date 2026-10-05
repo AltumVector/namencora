@@ -68,7 +68,7 @@ Foundational protocol primitive for the Streaming Execution Engines subsystem (c
 | **Subsystem Tier** | `Streaming Execution Engines` |
 | **Category Target** | `High-Throughput Log Iteration` |
 | **Canonical URI** | `urn:namencora:d00:enumerat` |
-| Specification Status | Canonical Specification (Active) |
+| Specification Status | Candidate Specification (Active Review) |
 | **Specification Reference** | `SPEC-001: Distributed State Indexing` |
 | **Execution Invariant** | `Zero-Copy Memory Direct / Deterministic Replay` |
 
