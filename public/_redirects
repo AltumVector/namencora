@@ -1,0 +1,11 @@
+# Захисне перенаправлення для пари дзеркал AiDronOps -> AiDronsOps
+/d03/entity--aidronops/           /d03/entity--aidronsops/           301
+/d03/entity--aidronops            /d03/entity--aidronsops/           301
+
+# Захист від одруку Ballistic (одна 'l')
+/d03/entity--balistictradeoffs/   /d03/entity--ballistictradeoffs/   301
+/d03/entity--balistictradeoffs    /d03/entity--ballistictradeoffs/   301
+
+# Захист від семантичної варіації SemanticAnalytics (analysis замість analytics)
+/d02/entity--semanticanalysistools/  /d02/entity--semanticanalyticstools/  301
+/d02/entity--semanticanalysistools   /d02/entity--semanticanalyticstools/  301
