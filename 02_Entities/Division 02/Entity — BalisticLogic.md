@@ -68,6 +68,7 @@ Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matri
 | **Subsystem Tier** | `Axiomatic Reasoning & Matrix Topologies` |
 | **Category Target** | `Axiomatic & Postulate Engines` |
 | **Canonical URI** | `urn:namencora:d02:balisticlogic` |
+| Specification Status | Canonical Specification (Active) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 
 ---

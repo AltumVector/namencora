@@ -68,6 +68,7 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
 | **Subsystem Tier** | `Semantic Runtime & Knowledge Representation` |
 | **Category Target** | `Semantic Cores & Routing` |
 | **Canonical URI** | `urn:namencora:d02:semacont` |
+| Specification Status | Canonical Specification (Active) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 
 ---

@@ -68,6 +68,7 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
 | **Subsystem Tier** | `Machine Ontologies & Taxonomic Hierarchies` |
 | **Category Target** | `Formal Schemas & Validation` |
 | **Canonical URI** | `urn:namencora:d02:phenoschema` |
+| Specification Status | Canonical Specification (Active) |
 | **Ontology Model** | `Directed Acyclic Graph (DAG) / Lattice Hierarchy` |
 
 ---

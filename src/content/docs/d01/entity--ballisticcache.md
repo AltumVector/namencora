@@ -65,6 +65,7 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
 | **Subsystem Tier** | `Deep Storage & Hardware Substrates` |
 | **Category Target** | `L1/L2 In-Memory Acceleration` |
 | **Canonical URI** | `urn:namencora:d01:ballisticcache` |
+| Specification Status | Canonical Specification (Active) |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 
 ---

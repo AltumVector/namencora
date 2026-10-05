@@ -55,6 +55,7 @@ Deterministic defensive namespace mirror (singular form) for the canonical AiDro
 | **Subsystem Tier** | Systems Governance |
 | **Category Target** | Defensive Namespace Resolution |
 | **Canonical URI** | urn:namencora:d03:aidronops |
+| Specification Status | Defensive Alias / Routing Mirror |
 | **Canonical Target URI** | urn:namencora:d03:aidronesops |
 | **Resolution Mode** | Deterministic Alias Forwarding |
 

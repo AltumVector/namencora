@@ -8,7 +8,7 @@ dirs = [
 ]
 
 target_dir = next((d for d in dirs if os.path.isdir(d)), ".")
-print(f"• Опрацювання карток у: {target_dir}")
+print(f"• Опрацювання каталогу: {target_dir}")
 
 total = 0
 updated = 0
@@ -27,17 +27,40 @@ for root, _, files in os.walk(target_dir):
 
         is_alias = bool(re.search(r'^[ \t]*type:\s*["\']?alias["\']?', content, re.MULTILINE | re.IGNORECASE))
         status_val = "Defensive Alias / Routing Mirror" if is_alias else "Canonical Specification (Active)"
+        status_row = f"| Specification Status | {status_val} |"
 
-        if re.search(r'\|\s*Execution Model\s*\|', content):
+        new_content = None
+
+        # 1. Спроба вставити після Execution Model (для канонічних)
+        if re.search(r'\|\s*\*?\*?Execution Model\*?\*?', content):
             new_content = re.sub(
-                r'(\|\s*Execution Model\s*\|[^\n]+)',
-                rf'\1\n| Specification Status | {status_val} |',
-                content
+                r'(\|\s*\*?\*?Execution Model\*?\*?[^\n]+)',
+                rf'\1\n{status_row}',
+                content,
+                count=1
             )
-            if new_content != content:
-                with open(p, "w", encoding="utf-8") as file:
-                    file.write(new_content)
-                updated += 1
+        # 2. Спроба вставити після Canonical URI (для аліасів або скорочених специфікацій)
+        elif re.search(r'\|\s*\*?\*?Canonical URI\*?\*?', content):
+            new_content = re.sub(
+                r'(\|\s*\*?\*?Canonical URI\*?\*?[^\n]+)',
+                rf'\1\n{status_row}',
+                content,
+                count=1
+            )
+        # 3. Універсальна вставка останнім рядком таблиці Розділу 3
+        elif "## 3. Architectural Properties" in content:
+            parts = content.split("## 3. Architectural Properties", 1)
+            rows = list(re.finditer(r'\n[ \t]*\|[^\n]+\|', parts[1]))
+            if rows:
+                last_match = rows[-1]
+                idx = last_match.end()
+                sec3 = parts[1][:idx] + f"\n{status_row}" + parts[1][idx:]
+                new_content = parts[0] + "## 3. Architectural Properties" + sec3
 
-print(f"• Всього перевірено карток: {total}")
-print(f"• Додано Specification Status: {updated}")
+        if new_content and new_content != content:
+            with open(p, "w", encoding="utf-8") as file:
+                file.write(new_content)
+            updated += 1
+
+print(f"• Всього карток перевірено: {total}")
+print(f"• Оновлено (додано рядок): {updated}")

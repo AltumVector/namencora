@@ -68,6 +68,7 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
 | **Subsystem Tier** | `High-Dimensional Vector Runtime` |
 | **Category Target** | `Steering & Semantic Trajectory` |
 | **Canonical URI** | `urn:namencora:d01:trajectoryvector` |
+| Specification Status | Canonical Specification (Active) |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 
 ---

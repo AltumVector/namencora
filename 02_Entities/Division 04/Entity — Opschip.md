@@ -68,6 +68,7 @@ Execution runtime and interface boundary primitive for the Hardware Controllers 
 | **Subsystem Tier** | `Hardware Controllers & Bus Architectures` |
 | **Category Target** | `I/O Engines & Silicon Primitives` |
 | **Canonical URI** | `urn:namencora:d04:opschip` |
+| Specification Status | Canonical Specification (Active) |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 
 ---

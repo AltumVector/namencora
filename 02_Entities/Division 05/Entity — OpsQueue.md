@@ -69,6 +69,7 @@ Distributed systems and infrastructure primitive for the Core Streaming Fabrics 
 | **Category Target** | `Category Standard Queues & Streams` |
 | **Canonical URI** | `urn:namencora:d05:opsqueue` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
+| Specification Status | Canonical Specification (Active) |
 
 ---
 *Part of the Namencora Systems & Nomenclature Registry (Cohort B).*

@@ -65,6 +65,7 @@ Architectural governance and control primitive for the Cryptographic Proof & Led
 | **Subsystem Tier** | `Cryptographic Proof & Ledger Auditing` |
 | **Category Target** | `Proof Generation & Audit Trails` |
 | **Canonical URI** | `urn:namencora:d03:cerberproof` |
+| Specification Status | Canonical Specification (Active) |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 
 ---

@@ -65,6 +65,7 @@ Architectural governance and control primitive for the Deterministic Circuit Bre
 | **Subsystem Tier** | `Deterministic Circuit Breakers & Veto Quorums` |
 | **Category Target** | `Core Veto Primitives` |
 | **Canonical URI** | `urn:namencora:d03:vetoops` |
+| Specification Status | Canonical Specification (Active) |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 
 ---

@@ -65,6 +65,7 @@ Execution runtime and interface boundary primitive for the Phase Dynamics & Tens
 | **Subsystem Tier** | `Phase Dynamics & Tensor Analysis` |
 | **Category Target** | `Phase Spaces, Curvature & Tensors` |
 | **Canonical URI** | `urn:namencora:d04:vimphase` |
+| Specification Status | Canonical Specification (Active) |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 
 ---

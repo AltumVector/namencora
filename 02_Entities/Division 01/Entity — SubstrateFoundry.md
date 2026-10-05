@@ -68,6 +68,7 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
 | **Subsystem Tier** | `Deep Storage & Hardware Substrates` |
 | **Category Target** | `Zero-Copy & Hardware Substrates` |
 | **Canonical URI** | `urn:namencora:d01:substratefoundry` |
+| Specification Status | Canonical Specification (Active) |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 
 ---

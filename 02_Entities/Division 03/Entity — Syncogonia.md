@@ -68,6 +68,7 @@ Architectural governance and control primitive for the Auxiliary Neologisms & Dr
 | **Subsystem Tier** | `Auxiliary Neologisms & Drone Ops` |
 | **Category Target** | `Queues, Dispatch & Operational Cores` |
 | **Canonical URI** | `urn:namencora:d03:syncogonia` |
+| Specification Status | Canonical Specification (Active) |
 | **Governance Model** | `Byzantine Fault Tolerant / Deterministic Abort Envelope` |
 
 ---

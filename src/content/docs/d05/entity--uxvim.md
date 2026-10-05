@@ -66,6 +66,7 @@ Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Ex
 | **Category Target** | `High-Throughput Node Clusters` |
 | **Canonical URI** | `urn:namencora:d05:uxvim` |
 | **Execution Model** | `Event-Driven Streaming DAG / Zero-Allocation Ring Pipeline` |
+| Specification Status | Canonical Specification (Active) |
 
 ---
 *Part of the Namencora Systems & Nomenclature Registry (Cohort B).*

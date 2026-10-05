@@ -68,6 +68,7 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
 | **Subsystem Tier** | `Deep Storage & Hardware Substrates` |
 | **Category Target** | `Core Indexing Engines` |
 | **Canonical URI** | `urn:namencora:d01:phireindex` |
+| Specification Status | Canonical Specification (Active) |
 | **Isolation Model** | `Process-bounded memory / Direct NVMe-aligned` |
 
 ---

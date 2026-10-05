@@ -68,6 +68,7 @@ Execution runtime and interface boundary primitive for the Applied Photonics, X-
 | **Subsystem Tier** | `Applied Photonics, X-Ray & Signal Pulses` |
 | **Category Target** | `X-Ray Guides & High-Frequency Pulses` |
 | **Canonical URI** | `urn:namencora:d04:xraychip` |
+| Specification Status | Canonical Specification (Active) |
 | **Dynamics Model** | `Non-linear State-Space Operator / Phase Portrait Mapping` |
 
 ---
