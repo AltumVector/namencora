@@ -56,6 +56,31 @@ Execution runtime and interface boundary primitive for the Applied Photonics, X-
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "BallisticPulse",
+  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "termCode": "D04-DYN-041",
+  "description": "Formal architectural primitive for x-ray guides & high-frequency pulses.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Applied Photonics, X-Ray & Signal Pulses"
+    },
+    {
+      "name": "category",
+      "value": "X-Ray Guides & High-Frequency Pulses"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d04:ballisticpulse"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -49,6 +49,17 @@ Deterministic defensive namespace mirror (plural form) for the canonical AiDrone
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "AiDronsOps",
+  "termCode": "D03-GOV-082",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "sameAs": "https://namencora.com/d03/entity--aidronesops/"
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

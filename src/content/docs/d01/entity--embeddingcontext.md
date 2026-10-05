@@ -56,6 +56,31 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "EmbeddingContext",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-013",
+  "description": "Formal architectural primitive for context spaces.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "High-Dimensional Vector Runtime"
+    },
+    {
+      "name": "category",
+      "value": "Context Spaces"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:embeddingcontext"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

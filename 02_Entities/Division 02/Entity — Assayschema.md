@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Formal Verification & Evalu
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "AssaySchema",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-042",
+  "description": "Formal architectural primitive for code, schema & execution verification.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Formal Verification & Evaluation Harness"
+    },
+    {
+      "name": "category",
+      "value": "Code, Schema & Execution Verification"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:assayschema"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

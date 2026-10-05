@@ -56,6 +56,31 @@ Distributed systems and infrastructure primitive for the Auxiliary Neologisms & 
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "StreamDigm",
+  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "termCode": "D05-RUN-080",
+  "description": "Formal architectural primitive for high-throughput node clusters.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Auxiliary Neologisms & Tooling Tier"
+    },
+    {
+      "name": "category",
+      "value": "High-Throughput Node Clusters"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d05:streamdigm"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

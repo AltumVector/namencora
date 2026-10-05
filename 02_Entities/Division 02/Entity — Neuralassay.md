@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Formal Verification & Evalu
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "NeuralAssay",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-049",
+  "description": "Formal architectural primitive for model evaluation & ai safety (evals).",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Formal Verification & Evaluation Harness"
+    },
+    {
+      "name": "category",
+      "value": "Model Evaluation & AI Safety (Evals)"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:neuralassay"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

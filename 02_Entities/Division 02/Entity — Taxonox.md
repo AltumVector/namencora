@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "TaxonOx",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-007",
+  "description": "Formal architectural primitive for core taxonomic engines.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Machine Ontologies & Taxonomic Hierarchies"
+    },
+    {
+      "name": "category",
+      "value": "Core Taxonomic Engines"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:taxonox"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

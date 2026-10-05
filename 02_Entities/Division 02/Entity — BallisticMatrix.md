@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matri
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "BallisticMatrix",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-074",
+  "description": "Formal architectural primitive for multi-dimensional neural matrices.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Axiomatic Reasoning & Matrix Topologies"
+    },
+    {
+      "name": "category",
+      "value": "Multi-Dimensional Neural Matrices"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:ballisticmatrix"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

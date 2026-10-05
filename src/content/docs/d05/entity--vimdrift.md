@@ -56,6 +56,31 @@ Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Ex
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "VimDrift",
+  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "termCode": "D05-RUN-050",
+  "description": "Formal architectural primitive for telemetry, queuing & routing.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "The Vim Micro-Kernel Execution Stack"
+    },
+    {
+      "name": "category",
+      "value": "Telemetry, Queuing & Routing"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d05:vimdrift"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

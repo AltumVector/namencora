@@ -56,6 +56,31 @@ Execution runtime and interface boundary primitive for the Auxiliary Tooling Tie
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "ChipAtor",
+  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "termCode": "D04-DYN-044",
+  "description": "Formal architectural primitive for x-ray guides & high-frequency pulses.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Auxiliary Tooling Tier"
+    },
+    {
+      "name": "category",
+      "value": "X-Ray Guides & High-Frequency Pulses"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d04:chipator"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

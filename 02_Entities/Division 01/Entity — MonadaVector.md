@@ -59,6 +59,31 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "MonadaVector",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-030",
+  "description": "Formal architectural primitive for vector space operators.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "High-Dimensional Vector Runtime"
+    },
+    {
+      "name": "category",
+      "value": "Vector Space Operators"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:monadavector"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

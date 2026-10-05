@@ -59,6 +59,31 @@ Architectural governance and control primitive for the Systems Governance subsys
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "MlOpsCore",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "termCode": "D03-GOV-070",
+  "description": "Formal architectural primitive for consensus primitive.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Systems Governance"
+    },
+    {
+      "name": "category",
+      "value": "Consensus Primitive"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d03:mlopscore"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

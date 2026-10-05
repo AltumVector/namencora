@@ -56,6 +56,31 @@ Distributed persistence and storage tier primitive for the Diagnostic Agents & U
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "MemoryZor",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-041",
+  "description": "Formal architectural primitive for telemetry & diagnostic tooling.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Diagnostic Agents & Utility Tier"
+    },
+    {
+      "name": "category",
+      "value": "Telemetry & Diagnostic Tooling"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:memoryzor"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -56,6 +56,31 @@ Execution runtime and interface boundary primitive for the Hardware Controllers 
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "StarkChip",
+  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "termCode": "D04-DYN-029",
+  "description": "Formal architectural primitive for i/o engines & silicon primitives.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Hardware Controllers & Bus Architectures"
+    },
+    {
+      "name": "category",
+      "value": "I/O Engines & Silicon Primitives"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d04:starkchip"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

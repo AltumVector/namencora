@@ -56,6 +56,31 @@ Architectural governance and control primitive for the Deterministic Circuit Bre
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "VetoPilot",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "termCode": "D03-GOV-006",
+  "description": "Formal architectural primitive for core veto primitives.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Deterministic Circuit Breakers & Veto Quorums"
+    },
+    {
+      "name": "category",
+      "value": "Core Veto Primitives"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d03:vetopilot"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -59,6 +59,31 @@ Distributed systems and infrastructure primitive for the The Vim Micro-Kernel Ex
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "QuantoVim",
+  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "termCode": "D05-RUN-035",
+  "description": "Formal architectural primitive for compute units & mathematical cores.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "The Vim Micro-Kernel Execution Stack"
+    },
+    {
+      "name": "category",
+      "value": "Compute Units & Mathematical Cores"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d05:quantovim"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

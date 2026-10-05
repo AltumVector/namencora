@@ -59,6 +59,31 @@ Architectural governance and control primitive for the Distributed State Synchro
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "MorseSync",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "termCode": "D03-GOV-027",
+  "description": "Formal architectural primitive for synchronization protocols & clocks.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Distributed State Synchronization"
+    },
+    {
+      "name": "category",
+      "value": "Synchronization Protocols & Clocks"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d03:morsesync"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

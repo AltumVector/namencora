@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "PhireGraph",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-018",
+  "description": "Formal architectural primitive for knowledge & lock graphs.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Machine Ontologies & Taxonomic Hierarchies"
+    },
+    {
+      "name": "category",
+      "value": "Knowledge & Lock Graphs"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:phiregraph"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

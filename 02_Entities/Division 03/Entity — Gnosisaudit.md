@@ -59,6 +59,31 @@ Architectural governance and control primitive for the Cryptographic Proof & Led
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "GnosisAudit",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "termCode": "D03-GOV-036",
+  "description": "Formal architectural primitive for proof generation & audit trails.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Cryptographic Proof & Ledger Auditing"
+    },
+    {
+      "name": "category",
+      "value": "Proof Generation & Audit Trails"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d03:gnosisaudit"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

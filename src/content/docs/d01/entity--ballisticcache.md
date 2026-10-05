@@ -56,6 +56,31 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "BallisticCache",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-005",
+  "description": "Formal architectural primitive for l1/l2 in-memory acceleration.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Deep Storage & Hardware Substrates"
+    },
+    {
+      "name": "category",
+      "value": "L1/L2 In-Memory Acceleration"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:ballisticcache"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

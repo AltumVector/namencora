@@ -59,6 +59,31 @@ Execution runtime and interface boundary primitive for the Phase Dynamics & Tens
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "PhaseGradient",
+  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "termCode": "D04-DYN-001",
+  "description": "Formal architectural primitive for phase spaces, curvature & tensors.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Phase Dynamics & Tensor Analysis"
+    },
+    {
+      "name": "category",
+      "value": "Phase Spaces, Curvature & Tensors"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d04:phasegradient"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

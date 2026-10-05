@@ -56,6 +56,31 @@ Architectural governance and control primitive for the Auxiliary Neologisms & Dr
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "OpsYlyn",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "termCode": "D03-GOV-057",
+  "description": "Formal architectural primitive for queues, dispatch & operational cores.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Auxiliary Neologisms & Drone Ops"
+    },
+    {
+      "name": "category",
+      "value": "Queues, Dispatch & Operational Cores"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d03:opsylyn"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

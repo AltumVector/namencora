@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "SemaScan",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-029",
+  "description": "Formal architectural primitive for analysis, scanning & metrics.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Semantic Runtime & Knowledge Representation"
+    },
+    {
+      "name": "category",
+      "value": "Analysis, Scanning & Metrics"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:semascan"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

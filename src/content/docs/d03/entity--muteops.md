@@ -56,6 +56,31 @@ Architectural governance and control primitive for the Systems Governance subsys
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "MuteOps",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "termCode": "D03-GOV-075",
+  "description": "Formal architectural primitive for consensus primitive.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Systems Governance"
+    },
+    {
+      "name": "category",
+      "value": "Consensus Primitive"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d03:muteops"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

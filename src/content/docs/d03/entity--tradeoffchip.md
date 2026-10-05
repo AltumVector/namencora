@@ -56,6 +56,31 @@ Architectural governance and control primitive for the Multi-Objective Trade-off
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "TradeoffChip",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "termCode": "D03-GOV-016",
+  "description": "Formal architectural primitive for systems trade-off analysis & arbitration.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Multi-Objective Trade-off Engines"
+    },
+    {
+      "name": "category",
+      "value": "Systems Trade-off Analysis & Arbitration"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d03:tradeoffchip"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -56,6 +56,31 @@ Distributed systems and infrastructure primitive for the Auxiliary Neologisms & 
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "VimPhore",
+  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "termCode": "D05-RUN-085",
+  "description": "Formal architectural primitive for high-throughput node clusters.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Auxiliary Neologisms & Tooling Tier"
+    },
+    {
+      "name": "category",
+      "value": "High-Throughput Node Clusters"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d05:vimphore"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

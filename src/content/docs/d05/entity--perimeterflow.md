@@ -56,6 +56,31 @@ Distributed systems and infrastructure primitive for the Stochastic & High-Veloc
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "PerimeterFlow",
+  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "termCode": "D05-RUN-016",
+  "description": "Formal architectural primitive for stochastic models & high-throughput streams.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Stochastic & High-Velocity Pipelines"
+    },
+    {
+      "name": "category",
+      "value": "Stochastic Models & High-Throughput Streams"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d05:perimeterflow"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

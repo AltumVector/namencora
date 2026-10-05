@@ -56,6 +56,31 @@ Ontological and cognitive semantic primitive for the Machine Ontologies & Taxono
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "LexiStruct",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-010",
+  "description": "Formal architectural primitive for formal schemas & validation.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Machine Ontologies & Taxonomic Hierarchies"
+    },
+    {
+      "name": "category",
+      "value": "Formal Schemas & Validation"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:lexistruct"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -59,6 +59,31 @@ Execution runtime and interface boundary primitive for the Differential Geometry
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "TraceWarp",
+  "inDefinedTermSet": "Division 04: Computational Physics & Dynamics",
+  "termCode": "D04-DYN-013",
+  "description": "Formal architectural primitive for computational geometry & surface deformation.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Differential Geometry & Manifold Warping"
+    },
+    {
+      "name": "category",
+      "value": "Computational Geometry & Surface Deformation"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d04:tracewarp"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

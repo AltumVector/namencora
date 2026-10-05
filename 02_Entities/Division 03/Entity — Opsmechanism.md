@@ -59,6 +59,31 @@ Architectural governance and control primitive for the Operations Runtimes & Exe
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "OpsMechanism",
+  "inDefinedTermSet": "Division 03: Systems Governance & Consensus",
+  "termCode": "D03-GOV-041",
+  "description": "Formal architectural primitive for queues, dispatch & operational cores.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Operations Runtimes & Execution Queues"
+    },
+    {
+      "name": "category",
+      "value": "Queues, Dispatch & Operational Cores"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d03:opsmechanism"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

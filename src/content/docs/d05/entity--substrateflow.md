@@ -56,6 +56,31 @@ Distributed systems and infrastructure primitive for the Cross-Division Anchors 
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "SubstrateFlow",
+  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "termCode": "D05-RUN-061",
+  "description": "Formal architectural primitive for high-throughput node clusters.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Cross-Division Anchors"
+    },
+    {
+      "name": "category",
+      "value": "High-Throughput Node Clusters"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d05:substrateflow"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

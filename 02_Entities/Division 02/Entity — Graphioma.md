@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Auxiliary Lexical Neologism
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Graphioma",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-086",
+  "description": "Formal architectural primitive for multi-dimensional neural matrices.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Auxiliary Lexical Neologisms"
+    },
+    {
+      "name": "category",
+      "value": "Multi-Dimensional Neural Matrices"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:graphioma"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

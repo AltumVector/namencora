@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "SemaMat",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-026",
+  "description": "Formal architectural primitive for semantic cores & routing.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Semantic Runtime & Knowledge Representation"
+    },
+    {
+      "name": "category",
+      "value": "Semantic Cores & Routing"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:semamat"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

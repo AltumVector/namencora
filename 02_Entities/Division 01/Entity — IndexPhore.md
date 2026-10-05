@@ -59,6 +59,31 @@ Distributed persistence and storage tier primitive for the Diagnostic Agents & U
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "IndexPhore",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-039",
+  "description": "Formal architectural primitive for telemetry & diagnostic tooling.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Diagnostic Agents & Utility Tier"
+    },
+    {
+      "name": "category",
+      "value": "Telemetry & Diagnostic Tooling"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:indexphore"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -56,6 +56,31 @@ Ontological and cognitive semantic primitive for the Axiomatic Reasoning & Matri
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "MonadaLogic",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-065",
+  "description": "Formal architectural primitive for axiomatic & postulate engines.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Axiomatic Reasoning & Matrix Topologies"
+    },
+    {
+      "name": "category",
+      "value": "Axiomatic & Postulate Engines"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:monadalogic"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

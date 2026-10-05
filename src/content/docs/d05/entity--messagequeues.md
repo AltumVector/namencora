@@ -56,6 +56,31 @@ Distributed systems and infrastructure primitive for the Core Streaming Fabrics 
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "MessageQueues",
+  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "termCode": "D05-RUN-001",
+  "description": "Formal architectural primitive for category standard queues & streams.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Core Streaming Fabrics & Message Queues"
+    },
+    {
+      "name": "category",
+      "value": "Category Standard Queues & Streams"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d05:messagequeues"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -59,6 +59,31 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "SignalEmbedding",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-020",
+  "description": "Formal architectural primitive for drift, telemetry & signal embeddings.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "High-Dimensional Vector Runtime"
+    },
+    {
+      "name": "category",
+      "value": "Drift, Telemetry & Signal Embeddings"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:signalembedding"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

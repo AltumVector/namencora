@@ -56,6 +56,31 @@ Ontological and cognitive semantic primitive for the Semantic Runtime & Knowledg
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "LexiFluid",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-035",
+  "description": "Formal architectural primitive for lexical enclaves & parsers.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Semantic Runtime & Knowledge Representation"
+    },
+    {
+      "name": "category",
+      "value": "Lexical Enclaves & Parsers"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:lexifluid"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -59,6 +59,31 @@ Ontological and cognitive semantic primitive for the Formal Verification & Evalu
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "AssayAxio",
+  "inDefinedTermSet": "Division 02: Cognitive & Ontological Systems",
+  "termCode": "D02-COG-058",
+  "description": "Formal architectural primitive for bus & transaction conformance.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Formal Verification & Evaluation Harness"
+    },
+    {
+      "name": "category",
+      "value": "Bus & Transaction Conformance"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d02:assayaxio"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

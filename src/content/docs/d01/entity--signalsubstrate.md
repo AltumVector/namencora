@@ -56,6 +56,31 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "SignalSubstrate",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-010",
+  "description": "Formal architectural primitive for zero-copy & hardware substrates.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Deep Storage & Hardware Substrates"
+    },
+    {
+      "name": "category",
+      "value": "Zero-Copy & Hardware Substrates"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:signalsubstrate"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

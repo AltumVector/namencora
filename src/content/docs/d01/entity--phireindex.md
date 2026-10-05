@@ -56,6 +56,31 @@ Distributed persistence and storage tier primitive for the Deep Storage & Hardwa
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "PhireIndex",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-004",
+  "description": "Formal architectural primitive for core indexing engines.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Deep Storage & Hardware Substrates"
+    },
+    {
+      "name": "category",
+      "value": "Core Indexing Engines"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:phireindex"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

@@ -59,6 +59,31 @@ Distributed systems and infrastructure primitive for the Event Runtimes & Execut
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "PeriTask",
+  "inDefinedTermSet": "Division 05: Execution Pipelines & Streaming Runtimes",
+  "termCode": "D05-RUN-022",
+  "description": "Formal architectural primitive for schedulers, task loops & pipelines.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Event Runtimes & Execution Schedulers"
+    },
+    {
+      "name": "category",
+      "value": "Schedulers, Task Loops & Pipelines"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d05:peritask"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

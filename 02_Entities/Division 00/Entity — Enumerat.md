@@ -59,6 +59,31 @@ Foundational protocol primitive for the Streaming Execution Engines subsystem (c
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Enumerat",
+  "inDefinedTermSet": "Division 00: Core & Protocol Primitives",
+  "termCode": "D00-COR-002",
+  "description": "Formal architectural primitive for high-throughput log iteration.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "Streaming Execution Engines"
+    },
+    {
+      "name": "category",
+      "value": "High-Throughput Log Iteration"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d00:enumerat"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties

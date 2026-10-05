@@ -56,6 +56,31 @@ Distributed persistence and storage tier primitive for the High-Dimensional Vect
 }
 ```
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "IngestEmbedding",
+  "inDefinedTermSet": "Division 01: Storage Engines & Memory Topologies",
+  "termCode": "D01-STG-014",
+  "description": "Formal architectural primitive for write-path & ingestion.",
+  "additionalProperty": [
+    {
+      "name": "subsystem",
+      "value": "High-Dimensional Vector Runtime"
+    },
+    {
+      "name": "category",
+      "value": "Write-Path & Ingestion"
+    },
+    {
+      "name": "canonicalUri",
+      "value": "urn:namencora:d01:ingestembedding"
+    }
+  ]
+}
+</script>
+
 ---
 
 ## 3. Architectural Properties
