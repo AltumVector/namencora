@@ -1,6 +1,11 @@
+---
+title: "Entity — Rootopology"
+description: "Persistent homology, core topological invariants, and graph structural persistence."
+---
+
 # Rootopology
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:ROOTOPOLOGY`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Persistent homology, core topological invariants, and graph structural persisten
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--rootopology/#term",
+  "@id": "https://namencora.com/d06/rootopology/#term",
   "name": "Rootopology",
   "termCode": "URN:NAMENCORA:D06:ROOTOPOLOGY",
   "description": "Persistent homology, core topological invariants, and graph structural persistence.",
@@ -33,7 +38,7 @@ Persistent homology, core topological invariants, and graph structural persisten
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--rootopology/#term",
+  "@id": "https://namencora.com/d06/rootopology/#term",
   "name": "Rootopology",
   "termCode": "URN:NAMENCORA:D06:ROOTOPOLOGY",
   "description": "Persistent homology, core topological invariants, and graph structural persistence.",

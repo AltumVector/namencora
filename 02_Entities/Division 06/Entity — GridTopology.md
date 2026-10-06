@@ -1,6 +1,11 @@
+---
+title: "Entity — GridTopology"
+description: "Spatial lattice graph embeddings, discrete manifold connectivity, and multi-scale grid routing."
+---
+
 # GridTopology
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:GRIDTOPOLOGY`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Spatial lattice graph embeddings, discrete manifold connectivity, and multi-scal
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--gridtopology/#term",
+  "@id": "https://namencora.com/d06/gridtopology/#term",
   "name": "GridTopology",
   "termCode": "URN:NAMENCORA:D06:GRIDTOPOLOGY",
   "description": "Spatial lattice graph embeddings, discrete manifold connectivity, and multi-scale grid routing.",
@@ -33,7 +38,7 @@ Spatial lattice graph embeddings, discrete manifold connectivity, and multi-scal
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--gridtopology/#term",
+  "@id": "https://namencora.com/d06/gridtopology/#term",
   "name": "GridTopology",
   "termCode": "URN:NAMENCORA:D06:GRIDTOPOLOGY",
   "description": "Spatial lattice graph embeddings, discrete manifold connectivity, and multi-scale grid routing.",

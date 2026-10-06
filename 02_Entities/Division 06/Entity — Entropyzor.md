@@ -1,6 +1,11 @@
+---
+title: "Entity — Entropyzor"
+description: "Thermodynamic dissipation tracking, phase-space decay operators, and negentropy stabilizers."
+---
+
 # Entropyzor
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:ENTROPYZOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Thermodynamic dissipation tracking, phase-space decay operators, and negentropy 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--entropyzor/#term",
+  "@id": "https://namencora.com/d06/entropyzor/#term",
   "name": "Entropyzor",
   "termCode": "URN:NAMENCORA:D06:ENTROPYZOR",
   "description": "Thermodynamic dissipation tracking, phase-space decay operators, and negentropy stabilizers.",
@@ -33,7 +38,7 @@ Thermodynamic dissipation tracking, phase-space decay operators, and negentropy 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--entropyzor/#term",
+  "@id": "https://namencora.com/d06/entropyzor/#term",
   "name": "Entropyzor",
   "termCode": "URN:NAMENCORA:D06:ENTROPYZOR",
   "description": "Thermodynamic dissipation tracking, phase-space decay operators, and negentropy stabilizers.",

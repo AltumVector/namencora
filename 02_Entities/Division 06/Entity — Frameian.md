@@ -1,6 +1,11 @@
+---
+title: "Entity — Frameian"
+description: "Invariant reference frames, inertial spatial coordinate systems, and kinematic transformation pipelines."
+---
+
 # Frameian
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:FRAMEIAN`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Invariant reference frames, inertial spatial coordinate systems, and kinematic t
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--frameian/#term",
+  "@id": "https://namencora.com/d06/frameian/#term",
   "name": "Frameian",
   "termCode": "URN:NAMENCORA:D06:FRAMEIAN",
   "description": "Invariant reference frames, inertial spatial coordinate systems, and kinematic transformation pipelines.",
@@ -33,7 +38,7 @@ Invariant reference frames, inertial spatial coordinate systems, and kinematic t
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--frameian/#term",
+  "@id": "https://namencora.com/d06/frameian/#term",
   "name": "Frameian",
   "termCode": "URN:NAMENCORA:D06:FRAMEIAN",
   "description": "Invariant reference frames, inertial spatial coordinate systems, and kinematic transformation pipelines.",

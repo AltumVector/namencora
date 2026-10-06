@@ -1,6 +1,11 @@
+---
+title: "Entity — CausalMetric"
+description: "Structural equation scoring, directed acyclic graph (DAG) invariants, and counterfactual validation."
+---
+
 # CausalMetric
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:CAUSALMETRIC`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Structural equation scoring, directed acyclic graph (DAG) invariants, and counte
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--causalmetric/#term",
+  "@id": "https://namencora.com/d06/causalmetric/#term",
   "name": "CausalMetric",
   "termCode": "URN:NAMENCORA:D06:CAUSALMETRIC",
   "description": "Structural equation scoring, directed acyclic graph (DAG) invariants, and counterfactual validation.",
@@ -33,7 +38,7 @@ Structural equation scoring, directed acyclic graph (DAG) invariants, and counte
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--causalmetric/#term",
+  "@id": "https://namencora.com/d06/causalmetric/#term",
   "name": "CausalMetric",
   "termCode": "URN:NAMENCORA:D06:CAUSALMETRIC",
   "description": "Structural equation scoring, directed acyclic graph (DAG) invariants, and counterfactual validation.",

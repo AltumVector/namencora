@@ -1,6 +1,11 @@
+---
+title: "Entity — Eigenxor"
+description: "Spectral decomposition and eigenvalue calculation fused with discrete partition logic."
+---
+
 # Eigenxor
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:EIGENXOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Spectral decomposition and eigenvalue calculation fused with discrete partition 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--eigenxor/#term",
+  "@id": "https://namencora.com/d06/eigenxor/#term",
   "name": "Eigenxor",
   "termCode": "URN:NAMENCORA:D06:EIGENXOR",
   "description": "Spectral decomposition and eigenvalue calculation fused with discrete partition logic.",
@@ -33,7 +38,7 @@ Spectral decomposition and eigenvalue calculation fused with discrete partition 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--eigenxor/#term",
+  "@id": "https://namencora.com/d06/eigenxor/#term",
   "name": "Eigenxor",
   "termCode": "URN:NAMENCORA:D06:EIGENXOR",
   "description": "Spectral decomposition and eigenvalue calculation fused with discrete partition logic.",

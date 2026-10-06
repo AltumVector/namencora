@@ -1,6 +1,11 @@
+---
+title: "Entity — Deformator"
+description: "Non-linear continuum mechanics, strain tensor dynamics, and finite-element stress fields."
+---
+
 # Deformator
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:DEFORMATOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Non-linear continuum mechanics, strain tensor dynamics, and finite-element stres
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--deformator/#term",
+  "@id": "https://namencora.com/d06/deformator/#term",
   "name": "Deformator",
   "termCode": "URN:NAMENCORA:D06:DEFORMATOR",
   "description": "Non-linear continuum mechanics, strain tensor dynamics, and finite-element stress fields.",
@@ -33,7 +38,7 @@ Non-linear continuum mechanics, strain tensor dynamics, and finite-element stres
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--deformator/#term",
+  "@id": "https://namencora.com/d06/deformator/#term",
   "name": "Deformator",
   "termCode": "URN:NAMENCORA:D06:DEFORMATOR",
   "description": "Non-linear continuum mechanics, strain tensor dynamics, and finite-element stress fields.",

@@ -1,6 +1,11 @@
+---
+title: "Entity — OffsetMesh"
+description: "Volumetric dilation, outward conformal offsetting, and geometric shell contouring."
+---
+
 # OffsetMesh
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:OFFSETMESH`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Volumetric dilation, outward conformal offsetting, and geometric shell contourin
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--offsetmesh/#term",
+  "@id": "https://namencora.com/d06/offsetmesh/#term",
   "name": "OffsetMesh",
   "termCode": "URN:NAMENCORA:D06:OFFSETMESH",
   "description": "Volumetric dilation, outward conformal offsetting, and geometric shell contouring.",
@@ -33,7 +38,7 @@ Volumetric dilation, outward conformal offsetting, and geometric shell contourin
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--offsetmesh/#term",
+  "@id": "https://namencora.com/d06/offsetmesh/#term",
   "name": "OffsetMesh",
   "termCode": "URN:NAMENCORA:D06:OFFSETMESH",
   "description": "Volumetric dilation, outward conformal offsetting, and geometric shell contouring.",

@@ -1,6 +1,11 @@
+---
+title: "Entity — Tensorlytics"
+description: "High-dimensional multilinear tensor contractions, decomposed matrix analytics, and tensor algebra."
+---
+
 # Tensorlytics
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:TENSORLYTICS`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ High-dimensional multilinear tensor contractions, decomposed matrix analytics, a
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--tensorlytics/#term",
+  "@id": "https://namencora.com/d06/tensorlytics/#term",
   "name": "Tensorlytics",
   "termCode": "URN:NAMENCORA:D06:TENSORLYTICS",
   "description": "High-dimensional multilinear tensor contractions, decomposed matrix analytics, and tensor algebra.",
@@ -33,7 +38,7 @@ High-dimensional multilinear tensor contractions, decomposed matrix analytics, a
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--tensorlytics/#term",
+  "@id": "https://namencora.com/d06/tensorlytics/#term",
   "name": "Tensorlytics",
   "termCode": "URN:NAMENCORA:D06:TENSORLYTICS",
   "description": "High-dimensional multilinear tensor contractions, decomposed matrix analytics, and tensor algebra.",

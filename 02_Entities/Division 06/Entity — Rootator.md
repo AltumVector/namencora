@@ -1,6 +1,11 @@
+---
+title: "Entity — Rootator"
+description: "Rigid body kinematic operators, Euler angle transformations, and rotational matrix alignment."
+---
+
 # Rootator
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:ROOTATOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Rigid body kinematic operators, Euler angle transformations, and rotational matr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--rootator/#term",
+  "@id": "https://namencora.com/d06/rootator/#term",
   "name": "Rootator",
   "termCode": "URN:NAMENCORA:D06:ROOTATOR",
   "description": "Rigid body kinematic operators, Euler angle transformations, and rotational matrix alignment.",
@@ -33,7 +38,7 @@ Rigid body kinematic operators, Euler angle transformations, and rotational matr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--rootator/#term",
+  "@id": "https://namencora.com/d06/rootator/#term",
   "name": "Rootator",
   "termCode": "URN:NAMENCORA:D06:ROOTATOR",
   "description": "Rigid body kinematic operators, Euler angle transformations, and rotational matrix alignment.",

@@ -1,6 +1,11 @@
+---
+title: "Entity — Difurcate"
+description: "Non-linear phase portrait trajectories, dynamic state splitting, and asymptotic branch divergence."
+---
+
 # Difurcate
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:DIFURCATE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Non-linear phase portrait trajectories, dynamic state splitting, and asymptotic 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--difurcate/#term",
+  "@id": "https://namencora.com/d06/difurcate/#term",
   "name": "Difurcate",
   "termCode": "URN:NAMENCORA:D06:DIFURCATE",
   "description": "Non-linear phase portrait trajectories, dynamic state splitting, and asymptotic branch divergence.",
@@ -33,7 +38,7 @@ Non-linear phase portrait trajectories, dynamic state splitting, and asymptotic 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--difurcate/#term",
+  "@id": "https://namencora.com/d06/difurcate/#term",
   "name": "Difurcate",
   "termCode": "URN:NAMENCORA:D06:DIFURCATE",
   "description": "Non-linear phase portrait trajectories, dynamic state splitting, and asymptotic branch divergence.",

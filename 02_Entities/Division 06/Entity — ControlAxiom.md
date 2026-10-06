@@ -1,6 +1,11 @@
+---
+title: "Entity — ControlAxiom"
+description: "Closed-loop state feedback bounds, Lyapunov stability criteria, and automated control guarantees."
+---
+
 # ControlAxiom
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:CONTROLAXIOM`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Closed-loop state feedback bounds, Lyapunov stability criteria, and automated co
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--controlaxiom/#term",
+  "@id": "https://namencora.com/d06/controlaxiom/#term",
   "name": "ControlAxiom",
   "termCode": "URN:NAMENCORA:D06:CONTROLAXIOM",
   "description": "Closed-loop state feedback bounds, Lyapunov stability criteria, and automated control guarantees.",
@@ -33,7 +38,7 @@ Closed-loop state feedback bounds, Lyapunov stability criteria, and automated co
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--controlaxiom/#term",
+  "@id": "https://namencora.com/d06/controlaxiom/#term",
   "name": "ControlAxiom",
   "termCode": "URN:NAMENCORA:D06:CONTROLAXIOM",
   "description": "Closed-loop state feedback bounds, Lyapunov stability criteria, and automated control guarantees.",

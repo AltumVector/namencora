@@ -1,6 +1,11 @@
+---
+title: "Entity — Bluemula"
+description: "Closed-form formula parsing, symbolic algebra engines, and deterministic arithmetic solvers."
+---
+
 # Bluemula
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:BLUEMULA`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Closed-form formula parsing, symbolic algebra engines, and deterministic arithme
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--bluemula/#term",
+  "@id": "https://namencora.com/d06/bluemula/#term",
   "name": "Bluemula",
   "termCode": "URN:NAMENCORA:D06:BLUEMULA",
   "description": "Closed-form formula parsing, symbolic algebra engines, and deterministic arithmetic solvers.",
@@ -33,7 +38,7 @@ Closed-form formula parsing, symbolic algebra engines, and deterministic arithme
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--bluemula/#term",
+  "@id": "https://namencora.com/d06/bluemula/#term",
   "name": "Bluemula",
   "termCode": "URN:NAMENCORA:D06:BLUEMULA",
   "description": "Closed-form formula parsing, symbolic algebra engines, and deterministic arithmetic solvers.",

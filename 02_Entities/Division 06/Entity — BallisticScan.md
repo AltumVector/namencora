@@ -1,6 +1,11 @@
+---
+title: "Entity — BallisticScan"
+description: "High-frequency transient velocity profiling and rapid surface pulse-echo metrology."
+---
+
 # BallisticScan
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:BALLISTICSCAN`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ High-frequency transient velocity profiling and rapid surface pulse-echo metrolo
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--ballisticscan/#term",
+  "@id": "https://namencora.com/d06/ballisticscan/#term",
   "name": "BallisticScan",
   "termCode": "URN:NAMENCORA:D06:BALLISTICSCAN",
   "description": "High-frequency transient velocity profiling and rapid surface pulse-echo metrology.",
@@ -33,7 +38,7 @@ High-frequency transient velocity profiling and rapid surface pulse-echo metrolo
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--ballisticscan/#term",
+  "@id": "https://namencora.com/d06/ballisticscan/#term",
   "name": "BallisticScan",
   "termCode": "URN:NAMENCORA:D06:BALLISTICSCAN",
   "description": "High-frequency transient velocity profiling and rapid surface pulse-echo metrology.",

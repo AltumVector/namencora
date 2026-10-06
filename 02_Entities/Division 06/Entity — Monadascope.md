@@ -1,6 +1,11 @@
+---
+title: "Entity — Monadascope"
+description: "Atomic state telemetry, isolated execution frame observation, and micro-runtime diagnostics."
+---
+
 # Monadascope
 
-**Canonical URN:**   
+**Canonical URN:** `URN:NAMENCORA:D06:MONADASCOPE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -17,7 +22,7 @@ Atomic state telemetry, isolated execution frame observation, and micro-runtime 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--monadascope/#term",
+  "@id": "https://namencora.com/d06/monadascope/#term",
   "name": "Monadascope",
   "termCode": "URN:NAMENCORA:D06:MONADASCOPE",
   "description": "Atomic state telemetry, isolated execution frame observation, and micro-runtime diagnostics.",
@@ -33,7 +38,7 @@ Atomic state telemetry, isolated execution frame observation, and micro-runtime 
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--monadascope/#term",
+  "@id": "https://namencora.com/d06/monadascope/#term",
   "name": "Monadascope",
   "termCode": "URN:NAMENCORA:D06:MONADASCOPE",
   "description": "Atomic state telemetry, isolated execution frame observation, and micro-runtime diagnostics.",
