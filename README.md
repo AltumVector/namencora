@@ -1,7 +1,7 @@
 # Namencora: Canonical Systems Registry
 
 ![Registry Status](https://img.shields.io/badge/status-active-success) 
-![Entities](https://img.shields.io/badge/canonical--entities-341-blue) 
+![Entities](https://img.shields.io/badge/canonical--entities-355-blue) 
 ![Governance](https://img.shields.io/badge/governance-hybrid--rfc-orange) 
 ![Schema](https://img.shields.io/badge/schema.org-DefinedTerm-informational)
 
@@ -16,10 +16,11 @@
 | **`Division 00`** | Core & Protocol Primitives | **2** | Фундаментальні протокольні примітиви нульового рівня |
 | **`Division 01`** | Storage Engines & Memory Topologies | **42** | Двигуни зберігання, векторні простори та структури індексації |
 | **`Division 02`** | Cognitive & Ontological Systems | **91** | Онтологічні матриці, класифікатори та семантичні простори |
-| **`Division 03`** | Systems Governance & Consensus | **67** | Запобіжники (circuit breakers), вето-кворуми та арбітраж компромісів |
+| **`Division 03`** | Systems Governance & Consensus | **64** | Запобіжники (circuit breakers), вето-кворуми та арбітраж компромісів |
 | **`Division 04`** | Computational Physics & Dynamics | **45** | Фазові простори, нелінійні динамічні оператори та дисипація |
-| **`Division 05`** | Execution Pipelines & Streaming Runtimes | **94** | Потокові рантайми, конвеєри нульового копіювання та черги подій |
-| **Разом** | | **341** | |
+| **`Division 05`** | Execution Pipelines & Streaming Runtimes | **83** | Потокові рантайми, конвеєри нульового копіювання та черги подій |
+| **Division 06** | Computational Dynamics & Metrology | 28 | Нелінійна динаміка, тензорні оператори, метрологія NDT та обчислювальні ядра |
+| **Разом** | | **355** | |
 
 ---
 
