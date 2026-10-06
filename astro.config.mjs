@@ -21,43 +21,42 @@ export default defineConfig({
         github: 'https://github.com/AltumVector/namencora'
       },
       sidebar: [
-        {
-          label: 'Overview & Principles',
-          items: [
-            { label: 'Canonical Manifesto', link: '/' },
-            { label: 'Registry Governance', link: '/governance/' }
-					,
-					{
-						label: 'Division 06: Computational Dynamics & Metrology',
-						autogenerate: { directory: 'd06' },
-					},
-          ]
-        },
-        {
-          label: 'Division 00: Core Protocols',
-          autogenerate: { directory: 'd00' }
-        },
-        {
-          label: 'Division 01: Storage & Memory',
-          autogenerate: { directory: 'd01' }
-        },
-        {
-          label: 'Division 02: Cognitive & Ontological',
-          autogenerate: { directory: 'd02' }
-        },
-        {
-          label: 'Division 03: Governance & Consensus',
-          autogenerate: { directory: 'd03' }
-        },
-        {
-          label: 'Division 04: Computational Physics',
-          autogenerate: { directory: 'd04' }
-        },
-        {
-          label: 'Division 05: Execution Pipelines',
-          autogenerate: { directory: 'd05' }
-        }
-      ]
+      {
+        label: 'Overview & Principles',
+        items: [
+          { label: 'Canonical Manifesto', link: '/' },
+          { label: 'Registry Governance', link: '/governance/' }
+        ]
+      },
+      {
+        label: 'Division 00: Core Protocols',
+        autogenerate: { directory: 'd00' }
+      },
+      {
+        label: 'Division 01: Storage & Memory',
+        autogenerate: { directory: 'd01' }
+      },
+      {
+        label: 'Division 02: Cognitive & Ontological',
+        autogenerate: { directory: 'd02' }
+      },
+      {
+        label: 'Division 03: Governance & Consensus',
+        autogenerate: { directory: 'd03' }
+      },
+      {
+        label: 'Division 04: Computational Physics',
+        autogenerate: { directory: 'd04' }
+      },
+      {
+        label: 'Division 05: Execution Pipelines',
+        autogenerate: { directory: 'd05' }
+      },
+      {
+        label: 'Division 06: Computational Dynamics & Metrology',
+        autogenerate: { directory: 'd06' }
+      }
+    ]
     })
   ]
 });
