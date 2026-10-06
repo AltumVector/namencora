@@ -26,6 +26,11 @@ export default defineConfig({
           items: [
             { label: 'Canonical Manifesto', link: '/' },
             { label: 'Registry Governance', link: '/governance/' }
+					,
+					{
+						label: 'Division 06: Computational Dynamics & Metrology',
+						autogenerate: { directory: 'd06' },
+					},
           ]
         },
         {

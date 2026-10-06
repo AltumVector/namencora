@@ -12,7 +12,8 @@ div_mapping = {
     "Division 02": "d02",
     "Division 03": "d03",
     "Division 04": "d04",
-    "Division 05": "d05"
+    "Division 05": "d05",
+    "Division 06": "d06",
 }
 
 os.makedirs(dest_root, exist_ok=True)
