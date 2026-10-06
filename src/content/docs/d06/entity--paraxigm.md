@@ -1,8 +1,7 @@
 ---
-title: "Paraxigm"
----
-
-**Canonical URN:**   
+title: "Entity — Paraxigm"
+description: "Formal architectural paradigms, computational state machines, and execution model migrations."
+---**Canonical URN:** `URN:NAMENCORA:D06:PARAXIGM`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Formal architectural paradigms, computational state machines, and execution mode
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--paraxigm/#term",
+  "@id": "https://namencora.com/d06/paraxigm/#term",
   "name": "Paraxigm",
   "termCode": "URN:NAMENCORA:D06:PARAXIGM",
   "description": "Formal architectural paradigms, computational state machines, and execution model migrations.",
@@ -35,7 +34,7 @@ Formal architectural paradigms, computational state machines, and execution mode
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--paraxigm/#term",
+  "@id": "https://namencora.com/d06/paraxigm/#term",
   "name": "Paraxigm",
   "termCode": "URN:NAMENCORA:D06:PARAXIGM",
   "description": "Formal architectural paradigms, computational state machines, and execution model migrations.",

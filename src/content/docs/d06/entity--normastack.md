@@ -1,8 +1,7 @@
 ---
-title: "NormaStack"
----
-
-**Canonical URN:**   
+title: "Entity — NormaStack"
+description: "Specification verification layers, rule engine invariants, and compliance constraint stacks."
+---**Canonical URN:** `URN:NAMENCORA:D06:NORMASTACK`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Specification verification layers, rule engine invariants, and compliance constr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--normastack/#term",
+  "@id": "https://namencora.com/d06/normastack/#term",
   "name": "NormaStack",
   "termCode": "URN:NAMENCORA:D06:NORMASTACK",
   "description": "Specification verification layers, rule engine invariants, and compliance constraint stacks.",
@@ -35,7 +34,7 @@ Specification verification layers, rule engine invariants, and compliance constr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--normastack/#term",
+  "@id": "https://namencora.com/d06/normastack/#term",
   "name": "NormaStack",
   "termCode": "URN:NAMENCORA:D06:NORMASTACK",
   "description": "Specification verification layers, rule engine invariants, and compliance constraint stacks.",

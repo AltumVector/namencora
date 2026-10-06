@@ -1,8 +1,7 @@
 ---
-title: "Defectoscope"
----
-
-**Canonical URN:**   
+title: "Entity — Defectoscope"
+description: "Non-destructive testing (NDT), ultrasonic wave attenuation, and internal acoustic flaw detection."
+---**Canonical URN:** `URN:NAMENCORA:D06:DEFECTOSCOPE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Non-destructive testing (NDT), ultrasonic wave attenuation, and internal acousti
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--defectoscope/#term",
+  "@id": "https://namencora.com/d06/defectoscope/#term",
   "name": "Defectoscope",
   "termCode": "URN:NAMENCORA:D06:DEFECTOSCOPE",
   "description": "Non-destructive testing (NDT), ultrasonic wave attenuation, and internal acoustic flaw detection.",
@@ -35,7 +34,7 @@ Non-destructive testing (NDT), ultrasonic wave attenuation, and internal acousti
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--defectoscope/#term",
+  "@id": "https://namencora.com/d06/defectoscope/#term",
   "name": "Defectoscope",
   "termCode": "URN:NAMENCORA:D06:DEFECTOSCOPE",
   "description": "Non-destructive testing (NDT), ultrasonic wave attenuation, and internal acoustic flaw detection.",

@@ -1,8 +1,7 @@
 ---
-title: "BooleanMesh"
----
-
-**Canonical URN:**   
+title: "Entity — BooleanMesh"
+description: "Constructive solid geometry operations and boundary representation logic for polygonal solids."
+---**Canonical URN:** `URN:NAMENCORA:D06:BOOLEANMESH`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Constructive solid geometry operations and boundary representation logic for pol
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--booleanmesh/#term",
+  "@id": "https://namencora.com/d06/booleanmesh/#term",
   "name": "BooleanMesh",
   "termCode": "URN:NAMENCORA:D06:BOOLEANMESH",
   "description": "Constructive solid geometry operations and boundary representation logic for polygonal solids.",
@@ -35,7 +34,7 @@ Constructive solid geometry operations and boundary representation logic for pol
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--booleanmesh/#term",
+  "@id": "https://namencora.com/d06/booleanmesh/#term",
   "name": "BooleanMesh",
   "termCode": "URN:NAMENCORA:D06:BOOLEANMESH",
   "description": "Constructive solid geometry operations and boundary representation logic for polygonal solids.",

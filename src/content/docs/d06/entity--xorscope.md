@@ -1,8 +1,7 @@
 ---
-title: "Xorscope"
----
-
-**Canonical URN:**   
+title: "Entity — Xorscope"
+description: "Bitwise differential state tracking, discrete variance probes, and logic-level telemetry analysis."
+---**Canonical URN:** `URN:NAMENCORA:D06:XORSCOPE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Bitwise differential state tracking, discrete variance probes, and logic-level t
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--xorscope/#term",
+  "@id": "https://namencora.com/d06/xorscope/#term",
   "name": "Xorscope",
   "termCode": "URN:NAMENCORA:D06:XORSCOPE",
   "description": "Bitwise differential state tracking, discrete variance probes, and logic-level telemetry analysis.",
@@ -35,7 +34,7 @@ Bitwise differential state tracking, discrete variance probes, and logic-level t
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--xorscope/#term",
+  "@id": "https://namencora.com/d06/xorscope/#term",
   "name": "Xorscope",
   "termCode": "URN:NAMENCORA:D06:XORSCOPE",
   "description": "Bitwise differential state tracking, discrete variance probes, and logic-level telemetry analysis.",

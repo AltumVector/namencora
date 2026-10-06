@@ -1,8 +1,7 @@
 ---
-title: "TensorCycle"
----
-
-**Canonical URN:**   
+title: "Entity — TensorCycle"
+description: "Cyclic compute graph scheduling, recurrent tensor memory loops, and iterative gradient propagation."
+---**Canonical URN:** `URN:NAMENCORA:D06:TENSORCYCLE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Cyclic compute graph scheduling, recurrent tensor memory loops, and iterative gr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--tensorcycle/#term",
+  "@id": "https://namencora.com/d06/tensorcycle/#term",
   "name": "TensorCycle",
   "termCode": "URN:NAMENCORA:D06:TENSORCYCLE",
   "description": "Cyclic compute graph scheduling, recurrent tensor memory loops, and iterative gradient propagation.",
@@ -35,7 +34,7 @@ Cyclic compute graph scheduling, recurrent tensor memory loops, and iterative gr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--tensorcycle/#term",
+  "@id": "https://namencora.com/d06/tensorcycle/#term",
   "name": "TensorCycle",
   "termCode": "URN:NAMENCORA:D06:TENSORCYCLE",
   "description": "Cyclic compute graph scheduling, recurrent tensor memory loops, and iterative gradient propagation.",

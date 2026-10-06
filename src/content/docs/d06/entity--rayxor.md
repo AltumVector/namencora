@@ -1,8 +1,7 @@
 ---
-title: "Rayxor"
----
-
-**Canonical URN:**   
+title: "Entity — Rayxor"
+description: "Hardware-accelerated ray tracing logic, bounding-volume hierarchy traversals, and optical casting."
+---**Canonical URN:** `URN:NAMENCORA:D06:RAYXOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Hardware-accelerated ray tracing logic, bounding-volume hierarchy traversals, an
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--rayxor/#term",
+  "@id": "https://namencora.com/d06/rayxor/#term",
   "name": "Rayxor",
   "termCode": "URN:NAMENCORA:D06:RAYXOR",
   "description": "Hardware-accelerated ray tracing logic, bounding-volume hierarchy traversals, and optical casting.",
@@ -35,7 +34,7 @@ Hardware-accelerated ray tracing logic, bounding-volume hierarchy traversals, an
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--rayxor/#term",
+  "@id": "https://namencora.com/d06/rayxor/#term",
   "name": "Rayxor",
   "termCode": "URN:NAMENCORA:D06:RAYXOR",
   "description": "Hardware-accelerated ray tracing logic, bounding-volume hierarchy traversals, and optical casting.",

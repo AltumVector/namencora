@@ -1,8 +1,7 @@
 ---
-title: "Postulon"
----
-
-**Canonical URN:**   
+title: "Entity — Postulon"
+description: "Axiomatic primitive definitions, immutable foundation postulates, and contract assertion anchors."
+---**Canonical URN:** `URN:NAMENCORA:D06:POSTULON`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Axiomatic primitive definitions, immutable foundation postulates, and contract a
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--postulon/#term",
+  "@id": "https://namencora.com/d06/postulon/#term",
   "name": "Postulon",
   "termCode": "URN:NAMENCORA:D06:POSTULON",
   "description": "Axiomatic primitive definitions, immutable foundation postulates, and contract assertion anchors.",
@@ -35,7 +34,7 @@ Axiomatic primitive definitions, immutable foundation postulates, and contract a
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--postulon/#term",
+  "@id": "https://namencora.com/d06/postulon/#term",
   "name": "Postulon",
   "termCode": "URN:NAMENCORA:D06:POSTULON",
   "description": "Axiomatic primitive definitions, immutable foundation postulates, and contract assertion anchors.",

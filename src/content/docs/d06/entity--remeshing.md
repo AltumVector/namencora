@@ -1,8 +1,7 @@
 ---
-title: "Remeshing"
----
-
-**Canonical URN:**   
+title: "Entity — Remeshing"
+description: "Adaptive mesh generation, tessellation refinement, and topology optimization across computational manifolds."
+---**Canonical URN:** `URN:NAMENCORA:D06:REMESHING`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Adaptive mesh generation, tessellation refinement, and topology optimization acr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--remeshing/#term",
+  "@id": "https://namencora.com/d06/remeshing/#term",
   "name": "Remeshing",
   "termCode": "URN:NAMENCORA:D06:REMESHING",
   "description": "Adaptive mesh generation, tessellation refinement, and topology optimization across computational manifolds.",
@@ -35,7 +34,7 @@ Adaptive mesh generation, tessellation refinement, and topology optimization acr
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--remeshing/#term",
+  "@id": "https://namencora.com/d06/remeshing/#term",
   "name": "Remeshing",
   "termCode": "URN:NAMENCORA:D06:REMESHING",
   "description": "Adaptive mesh generation, tessellation refinement, and topology optimization across computational manifolds.",

@@ -1,8 +1,7 @@
 ---
-title: "Logimula"
----
-
-**Canonical URN:**   
+title: "Entity — Logimula"
+description: "Higher-order logic formula evaluation, clause resolution pipelines, and formal proof synthesis."
+---**Canonical URN:** `URN:NAMENCORA:D06:LOGIMULA`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Higher-order logic formula evaluation, clause resolution pipelines, and formal p
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--logimula/#term",
+  "@id": "https://namencora.com/d06/logimula/#term",
   "name": "Logimula",
   "termCode": "URN:NAMENCORA:D06:LOGIMULA",
   "description": "Higher-order logic formula evaluation, clause resolution pipelines, and formal proof synthesis.",
@@ -35,7 +34,7 @@ Higher-order logic formula evaluation, clause resolution pipelines, and formal p
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--logimula/#term",
+  "@id": "https://namencora.com/d06/logimula/#term",
   "name": "Logimula",
   "termCode": "URN:NAMENCORA:D06:LOGIMULA",
   "description": "Higher-order logic formula evaluation, clause resolution pipelines, and formal proof synthesis.",

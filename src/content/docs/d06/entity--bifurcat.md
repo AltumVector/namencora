@@ -1,8 +1,7 @@
 ---
-title: "Bifurcat"
----
-
-**Canonical URN:**   
+title: "Entity — Bifurcat"
+description: "Singularity detection and parametric equilibrium transitions in non-linear dynamical systems."
+---**Canonical URN:** `URN:NAMENCORA:D06:BIFURCAT`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Singularity detection and parametric equilibrium transitions in non-linear dynam
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--bifurcat/#term",
+  "@id": "https://namencora.com/d06/bifurcat/#term",
   "name": "Bifurcat",
   "termCode": "URN:NAMENCORA:D06:BIFURCAT",
   "description": "Singularity detection and parametric equilibrium transitions in non-linear dynamical systems.",
@@ -35,7 +34,7 @@ Singularity detection and parametric equilibrium transitions in non-linear dynam
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--bifurcat/#term",
+  "@id": "https://namencora.com/d06/bifurcat/#term",
   "name": "Bifurcat",
   "termCode": "URN:NAMENCORA:D06:BIFURCAT",
   "description": "Singularity detection and parametric equilibrium transitions in non-linear dynamical systems.",

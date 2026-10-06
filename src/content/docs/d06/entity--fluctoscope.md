@@ -1,8 +1,7 @@
 ---
-title: "Fluctoscope"
----
-
-**Canonical URN:**   
+title: "Entity — Fluctoscope"
+description: "Stochastic noise variance spectroscopy, perturbation analysis, and transient signal anomaly inspection."
+---**Canonical URN:** `URN:NAMENCORA:D06:FLUCTOSCOPE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---
@@ -19,7 +18,7 @@ Stochastic noise variance spectroscopy, perturbation analysis, and transient sig
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--fluctoscope/#term",
+  "@id": "https://namencora.com/d06/fluctoscope/#term",
   "name": "Fluctoscope",
   "termCode": "URN:NAMENCORA:D06:FLUCTOSCOPE",
   "description": "Stochastic noise variance spectroscopy, perturbation analysis, and transient signal anomaly inspection.",
@@ -35,7 +34,7 @@ Stochastic noise variance spectroscopy, perturbation analysis, and transient sig
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "@id": "https://namencora.com/d06/entity--fluctoscope/#term",
+  "@id": "https://namencora.com/d06/fluctoscope/#term",
   "name": "Fluctoscope",
   "termCode": "URN:NAMENCORA:D06:FLUCTOSCOPE",
   "description": "Stochastic noise variance spectroscopy, perturbation analysis, and transient signal anomaly inspection.",

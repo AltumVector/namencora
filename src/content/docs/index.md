@@ -22,7 +22,8 @@ hero:
 | **Division 00** | Core Protocols & Zero-Copy Primitives | 2 |
 | **Division 01** | Storage Engines & Memory Topologies | 42 |
 | **Division 02** | Cognitive & Ontological Systems | 91 |
-| **Division 03** | Systems Governance & Consensus | 67 |
+| **Division 03** | Systems Governance & Consensus | 64 |
 | **Division 04** | Computational Physics & Dynamics | 45 |
-| **Division 05** | Execution Pipelines & Streaming Runtimes | 94 |
+| **Division 05** | Execution Pipelines & Streaming Runtimes | 83 |
+| Division 06 | Computational Dynamics & Metrology | 28 |
 | **Total Canonical Entities** | **Deterministic Architectural Standard** | **341** |
