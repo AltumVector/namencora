@@ -26,4 +26,4 @@ hero:
 | **Division 04** | Computational Physics & Dynamics | 45 |
 | **Division 05** | Execution Pipelines & Streaming Runtimes | 83 |
 | Division 06 | Computational Dynamics & Metrology | 28 |
-| **Total Canonical Entities** | **Deterministic Architectural Standard** | **341** |
+| **Total Canonical Entities** | **Deterministic Architectural Standard** | **355** |
