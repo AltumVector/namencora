@@ -2,7 +2,7 @@
 > Canonical registry of deterministic specifications, state primitives, and consensus topologies.
 
 - Website: https://namencora.com
-- Entities: 341 architectural specifications & defensive aliases
+- Entities: 355 architectural specifications & defensive aliases
 - Sitemap: https://namencora.com/sitemap.xml
 
 ## Divisions

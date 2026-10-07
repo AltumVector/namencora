@@ -43,10 +43,11 @@ hero:
 | **Division 00** | Core Protocols & Zero-Copy Primitives | 2 |
 | **Division 01** | Storage Engines & Memory Topologies | 42 |
 | **Division 02** | Cognitive & Ontological Systems | 91 |
-| **Division 03** | Systems Governance & Consensus | 67 |
+| **Division 03** | Systems Governance & Consensus | 64 |
 | **Division 04** | Computational Physics & Dynamics | 45 |
-| **Division 05** | Execution Pipelines & Streaming Runtimes | 94 |
-| **Total Canonical Entities** | **Deterministic Architectural Standard** | **341** |
+| **Division 05** | Execution Pipelines & Streaming Runtimes | 83 |
+| **Division 06** | Computational Dynamics & Metrology | 28 |
+| **Total Canonical Entities** | **Deterministic Architectural Standard** | **355** |
 """
 with open(os.path.join(dest_root, "index.md"), "w", encoding="utf-8") as f:
     f.write(index_content.strip() + "\n")
@@ -61,7 +62,7 @@ if os.path.exists(gov_src):
     with open(os.path.join(dest_root, "governance.md"), "w", encoding="utf-8") as f:
         f.write(gov_txt)
 
-# 3. Синхронізація 341 сутності
+# 3. Синхронізація 355 сутності
 synced_total = 0
 for div_folder, slug in div_mapping.items():
     div_path = os.path.join(src_root, div_folder)
