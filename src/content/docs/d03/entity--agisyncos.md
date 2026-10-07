@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AgiSyncOs
   termCode: D03-GOV-031
----> **System Anchor**: `agisyncos.com`  
+---
+
+> **System Anchor**: `agisyncos.com`  
 > **Classification ID**: `D03-GOV-031`  
 > **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---

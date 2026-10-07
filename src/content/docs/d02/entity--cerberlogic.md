@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CerberLogic
   termCode: D02-COG-067
----> **System Anchor**: `cerberlogic.com`  
+---
+
+> **System Anchor**: `cerberlogic.com`  
 > **Classification ID**: `D02-COG-067`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: JetVim
   termCode: D05-RUN-058
----> **System Anchor**: `jetvim.com`  
+---
+
+> **System Anchor**: `jetvim.com`  
 > **Classification ID**: `D05-RUN-058`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / High-Throughput Node Clusters
 ---

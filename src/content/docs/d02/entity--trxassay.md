@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TrxAssay
   termCode: D02-COG-056
----> **System Anchor**: `trxassay.com`  
+---
+
+> **System Anchor**: `trxassay.com`  
 > **Classification ID**: `D02-COG-056`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Bus & Transaction Conformance
 ---

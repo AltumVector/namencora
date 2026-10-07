@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TradeoffPrism
   termCode: D03-GOV-018
----> **System Anchor**: `tradeoffprism.com`  
+---
+
+> **System Anchor**: `tradeoffprism.com`  
 > **Classification ID**: `D03-GOV-018`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration
 ---

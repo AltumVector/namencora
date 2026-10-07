@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BallisticCache
   termCode: D01-STG-005
----> **System Anchor**: `ballisticcache.com`  
+---
+
+> **System Anchor**: `ballisticcache.com`  
 > **Classification ID**: `D01-STG-005`  
 > **Subsystem**: Deep Storage & Hardware Substrates / L1/L2 In-Memory Acceleration
 ---

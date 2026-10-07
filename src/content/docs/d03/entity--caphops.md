@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CaphOps
   termCode: D03-GOV-077
----> **System Anchor**: `caphops.com`  
+---
+
+> **System Anchor**: `caphops.com`  
 > **Classification ID**: `D03-GOV-077`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

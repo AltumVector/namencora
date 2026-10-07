@@ -1,7 +1,9 @@
 ---
 title: "Entity — Logimula"
 description: "Higher-order logic formula evaluation, clause resolution pipelines, and formal proof synthesis."
----**Canonical URN:** `URN:NAMENCORA:D06:LOGIMULA`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:LOGIMULA`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

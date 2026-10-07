@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EgressFlow
   termCode: D05-RUN-015
----> **System Anchor**: `egressflow.com`  
+---
+
+> **System Anchor**: `egressflow.com`  
 > **Classification ID**: `D05-RUN-015`  
 > **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---

@@ -6,7 +6,7 @@ hero:
   tagline: Deterministic specification registry for high-throughput distributed architectures, state primitives, and consensus topographies.
   actions:
     - text: Explore Division 00
-      link: /d00/entity-enumeros/
+      link: /d00/entity--enumeros/
       icon: right-arrow
       variant: primary
     - text: View GitHub Source
@@ -18,7 +18,7 @@ hero:
 ## Canonical Topology
 
 | Division | Domain Focus | Primitives |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- |
 | **Division 00** | Core Protocols & Zero-Copy Primitives | 2 |
 | **Division 01** | Storage Engines & Memory Topologies | 42 |
 | **Division 02** | Cognitive & Ontological Systems | 91 |

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MuteOps
   termCode: D03-GOV-075
----> **System Anchor**: `muteops.com`  
+---
+
+> **System Anchor**: `muteops.com`  
 > **Classification ID**: `D03-GOV-075`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

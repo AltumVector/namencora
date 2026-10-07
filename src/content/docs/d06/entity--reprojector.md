@@ -1,7 +1,9 @@
 ---
 title: "Entity — Reprojector"
 description: "Geodetic datum transformations, conformal cartographic projections, and spatial coordinate warping."
----**Canonical URN:** `URN:NAMENCORA:D06:REPROJECTOR`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:REPROJECTOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

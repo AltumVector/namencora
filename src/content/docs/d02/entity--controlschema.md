@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ControlSchema
   termCode: D02-COG-009
----> **System Anchor**: `controlschema.com`  
+---
+
+> **System Anchor**: `controlschema.com`  
 > **Classification ID**: `D02-COG-009`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Formal Schemas & Validation
 ---

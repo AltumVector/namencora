@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MonadaOps
   termCode: D03-GOV-074
----> **System Anchor**: `monadaops.com`  
+---
+
+> **System Anchor**: `monadaops.com`  
 > **Classification ID**: `D03-GOV-074`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

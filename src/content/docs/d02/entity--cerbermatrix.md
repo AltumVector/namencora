@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CerberMatrix
   termCode: D02-COG-076
----> **System Anchor**: `cerbermatrix.com`  
+---
+
+> **System Anchor**: `cerbermatrix.com`  
 > **Classification ID**: `D02-COG-076`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---

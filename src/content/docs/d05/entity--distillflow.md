@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: DistillFlow
   termCode: D05-RUN-014
----> **System Anchor**: `distillflow.com`  
+---
+
+> **System Anchor**: `distillflow.com`  
 > **Classification ID**: `D05-RUN-014`  
 > **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---

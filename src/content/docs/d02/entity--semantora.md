@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemanTora
   termCode: D02-COG-090
----> **System Anchor**: `semantora.com`  
+---
+
+> **System Anchor**: `semantora.com`  
 > **Classification ID**: `D02-COG-090`  
 > **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---

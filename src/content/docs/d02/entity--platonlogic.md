@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PlatonLogic
   termCode: D02-COG-064
----> **System Anchor**: `platonlogic.com`  
+---
+
+> **System Anchor**: `platonlogic.com`  
 > **Classification ID**: `D02-COG-064`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

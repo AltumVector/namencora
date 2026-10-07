@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FlowNizer
   termCode: D05-RUN-076
----> **System Anchor**: `flownizer.com`  
+---
+
+> **System Anchor**: `flownizer.com`  
 > **Classification ID**: `D05-RUN-076`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

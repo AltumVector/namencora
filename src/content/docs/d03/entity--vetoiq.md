@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VetoIQ
   termCode: D03-GOV-010
----> **System Anchor**: `vetoiq.com`  
+---
+
+> **System Anchor**: `vetoiq.com`  
 > **Classification ID**: `D03-GOV-010`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

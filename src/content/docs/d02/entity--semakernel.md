@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaKernel
   termCode: D02-COG-019
----> **System Anchor**: `semakernel.com`  
+---
+
+> **System Anchor**: `semakernel.com`  
 > **Classification ID**: `D02-COG-019`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---

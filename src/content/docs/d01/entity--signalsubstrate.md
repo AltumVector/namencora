@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SignalSubstrate
   termCode: D01-STG-010
----> **System Anchor**: `signalsubstrate.com`  
+---
+
+> **System Anchor**: `signalsubstrate.com`  
 > **Classification ID**: `D01-STG-010`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Zero-Copy & Hardware Substrates
 ---

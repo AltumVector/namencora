@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: NeuralAssay
   termCode: D02-COG-049
----> **System Anchor**: `neuralassay.com`  
+---
+
+> **System Anchor**: `neuralassay.com`  
 > **Classification ID**: `D02-COG-049`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals)
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AuditNaut
   termCode: D03-GOV-038
----> **System Anchor**: `auditnaut.com`  
+---
+
+> **System Anchor**: `auditnaut.com`  
 > **Classification ID**: `D03-GOV-038`  
 > **Subsystem**: Cryptographic Proof & Ledger Auditing / Proof Generation & Audit Trails
 ---

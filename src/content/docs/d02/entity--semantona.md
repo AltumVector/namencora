@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemanTona
   termCode: D02-COG-089
----> **System Anchor**: `semantona.com`  
+---
+
+> **System Anchor**: `semantona.com`  
 > **Classification ID**: `D02-COG-089`  
 > **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---

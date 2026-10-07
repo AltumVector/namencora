@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimModel
   termCode: D05-RUN-039
----> **System Anchor**: `vimmodel.com`  
+---
+
+> **System Anchor**: `vimmodel.com`  
 > **Classification ID**: `D05-RUN-039`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---

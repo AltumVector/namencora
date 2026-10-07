@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: UxiOps
   termCode: D03-GOV-079
----> **System Anchor**: `uxiops.com`  
+---
+
+> **System Anchor**: `uxiops.com`  
 > **Classification ID**: `D03-GOV-079`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

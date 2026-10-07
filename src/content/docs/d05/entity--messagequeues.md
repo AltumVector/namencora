@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MessageQueues
   termCode: D05-RUN-001
----> **System Anchor**: `messagequeues.com`  
+---
+
+> **System Anchor**: `messagequeues.com`  
 > **Classification ID**: `D05-RUN-001`  
 > **Subsystem**: Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams
 ---

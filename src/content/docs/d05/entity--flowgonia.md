@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FlowGonia
   termCode: D05-RUN-075
----> **System Anchor**: `flowgonia.com`  
+---
+
+> **System Anchor**: `flowgonia.com`  
 > **Classification ID**: `D05-RUN-075`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

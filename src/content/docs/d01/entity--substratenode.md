@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SubstrateNode
   termCode: D01-STG-008
----> **System Anchor**: `substratenode.com`  
+---
+
+> **System Anchor**: `substratenode.com`  
 > **Classification ID**: `D01-STG-008`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Zero-Copy & Hardware Substrates
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: QuarChip
   termCode: D04-DYN-031
----> **System Anchor**: `quarchip.com`  
+---
+
+> **System Anchor**: `quarchip.com`  
 > **Classification ID**: `D04-DYN-031`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaField
   termCode: D02-COG-023
----> **System Anchor**: `semafield.com`  
+---
+
+> **System Anchor**: `semafield.com`  
 > **Classification ID**: `D02-COG-023`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---

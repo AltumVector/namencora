@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VetoVault
   termCode: D03-GOV-009
----> **System Anchor**: `vetovault.com`  
+---
+
+> **System Anchor**: `vetovault.com`  
 > **Classification ID**: `D03-GOV-009`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: Enumerat
   termCode: D00-COR-002
----> **System Anchor**: `enumerat.com`  
+---
+
+> **System Anchor**: `enumerat.com`  
 > **Classification ID**: `D00-COR-002`  
 > **Subsystem**: Streaming Execution Engines / High-Throughput Log Iteration
 ---

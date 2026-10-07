@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayCode
   termCode: D02-COG-039
----> **System Anchor**: `assaycode.com`  
+---
+
+> **System Anchor**: `assaycode.com`  
 > **Classification ID**: `D02-COG-039`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Code, Schema & Execution Verification
 ---

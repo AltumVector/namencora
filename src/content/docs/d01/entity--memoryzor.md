@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MemoryZor
   termCode: D01-STG-041
----> **System Anchor**: `memoryzor.com`  
+---
+
+> **System Anchor**: `memoryzor.com`  
 > **Classification ID**: `D01-STG-041`  
 > **Subsystem**: Diagnostic Agents & Utility Tier / Telemetry & Diagnostic Tooling
 ---

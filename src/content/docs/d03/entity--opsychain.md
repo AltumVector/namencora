@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: OpsYchain
   termCode: D03-GOV-055
----> **System Anchor**: `opsychain.com`  
+---
+
+> **System Anchor**: `opsychain.com`  
 > **Classification ID**: `D03-GOV-055`  
 > **Subsystem**: Auxiliary Neologisms & Drone Ops / Queues, Dispatch & Operational Cores
 ---

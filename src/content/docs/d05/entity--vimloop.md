@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimLoop
   termCode: D05-RUN-040
----> **System Anchor**: `vimloop.com`  
+---
+
+> **System Anchor**: `vimloop.com`  
 > **Classification ID**: `D05-RUN-040`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhireIndex
   termCode: D01-STG-004
----> **System Anchor**: `phireindex.com`  
+---
+
+> **System Anchor**: `phireindex.com`  
 > **Classification ID**: `D01-STG-004`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Core Indexing Engines
 ---

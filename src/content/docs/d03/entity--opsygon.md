@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: OpsYgon
   termCode: D03-GOV-056
----> **System Anchor**: `opsygon.com`  
+---
+
+> **System Anchor**: `opsygon.com`  
 > **Classification ID**: `D03-GOV-056`  
 > **Subsystem**: Auxiliary Neologisms & Drone Ops / Queues, Dispatch & Operational Cores
 ---

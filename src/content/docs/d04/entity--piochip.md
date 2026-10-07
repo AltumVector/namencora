@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PioChip
   termCode: D04-DYN-017
----> **System Anchor**: `piochip.com`  
+---
+
+> **System Anchor**: `piochip.com`  
 > **Classification ID**: `D04-DYN-017`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

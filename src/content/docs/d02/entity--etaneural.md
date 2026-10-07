@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EtaNeural
   termCode: D02-COG-079
----> **System Anchor**: `etaneural.com`  
+---
+
+> **System Anchor**: `etaneural.com`  
 > **Classification ID**: `D02-COG-079`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---

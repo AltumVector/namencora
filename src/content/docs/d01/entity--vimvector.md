@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimVector
   termCode: D01-STG-025
----> **System Anchor**: `vimvector.com`  
+---
+
+> **System Anchor**: `vimvector.com`  
 > **Classification ID**: `D01-STG-025`  
 > **Subsystem**: High-Dimensional Vector Runtime / Steering & Semantic Trajectory
 ---

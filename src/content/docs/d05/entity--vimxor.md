@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimXor
   termCode: D05-RUN-043
----> **System Anchor**: `vimxor.com`  
+---
+
+> **System Anchor**: `vimxor.com`  
 > **Classification ID**: `D05-RUN-043`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---

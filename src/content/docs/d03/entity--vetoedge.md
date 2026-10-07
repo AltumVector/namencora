@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VetoEdge
   termCode: D03-GOV-002
----> **System Anchor**: `vetoedge.com`  
+---
+
+> **System Anchor**: `vetoedge.com`  
 > **Classification ID**: `D03-GOV-002`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

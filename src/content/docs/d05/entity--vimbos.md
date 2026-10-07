@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimBos
   termCode: D05-RUN-082
----> **System Anchor**: `vimbos.com`  
+---
+
+> **System Anchor**: `vimbos.com`  
 > **Classification ID**: `D05-RUN-082`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

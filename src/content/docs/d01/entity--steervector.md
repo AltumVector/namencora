@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SteerVector
   termCode: D01-STG-021
----> **System Anchor**: `steervector.com`  
+---
+
+> **System Anchor**: `steervector.com`  
 > **Classification ID**: `D01-STG-021`  
 > **Subsystem**: High-Dimensional Vector Runtime / Steering & Semantic Trajectory
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VetoNode
   termCode: D03-GOV-004
----> **System Anchor**: `vetonode.com`  
+---
+
+> **System Anchor**: `vetonode.com`  
 > **Classification ID**: `D03-GOV-004`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

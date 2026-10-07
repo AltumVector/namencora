@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimNode
   termCode: D05-RUN-033
----> **System Anchor**: `vimnode.com`  
+---
+
+> **System Anchor**: `vimnode.com`  
 > **Classification ID**: `D05-RUN-033`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Compute Units & Mathematical Cores
 ---

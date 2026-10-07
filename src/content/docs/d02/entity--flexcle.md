@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: Flexcle
   termCode: D02-COG-084
----> **System Anchor**: `flexcle.com`  
+---
+
+> **System Anchor**: `flexcle.com`  
 > **Classification ID**: `D02-COG-084`  
 > **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---

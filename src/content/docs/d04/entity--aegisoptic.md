@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AegisOptic
   termCode: D04-DYN-039
----> **System Anchor**: `aegisoptic.com`  
+---
+
+> **System Anchor**: `aegisoptic.com`  
 > **Classification ID**: `D04-DYN-039`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

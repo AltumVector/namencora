@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TradeoffHub
   termCode: D03-GOV-019
----> **System Anchor**: `tradeoffhub.com`  
+---
+
+> **System Anchor**: `tradeoffhub.com`  
 > **Classification ID**: `D03-GOV-019`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration
 ---

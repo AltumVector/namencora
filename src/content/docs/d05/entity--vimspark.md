@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimSpark
   termCode: D05-RUN-088
----> **System Anchor**: `vimspark.com`  
+---
+
+> **System Anchor**: `vimspark.com`  
 > **Classification ID**: `D05-RUN-088`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

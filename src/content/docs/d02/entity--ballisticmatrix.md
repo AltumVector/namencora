@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BallisticMatrix
   termCode: D02-COG-074
----> **System Anchor**: `ballisticmatrix.com`  
+---
+
+> **System Anchor**: `ballisticmatrix.com`  
 > **Classification ID**: `D02-COG-074`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---

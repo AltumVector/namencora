@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SyncOgonia
   termCode: D03-GOV-062
----> **System Anchor**: `syncogonia.com`  
+---
+
+> **System Anchor**: `syncogonia.com`  
 > **Classification ID**: `D03-GOV-062`  
 > **Subsystem**: Auxiliary Neologisms & Drone Ops / Queues, Dispatch & Operational Cores
 ---

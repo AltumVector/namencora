@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ProofAtor
   termCode: D03-GOV-033
----> **System Anchor**: `proofator.com`  
+---
+
+> **System Anchor**: `proofator.com`  
 > **Classification ID**: `D03-GOV-033`  
 > **Subsystem**: Cryptographic Proof & Ledger Auditing / Proof Generation & Audit Trails
 ---

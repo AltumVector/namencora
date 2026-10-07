@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VectorRift
   termCode: D01-STG-037
----> **System Anchor**: `vectorrift.com`  
+---
+
+> **System Anchor**: `vectorrift.com`  
 > **Classification ID**: `D01-STG-037`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

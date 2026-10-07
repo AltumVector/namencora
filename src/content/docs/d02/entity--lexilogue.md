@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LexiLogue
   termCode: D02-COG-036
----> **System Anchor**: `lexilogue.com`  
+---
+
+> **System Anchor**: `lexilogue.com`  
 > **Classification ID**: `D02-COG-036`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Lexical Enclaves & Parsers
 ---

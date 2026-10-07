@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimGrad
   termCode: D05-RUN-037
----> **System Anchor**: `vimgrad.com`  
+---
+
+> **System Anchor**: `vimgrad.com`  
 > **Classification ID**: `D05-RUN-037`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TaxonMatrix
   termCode: D02-COG-002
----> **System Anchor**: `taxonmatrix.com`  
+---
+
+> **System Anchor**: `taxonmatrix.com`  
 > **Classification ID**: `D02-COG-002`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines
 ---

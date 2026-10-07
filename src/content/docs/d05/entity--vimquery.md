@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimQuery
   termCode: D05-RUN-047
----> **System Anchor**: `vimquery.com`  
+---
+
+> **System Anchor**: `vimquery.com`  
 > **Classification ID**: `D05-RUN-047`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

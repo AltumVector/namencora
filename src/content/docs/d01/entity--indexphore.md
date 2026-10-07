@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: IndexPhore
   termCode: D01-STG-039
----> **System Anchor**: `indexphore.com`  
+---
+
+> **System Anchor**: `indexphore.com`  
 > **Classification ID**: `D01-STG-039`  
 > **Subsystem**: Diagnostic Agents & Utility Tier / Telemetry & Diagnostic Tooling
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: XrayPrism
   termCode: D04-DYN-036
----> **System Anchor**: `xrayprism.com`  
+---
+
+> **System Anchor**: `xrayprism.com`  
 > **Classification ID**: `D04-DYN-036`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

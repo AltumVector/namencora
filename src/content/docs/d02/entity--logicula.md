@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: Logicula
   termCode: D02-COG-073
----> **System Anchor**: `logicula.com`  
+---
+
+> **System Anchor**: `logicula.com`  
 > **Classification ID**: `D02-COG-073`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimChip
   termCode: D04-DYN-022
----> **System Anchor**: `vimchip.com`  
+---
+
+> **System Anchor**: `vimchip.com`  
 > **Classification ID**: `D04-DYN-022`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

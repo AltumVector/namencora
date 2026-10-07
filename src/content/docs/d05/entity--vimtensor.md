@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimTensor
   termCode: D05-RUN-036
----> **System Anchor**: `vimtensor.com`  
+---
+
+> **System Anchor**: `vimtensor.com`  
 > **Classification ID**: `D05-RUN-036`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---

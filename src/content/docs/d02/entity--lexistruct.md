@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LexiStruct
   termCode: D02-COG-010
----> **System Anchor**: `lexistruct.com`  
+---
+
+> **System Anchor**: `lexistruct.com`  
 > **Classification ID**: `D02-COG-010`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Formal Schemas & Validation
 ---

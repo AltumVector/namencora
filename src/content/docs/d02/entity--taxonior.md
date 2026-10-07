@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TaxonIor
   termCode: D02-COG-008
----> **System Anchor**: `taxonior.com`  
+---
+
+> **System Anchor**: `taxonior.com`  
 > **Classification ID**: `D02-COG-008`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines
 ---

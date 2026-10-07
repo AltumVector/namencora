@@ -1,7 +1,9 @@
 ---
 title: "Entity — BooleanMesh"
 description: "Constructive solid geometry operations and boundary representation logic for polygonal solids."
----**Canonical URN:** `URN:NAMENCORA:D06:BOOLEANMESH`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:BOOLEANMESH`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

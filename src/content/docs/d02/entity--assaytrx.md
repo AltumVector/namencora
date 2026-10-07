@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayTrx
   termCode: D02-COG-055
----> **System Anchor**: `assaytrx.com`  
+---
+
+> **System Anchor**: `assaytrx.com`  
 > **Classification ID**: `D02-COG-055`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Bus & Transaction Conformance
 ---

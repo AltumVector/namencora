@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SilicoChip
   termCode: D04-DYN-026
----> **System Anchor**: `silicochip.com`  
+---
+
+> **System Anchor**: `silicochip.com`  
 > **Classification ID**: `D04-DYN-026`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

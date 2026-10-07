@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VetoPilot
   termCode: D03-GOV-006
----> **System Anchor**: `vetopilot.com`  
+---
+
+> **System Anchor**: `vetopilot.com`  
 > **Classification ID**: `D03-GOV-006`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

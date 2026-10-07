@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimIndex
   termCode: D01-STG-002
----> **System Anchor**: `vimindex.com`  
+---
+
+> **System Anchor**: `vimindex.com`  
 > **Classification ID**: `D01-STG-002`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Core Indexing Engines
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: Enumeros
   termCode: D00-COR-001
----> **System Anchor**: `enumeros.com`  
+---
+
+> **System Anchor**: `enumeros.com`  
 > **Classification ID**: `D00-COR-001`  
 > **Subsystem**: Core Deterministic State Primitives / Zero-Copy State Indexing
 ---

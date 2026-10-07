@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: RiftMatrix
   termCode: D02-COG-077
----> **System Anchor**: `riftmatrix.com`  
+---
+
+> **System Anchor**: `riftmatrix.com`  
 > **Classification ID**: `D02-COG-077`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---

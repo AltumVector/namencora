@@ -1,7 +1,9 @@
 ---
 title: "Entity — Monadascope"
 description: "Atomic state telemetry, isolated execution frame observation, and micro-runtime diagnostics."
----**Canonical URN:** `URN:NAMENCORA:D06:MONADASCOPE`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:MONADASCOPE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

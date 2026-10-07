@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: OpsMechanism
   termCode: D03-GOV-041
----> **System Anchor**: `opsmechanism.com`  
+---
+
+> **System Anchor**: `opsmechanism.com`  
 > **Classification ID**: `D03-GOV-041`  
 > **Subsystem**: Operations Runtimes & Execution Queues / Queues, Dispatch & Operational Cores
 ---

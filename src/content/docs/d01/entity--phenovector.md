@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhenoVector
   termCode: D01-STG-031
----> **System Anchor**: `phenovector.com`  
+---
+
+> **System Anchor**: `phenovector.com`  
 > **Classification ID**: `D01-STG-031`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Entity — Xorscope"
 description: "Bitwise differential state tracking, discrete variance probes, and logic-level telemetry analysis."
----**Canonical URN:** `URN:NAMENCORA:D06:XORSCOPE`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:XORSCOPE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TickPipeline
   termCode: D05-RUN-018
----> **System Anchor**: `tickpipeline.com`  
+---
+
+> **System Anchor**: `tickpipeline.com`  
 > **Classification ID**: `D05-RUN-018`  
 > **Subsystem**: Event Runtimes & Execution Schedulers / Schedulers, Task Loops & Pipelines
 ---

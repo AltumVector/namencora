@@ -1,7 +1,9 @@
 ---
 title: "Entity — Bluemula"
 description: "Closed-form formula parsing, symbolic algebra engines, and deterministic arithmetic solvers."
----**Canonical URN:** `URN:NAMENCORA:D06:BLUEMULA`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:BLUEMULA`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

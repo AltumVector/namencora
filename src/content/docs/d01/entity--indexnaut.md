@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: IndexNaut
   termCode: D01-STG-038
----> **System Anchor**: `indexnaut.com`  
+---
+
+> **System Anchor**: `indexnaut.com`  
 > **Classification ID**: `D01-STG-038`  
 > **Subsystem**: Diagnostic Agents & Utility Tier / Telemetry & Diagnostic Tooling
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MonadaFlow
   termCode: D05-RUN-024
----> **System Anchor**: `monadaflow.com`  
+---
+
+> **System Anchor**: `monadaflow.com`  
 > **Classification ID**: `D05-RUN-024`  
 > **Subsystem**: Event Runtimes & Execution Schedulers / Schedulers, Task Loops & Pipelines
 ---

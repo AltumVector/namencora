@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: DistillOps
   termCode: D03-GOV-073
----> **System Anchor**: `distillops.com`  
+---
+
+> **System Anchor**: `distillops.com`  
 > **Classification ID**: `D03-GOV-073`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

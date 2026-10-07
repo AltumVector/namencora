@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StreamInfer
   termCode: D05-RUN-006
----> **System Anchor**: `streaminfer.com`  
+---
+
+> **System Anchor**: `streaminfer.com`  
 > **Classification ID**: `D05-RUN-006`  
 > **Subsystem**: Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams
 ---

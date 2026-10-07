@@ -1,7 +1,9 @@
 ---
 title: "Entity — OffsetMesh"
 description: "Volumetric dilation, outward conformal offsetting, and geometric shell contouring."
----**Canonical URN:** `URN:NAMENCORA:D06:OFFSETMESH`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:OFFSETMESH`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

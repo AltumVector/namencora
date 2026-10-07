@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayCipher
   termCode: D02-COG-043
----> **System Anchor**: `assaycipher.com`  
+---
+
+> **System Anchor**: `assaycipher.com`  
 > **Classification ID**: `D02-COG-043`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Code, Schema & Execution Verification
 ---

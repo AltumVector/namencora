@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TradeoffIO
   termCode: D03-GOV-015
----> **System Anchor**: `tradeoffio.com`  
+---
+
+> **System Anchor**: `tradeoffio.com`  
 > **Classification ID**: `D03-GOV-015`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration
 ---

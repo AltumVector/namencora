@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EmbeddingTrace
   termCode: D01-STG-018
----> **System Anchor**: `embeddingtrace.com`  
+---
+
+> **System Anchor**: `embeddingtrace.com`  
 > **Classification ID**: `D01-STG-018`  
 > **Subsystem**: High-Dimensional Vector Runtime / Drift, Telemetry & Signal Embeddings
 ---

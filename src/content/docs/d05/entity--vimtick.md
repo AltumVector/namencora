@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimTick
   termCode: D05-RUN-045
----> **System Anchor**: `vimtick.com`  
+---
+
+> **System Anchor**: `vimtick.com`  
 > **Classification ID**: `D05-RUN-045`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

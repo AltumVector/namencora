@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimFurcate
   termCode: D05-RUN-042
----> **System Anchor**: `vimfurcate.com`  
+---
+
+> **System Anchor**: `vimfurcate.com`  
 > **Classification ID**: `D05-RUN-042`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CerberNeural
   termCode: D02-COG-080
----> **System Anchor**: `cerberneural.com`  
+---
+
+> **System Anchor**: `cerberneural.com`  
 > **Classification ID**: `D02-COG-080`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---

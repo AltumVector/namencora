@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemanticBallistics
   termCode: D02-COG-033
----> **System Anchor**: `semanticballistics.com`  
+---
+
+> **System Anchor**: `semanticballistics.com`  
 > **Classification ID**: `D02-COG-033`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Analysis, Scanning & Metrics
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StreamDigm
   termCode: D05-RUN-080
----> **System Anchor**: `streamdigm.com`  
+---
+
+> **System Anchor**: `streamdigm.com`  
 > **Classification ID**: `D05-RUN-080`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

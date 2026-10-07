@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PostulatorFlow
   termCode: D05-RUN-028
----> **System Anchor**: `postulatorflow.com`  
+---
+
+> **System Anchor**: `postulatorflow.com`  
 > **Classification ID**: `D05-RUN-028`  
 > **Subsystem**: Event Runtimes & Execution Schedulers / Schedulers, Task Loops & Pipelines
 ---

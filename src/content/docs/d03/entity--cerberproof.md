@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CerberProof
   termCode: D03-GOV-032
----> **System Anchor**: `cerberproof.com`  
+---
+
+> **System Anchor**: `cerberproof.com`  
 > **Classification ID**: `D03-GOV-032`  
 > **Subsystem**: Cryptographic Proof & Ledger Auditing / Proof Generation & Audit Trails
 ---

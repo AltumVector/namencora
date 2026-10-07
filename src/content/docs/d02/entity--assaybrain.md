@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayBrain
   termCode: D02-COG-050
----> **System Anchor**: `assaybrain.com`  
+---
+
+> **System Anchor**: `assaybrain.com`  
 > **Classification ID**: `D02-COG-050`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals)
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TorridFlow
   termCode: D05-RUN-009
----> **System Anchor**: `torridflow.com`  
+---
+
+> **System Anchor**: `torridflow.com`  
 > **Classification ID**: `D05-RUN-009`  
 > **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---

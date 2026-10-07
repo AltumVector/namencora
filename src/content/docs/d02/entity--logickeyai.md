@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LogicKeyAI
   termCode: D02-COG-072
----> **System Anchor**: `logickeyai.com`  
+---
+
+> **System Anchor**: `logickeyai.com`  
 > **Classification ID**: `D02-COG-072`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

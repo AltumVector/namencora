@@ -1,7 +1,9 @@
 ---
 title: "Entity — Tensorlytics"
 description: "High-dimensional multilinear tensor contractions, decomposed matrix analytics, and tensor algebra."
----**Canonical URN:** `URN:NAMENCORA:D06:TENSORLYTICS`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:TENSORLYTICS`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: IngestEmbedding
   termCode: D01-STG-014
----> **System Anchor**: `ingestembedding.com`  
+---
+
+> **System Anchor**: `ingestembedding.com`  
 > **Classification ID**: `D01-STG-014`  
 > **Subsystem**: High-Dimensional Vector Runtime / Write-Path & Ingestion
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TrajectoryVector
   termCode: D01-STG-022
----> **System Anchor**: `trajectoryvector.com`  
+---
+
+> **System Anchor**: `trajectoryvector.com`  
 > **Classification ID**: `D01-STG-022`  
 > **Subsystem**: High-Dimensional Vector Runtime / Steering & Semantic Trajectory
 ---

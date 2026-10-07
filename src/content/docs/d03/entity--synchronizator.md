@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: Synchronizator
   termCode: D03-GOV-028
----> **System Anchor**: `synchronizator.com`  
+---
+
+> **System Anchor**: `synchronizator.com`  
 > **Classification ID**: `D03-GOV-028`  
 > **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---

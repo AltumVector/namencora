@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: DriftEmbedding
   termCode: D01-STG-016
----> **System Anchor**: `driftembedding.com`  
+---
+
+> **System Anchor**: `driftembedding.com`  
 > **Classification ID**: `D01-STG-016`  
 > **Subsystem**: High-Dimensional Vector Runtime / Drift, Telemetry & Signal Embeddings
 ---

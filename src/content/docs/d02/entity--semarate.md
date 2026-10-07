@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaRate
   termCode: D02-COG-032
----> **System Anchor**: `semarate.com`  
+---
+
+> **System Anchor**: `semarate.com`  
 > **Classification ID**: `D02-COG-032`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Analysis, Scanning & Metrics
 ---

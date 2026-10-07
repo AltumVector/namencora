@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TraxVector
   termCode: D01-STG-034
----> **System Anchor**: `traxvector.com`  
+---
+
+> **System Anchor**: `traxvector.com`  
 > **Classification ID**: `D01-STG-034`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

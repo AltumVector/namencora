@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FlowDator
   termCode: D05-RUN-072
----> **System Anchor**: `flowdator.com`  
+---
+
+> **System Anchor**: `flowdator.com`  
 > **Classification ID**: `D05-RUN-072`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

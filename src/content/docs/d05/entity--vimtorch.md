@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimTorch
   termCode: D05-RUN-038
----> **System Anchor**: `vimtorch.com`  
+---
+
+> **System Anchor**: `vimtorch.com`  
 > **Classification ID**: `D05-RUN-038`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: IoArm
   termCode: D04-DYN-016
----> **System Anchor**: `ioarm.com`  
+---
+
+> **System Anchor**: `ioarm.com`  
 > **Classification ID**: `D04-DYN-016`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

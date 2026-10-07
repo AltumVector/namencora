@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: OpticBallistics
   termCode: D04-DYN-040
----> **System Anchor**: `opticballistics.com`  
+---
+
+> **System Anchor**: `opticballistics.com`  
 > **Classification ID**: `D04-DYN-040`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

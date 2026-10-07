@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimVault
   termCode: D05-RUN-054
----> **System Anchor**: `vimvault.com`  
+---
+
+> **System Anchor**: `vimvault.com`  
 > **Classification ID**: `D05-RUN-054`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

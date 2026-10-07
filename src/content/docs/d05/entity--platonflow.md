@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PlatonFlow
   termCode: D05-RUN-026
----> **System Anchor**: `platonflow.com`  
+---
+
+> **System Anchor**: `platonflow.com`  
 > **Classification ID**: `D05-RUN-026`  
 > **Subsystem**: Event Runtimes & Execution Schedulers / Schedulers, Task Loops & Pipelines
 ---

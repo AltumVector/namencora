@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VetoSafe
   termCode: D03-GOV-008
----> **System Anchor**: `vetosafe.com`  
+---
+
+> **System Anchor**: `vetosafe.com`  
 > **Classification ID**: `D03-GOV-008`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

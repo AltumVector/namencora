@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EdgeAssay
   termCode: D02-COG-052
----> **System Anchor**: `edgeassay.com`  
+---
+
+> **System Anchor**: `edgeassay.com`  
 > **Classification ID**: `D02-COG-052`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals)
 ---

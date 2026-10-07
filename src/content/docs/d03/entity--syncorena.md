@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SyncOrena
   termCode: D03-GOV-063
----> **System Anchor**: `syncorena.com`  
+---
+
+> **System Anchor**: `syncorena.com`  
 > **Classification ID**: `D03-GOV-063`  
 > **Subsystem**: Auxiliary Neologisms & Drone Ops / Queues, Dispatch & Operational Cores
 ---

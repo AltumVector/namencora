@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TraceWarp
   termCode: D04-DYN-013
----> **System Anchor**: `tracewarp.com`  
+---
+
+> **System Anchor**: `tracewarp.com`  
 > **Classification ID**: `D04-DYN-013`  
 > **Subsystem**: Differential Geometry & Manifold Warping / Computational Geometry & Surface Deformation
 ---

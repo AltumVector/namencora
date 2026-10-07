@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LockGraph
   termCode: D02-COG-015
----> **System Anchor**: `lockgraph.com`  
+---
+
+> **System Anchor**: `lockgraph.com`  
 > **Classification ID**: `D02-COG-015`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Knowledge & Lock Graphs
 ---

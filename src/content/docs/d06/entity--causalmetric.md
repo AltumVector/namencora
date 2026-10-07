@@ -1,7 +1,9 @@
 ---
 title: "Entity — CausalMetric"
 description: "Structural equation scoring, directed acyclic graph (DAG) invariants, and counterfactual validation."
----**Canonical URN:** `URN:NAMENCORA:D06:CAUSALMETRIC`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:CAUSALMETRIC`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

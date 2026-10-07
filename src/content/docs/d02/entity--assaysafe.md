@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssaySafe
   termCode: D02-COG-040
----> **System Anchor**: `assaysafe.com`  
+---
+
+> **System Anchor**: `assaysafe.com`  
 > **Classification ID**: `D02-COG-040`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Code, Schema & Execution Verification
 ---

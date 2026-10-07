@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GyreFlow
   termCode: D05-RUN-012
----> **System Anchor**: `gyreflow.com`  
+---
+
+> **System Anchor**: `gyreflow.com`  
 > **Classification ID**: `D05-RUN-012`  
 > **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FlowFormator
   termCode: D05-RUN-073
----> **System Anchor**: `flowformator.com`  
+---
+
+> **System Anchor**: `flowformator.com`  
 > **Classification ID**: `D05-RUN-073`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

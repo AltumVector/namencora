@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FlowPhore
   termCode: D05-RUN-077
----> **System Anchor**: `flowphore.com`  
+---
+
+> **System Anchor**: `flowphore.com`  
 > **Classification ID**: `D05-RUN-077`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

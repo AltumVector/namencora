@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TaxonAtlas
   termCode: D02-COG-003
----> **System Anchor**: `taxonatlas.com`  
+---
+
+> **System Anchor**: `taxonatlas.com`  
 > **Classification ID**: `D02-COG-003`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines
 ---

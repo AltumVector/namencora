@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AiLabLogic
   termCode: D02-COG-071
----> **System Anchor**: `ailablogic.com`  
+---
+
+> **System Anchor**: `ailablogic.com`  
 > **Classification ID**: `D02-COG-071`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

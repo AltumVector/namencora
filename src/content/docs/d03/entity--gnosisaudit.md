@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GnosisAudit
   termCode: D03-GOV-036
----> **System Anchor**: `gnosisaudit.com`  
+---
+
+> **System Anchor**: `gnosisaudit.com`  
 > **Classification ID**: `D03-GOV-036`  
 > **Subsystem**: Cryptographic Proof & Ledger Auditing / Proof Generation & Audit Trails
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BasalChip
   termCode: D04-DYN-021
----> **System Anchor**: `basalchip.com`  
+---
+
+> **System Anchor**: `basalchip.com`  
 > **Classification ID**: `D04-DYN-021`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

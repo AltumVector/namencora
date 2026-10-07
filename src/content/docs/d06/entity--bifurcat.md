@@ -1,7 +1,9 @@
 ---
 title: "Entity — Bifurcat"
 description: "Singularity detection and parametric equilibrium transitions in non-linear dynamical systems."
----**Canonical URN:** `URN:NAMENCORA:D06:BIFURCAT`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:BIFURCAT`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ShellAssay
   termCode: D02-COG-053
----> **System Anchor**: `shellassay.com`  
+---
+
+> **System Anchor**: `shellassay.com`  
 > **Classification ID**: `D02-COG-053`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals)
 ---

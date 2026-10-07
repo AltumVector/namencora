@@ -20,7 +20,9 @@ schema_org:
   "@type": DefinedTerm
   name: BallisticTradeoffs
   termCode: D03-GOV-067
----> **System Anchor**: `ballistictradeoffs.com`  
+---
+
+> **System Anchor**: `ballistictradeoffs.com`  
 > **Classification ID**: `D03-GOV-067`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Trade-off Analysis & Arbitration
 ---

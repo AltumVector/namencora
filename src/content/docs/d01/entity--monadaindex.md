@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MonadaIndex
   termCode: D01-STG-003
----> **System Anchor**: `monadaindex.com`  
+---
+
+> **System Anchor**: `monadaindex.com`  
 > **Classification ID**: `D01-STG-003`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Core Indexing Engines
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ConstructFlowAI
   termCode: D05-RUN-094
----> **System Anchor**: `constructflowai.com`  
+---
+
+> **System Anchor**: `constructflowai.com`  
 > **Classification ID**: `D05-RUN-094`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

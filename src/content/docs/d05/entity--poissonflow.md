@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PoissonFlow
   termCode: D05-RUN-008
----> **System Anchor**: `poissonflow.com`  
+---
+
+> **System Anchor**: `poissonflow.com`  
 > **Classification ID**: `D05-RUN-008`  
 > **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---

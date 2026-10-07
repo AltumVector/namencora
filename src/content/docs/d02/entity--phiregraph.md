@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhireGraph
   termCode: D02-COG-018
----> **System Anchor**: `phiregraph.com`  
+---
+
+> **System Anchor**: `phiregraph.com`  
 > **Classification ID**: `D02-COG-018`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Knowledge & Lock Graphs
 ---

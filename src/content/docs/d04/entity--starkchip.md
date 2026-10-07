@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StarkChip
   termCode: D04-DYN-029
----> **System Anchor**: `starkchip.com`  
+---
+
+> **System Anchor**: `starkchip.com`  
 > **Classification ID**: `D04-DYN-029`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

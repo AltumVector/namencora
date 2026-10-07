@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaConn
   termCode: D02-COG-021
----> **System Anchor**: `semaconn.com`  
+---
+
+> **System Anchor**: `semaconn.com`  
 > **Classification ID**: `D02-COG-021`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---

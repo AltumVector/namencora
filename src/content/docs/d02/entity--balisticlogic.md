@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BalisticLogic
   termCode: D02-COG-070
----> **System Anchor**: `balisticlogic.com`  
+---
+
+> **System Anchor**: `balisticlogic.com`  
 > **Classification ID**: `D02-COG-070`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

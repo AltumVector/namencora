@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BallisticPulse
   termCode: D04-DYN-041
----> **System Anchor**: `ballisticpulse.com`  
+---
+
+> **System Anchor**: `ballisticpulse.com`  
 > **Classification ID**: `D04-DYN-041`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

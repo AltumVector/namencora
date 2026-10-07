@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: RTradeoff
   termCode: D03-GOV-020
----> **System Anchor**: `rtradeoff.com`  
+---
+
+> **System Anchor**: `rtradeoff.com`  
 > **Classification ID**: `D03-GOV-020`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration
 ---

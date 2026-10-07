@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AltumVector
   termCode: D01-STG-026
----> **System Anchor**: `altumvector.com`  
+---
+
+> **System Anchor**: `altumvector.com`  
 > **Classification ID**: `D01-STG-026`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

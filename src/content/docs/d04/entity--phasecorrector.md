@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhaseCorrector
   termCode: D04-DYN-006
----> **System Anchor**: `phasecorrector.com`  
+---
+
+> **System Anchor**: `phasecorrector.com`  
 > **Classification ID**: `D04-DYN-006`  
 > **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---

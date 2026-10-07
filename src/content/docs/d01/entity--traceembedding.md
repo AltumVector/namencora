@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TraceEmbedding
   termCode: D01-STG-017
----> **System Anchor**: `traceembedding.com`  
+---
+
+> **System Anchor**: `traceembedding.com`  
 > **Classification ID**: `D01-STG-017`  
 > **Subsystem**: High-Dimensional Vector Runtime / Drift, Telemetry & Signal Embeddings
 ---

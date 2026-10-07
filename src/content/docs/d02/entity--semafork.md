@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaFork
   termCode: D02-COG-024
----> **System Anchor**: `semafork.com`  
+---
+
+> **System Anchor**: `semafork.com`  
 > **Classification ID**: `D02-COG-024`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---

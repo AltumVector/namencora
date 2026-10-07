@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GradientFold
   termCode: D04-DYN-015
----> **System Anchor**: `gradientfold.com`  
+---
+
+> **System Anchor**: `gradientfold.com`  
 > **Classification ID**: `D04-DYN-015`  
 > **Subsystem**: Differential Geometry & Manifold Warping / Computational Geometry & Surface Deformation
 ---

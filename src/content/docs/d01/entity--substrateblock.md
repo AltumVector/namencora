@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SubstrateBlock
   termCode: D01-STG-007
----> **System Anchor**: `substrateblock.com`  
+---
+
+> **System Anchor**: `substrateblock.com`  
 > **Classification ID**: `D01-STG-007`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Zero-Copy & Hardware Substrates
 ---

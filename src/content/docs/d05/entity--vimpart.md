@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimPart
   termCode: D05-RUN-084
----> **System Anchor**: `vimpart.com`  
+---
+
+> **System Anchor**: `vimpart.com`  
 > **Classification ID**: `D05-RUN-084`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

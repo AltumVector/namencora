@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaVim
   termCode: D02-COG-025
----> **System Anchor**: `semavim.com`  
+---
+
+> **System Anchor**: `semavim.com`  
 > **Classification ID**: `D02-COG-025`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MorseLogic
   termCode: D02-COG-069
----> **System Anchor**: `morselogic.com`  
+---
+
+> **System Anchor**: `morselogic.com`  
 > **Classification ID**: `D02-COG-069`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

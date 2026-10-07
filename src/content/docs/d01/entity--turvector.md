@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TurVector
   termCode: D01-STG-035
----> **System Anchor**: `turvector.com`  
+---
+
+> **System Anchor**: `turvector.com`  
 > **Classification ID**: `D01-STG-035`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

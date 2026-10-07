@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: InfiVim
   termCode: D05-RUN-056
----> **System Anchor**: `infivim.com`  
+---
+
+> **System Anchor**: `infivim.com`  
 > **Classification ID**: `D05-RUN-056`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / High-Throughput Node Clusters
 ---

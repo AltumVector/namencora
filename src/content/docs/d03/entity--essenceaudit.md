@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EssenceAudit
   termCode: D03-GOV-035
----> **System Anchor**: `essenceaudit.com`  
+---
+
+> **System Anchor**: `essenceaudit.com`  
 > **Classification ID**: `D03-GOV-035`  
 > **Subsystem**: Cryptographic Proof & Ledger Auditing / Proof Generation & Audit Trails
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MonadaVector
   termCode: D01-STG-030
----> **System Anchor**: `monadavector.com`  
+---
+
+> **System Anchor**: `monadavector.com`  
 > **Classification ID**: `D01-STG-030`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

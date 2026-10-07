@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimForm
   termCode: D05-RUN-053
----> **System Anchor**: `vimform.com`  
+---
+
+> **System Anchor**: `vimform.com`  
 > **Classification ID**: `D05-RUN-053`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

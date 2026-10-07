@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: UxVim
   termCode: D05-RUN-060
----> **System Anchor**: `uxvim.com`  
+---
+
+> **System Anchor**: `uxvim.com`  
 > **Classification ID**: `D05-RUN-060`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / High-Throughput Node Clusters
 ---

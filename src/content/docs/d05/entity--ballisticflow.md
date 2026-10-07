@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BallisticFlow
   termCode: D05-RUN-011
----> **System Anchor**: `ballisticflow.com`  
+---
+
+> **System Anchor**: `ballisticflow.com`  
 > **Classification ID**: `D05-RUN-011`  
 > **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---

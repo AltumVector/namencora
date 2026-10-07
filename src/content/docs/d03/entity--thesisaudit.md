@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ThesisAudit
   termCode: D03-GOV-037
----> **System Anchor**: `thesisaudit.com`  
+---
+
+> **System Anchor**: `thesisaudit.com`  
 > **Classification ID**: `D03-GOV-037`  
 > **Subsystem**: Cryptographic Proof & Ledger Auditing / Proof Generation & Audit Trails
 ---

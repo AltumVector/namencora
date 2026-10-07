@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SyncroOps
   termCode: D03-GOV-068
----> **System Anchor**: `syncroops.com`  
+---
+
+> **System Anchor**: `syncroops.com`  
 > **Classification ID**: `D03-GOV-068`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

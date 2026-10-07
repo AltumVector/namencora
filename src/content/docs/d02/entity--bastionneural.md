@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BastionNeural
   termCode: D02-COG-081
----> **System Anchor**: `bastionneural.com`  
+---
+
+> **System Anchor**: `bastionneural.com`  
 > **Classification ID**: `D02-COG-081`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---

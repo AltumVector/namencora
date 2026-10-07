@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SurfaceWarper
   termCode: D04-DYN-010
----> **System Anchor**: `surfacewarper.com`  
+---
+
+> **System Anchor**: `surfacewarper.com`  
 > **Classification ID**: `D04-DYN-010`  
 > **Subsystem**: Differential Geometry & Manifold Warping / Computational Geometry & Surface Deformation
 ---

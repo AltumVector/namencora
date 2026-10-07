@@ -21,7 +21,9 @@ schema_org:
   name: "AiDronOps"
   termCode: "D03-GOV-081"
   inDefinedTermSet: "Division 03: Systems Governance & Consensus"
----> **System Anchor**: `aidronops.com`
+---
+
+> **System Anchor**: `aidronops.com`
 > **Classification ID**: `D03-GOV-081`
 > **Canonical Target**: `AiDronesOps (D03-GOV-080)`
 > **Subsystem**: Systems Governance / Defensive Namespace Resolution

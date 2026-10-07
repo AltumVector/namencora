@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimSor
   termCode: D05-RUN-087
----> **System Anchor**: `vimsor.com`  
+---
+
+> **System Anchor**: `vimsor.com`  
 > **Classification ID**: `D05-RUN-087`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

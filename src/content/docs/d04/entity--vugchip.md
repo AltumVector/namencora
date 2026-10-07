@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VugChip
   termCode: D04-DYN-033
----> **System Anchor**: `vugchip.com`  
+---
+
+> **System Anchor**: `vugchip.com`  
 > **Classification ID**: `D04-DYN-033`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

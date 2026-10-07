@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StrainVector
   termCode: D01-STG-033
----> **System Anchor**: `strainvector.com`  
+---
+
+> **System Anchor**: `strainvector.com`  
 > **Classification ID**: `D01-STG-033`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

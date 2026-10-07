@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: KronChip
   termCode: D04-DYN-020
----> **System Anchor**: `kronchip.com`  
+---
+
+> **System Anchor**: `kronchip.com`  
 > **Classification ID**: `D04-DYN-020`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

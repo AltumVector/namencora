@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: RiftChip
   termCode: D04-DYN-028
----> **System Anchor**: `riftchip.com`  
+---
+
+> **System Anchor**: `riftchip.com`  
 > **Classification ID**: `D04-DYN-028`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

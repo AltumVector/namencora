@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EtaVector
   termCode: D01-STG-028
----> **System Anchor**: `etavector.com`  
+---
+
+> **System Anchor**: `etavector.com`  
 > **Classification ID**: `D01-STG-028`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

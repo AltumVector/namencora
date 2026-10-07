@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimQueue
   termCode: D05-RUN-044
----> **System Anchor**: `vimqueue.com`  
+---
+
+> **System Anchor**: `vimqueue.com`  
 > **Classification ID**: `D05-RUN-044`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

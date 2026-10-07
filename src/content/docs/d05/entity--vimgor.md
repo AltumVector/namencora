@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimGor
   termCode: D05-RUN-083
----> **System Anchor**: `vimgor.com`  
+---
+
+> **System Anchor**: `vimgor.com`  
 > **Classification ID**: `D05-RUN-083`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

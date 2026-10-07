@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FlowUla
   termCode: D05-RUN-079
----> **System Anchor**: `flowula.com`  
+---
+
+> **System Anchor**: `flowula.com`  
 > **Classification ID**: `D05-RUN-079`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

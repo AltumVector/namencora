@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: NeutroChip
   termCode: D04-DYN-025
----> **System Anchor**: `neutrochip.com`  
+---
+
+> **System Anchor**: `neutrochip.com`  
 > **Classification ID**: `D04-DYN-025`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

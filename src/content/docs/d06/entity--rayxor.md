@@ -1,7 +1,9 @@
 ---
 title: "Entity — Rayxor"
 description: "Hardware-accelerated ray tracing logic, bounding-volume hierarchy traversals, and optical casting."
----**Canonical URN:** `URN:NAMENCORA:D06:RAYXOR`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:RAYXOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

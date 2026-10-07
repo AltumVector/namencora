@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MlOpsCore
   termCode: D03-GOV-070
----> **System Anchor**: `mlopscore.com`  
+---
+
+> **System Anchor**: `mlopscore.com`  
 > **Classification ID**: `D03-GOV-070`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

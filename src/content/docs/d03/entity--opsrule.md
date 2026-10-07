@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: OpsRule
   termCode: D03-GOV-042
----> **System Anchor**: `opsrule.com`  
+---
+
+> **System Anchor**: `opsrule.com`  
 > **Classification ID**: `D03-GOV-042`  
 > **Subsystem**: Operations Runtimes & Execution Queues / Queues, Dispatch & Operational Cores
 ---

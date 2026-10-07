@@ -1,7 +1,9 @@
 ---
 title: "Entity — ControlAxiom"
 description: "Closed-loop state feedback bounds, Lyapunov stability criteria, and automated control guarantees."
----**Canonical URN:** `URN:NAMENCORA:D06:CONTROLAXIOM`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:CONTROLAXIOM`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

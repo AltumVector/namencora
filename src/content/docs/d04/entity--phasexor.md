@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhaseXor
   termCode: D04-DYN-008
----> **System Anchor**: `phasexor.com`  
+---
+
+> **System Anchor**: `phasexor.com`  
 > **Classification ID**: `D04-DYN-008`  
 > **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BTreeIndex
   termCode: D01-STG-001
----> **System Anchor**: `btreeindex.com`  
+---
+
+> **System Anchor**: `btreeindex.com`  
 > **Classification ID**: `D01-STG-001`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Core Indexing Engines
 ---

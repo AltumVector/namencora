@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: XrayAtom
   termCode: D04-DYN-037
----> **System Anchor**: `xrayatom.com`  
+---
+
+> **System Anchor**: `xrayatom.com`  
 > **Classification ID**: `D04-DYN-037`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

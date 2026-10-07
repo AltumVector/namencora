@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FieldWarp
   termCode: D04-DYN-012
----> **System Anchor**: `fieldwarp.com`  
+---
+
+> **System Anchor**: `fieldwarp.com`  
 > **Classification ID**: `D04-DYN-012`  
 > **Subsystem**: Differential Geometry & Manifold Warping / Computational Geometry & Surface Deformation
 ---

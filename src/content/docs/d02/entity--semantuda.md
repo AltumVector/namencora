@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemanTuda
   termCode: D02-COG-091
----> **System Anchor**: `semantuda.com`  
+---
+
+> **System Anchor**: `semantuda.com`  
 > **Classification ID**: `D02-COG-091`  
 > **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---

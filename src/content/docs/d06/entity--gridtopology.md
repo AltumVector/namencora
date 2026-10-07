@@ -1,7 +1,9 @@
 ---
 title: "Entity — GridTopology"
 description: "Spatial lattice graph embeddings, discrete manifold connectivity, and multi-scale grid routing."
----**Canonical URN:** `URN:NAMENCORA:D06:GRIDTOPOLOGY`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:GRIDTOPOLOGY`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

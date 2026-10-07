@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StapleChip
   termCode: D04-DYN-030
----> **System Anchor**: `staplechip.com`  
+---
+
+> **System Anchor**: `staplechip.com`  
 > **Classification ID**: `D04-DYN-030`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

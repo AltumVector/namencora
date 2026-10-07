@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayAxio
   termCode: D02-COG-058
----> **System Anchor**: `assayaxio.com`  
+---
+
+> **System Anchor**: `assayaxio.com`  
 > **Classification ID**: `D02-COG-058`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Bus & Transaction Conformance
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayNeural
   termCode: D02-COG-047
----> **System Anchor**: `assayneural.com`  
+---
+
+> **System Anchor**: `assayneural.com`  
 > **Classification ID**: `D02-COG-047`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals)
 ---

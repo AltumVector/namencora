@@ -1,7 +1,9 @@
 ---
 title: "Entity — TensorCycle"
 description: "Cyclic compute graph scheduling, recurrent tensor memory loops, and iterative gradient propagation."
----**Canonical URN:** `URN:NAMENCORA:D06:TENSORCYCLE`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:TENSORCYCLE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

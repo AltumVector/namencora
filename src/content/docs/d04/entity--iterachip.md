@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: IteraChip
   termCode: D04-DYN-019
----> **System Anchor**: `iterachip.com`  
+---
+
+> **System Anchor**: `iterachip.com`  
 > **Classification ID**: `D04-DYN-019`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ContextEmbedding
   termCode: D01-STG-012
----> **System Anchor**: `contextembedding.com`  
+---
+
+> **System Anchor**: `contextembedding.com`  
 > **Classification ID**: `D01-STG-012`  
 > **Subsystem**: High-Dimensional Vector Runtime / Context Spaces
 ---

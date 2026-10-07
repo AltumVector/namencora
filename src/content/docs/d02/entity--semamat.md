@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaMat
   termCode: D02-COG-026
----> **System Anchor**: `semamat.com`  
+---
+
+> **System Anchor**: `semamat.com`  
 > **Classification ID**: `D02-COG-026`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---

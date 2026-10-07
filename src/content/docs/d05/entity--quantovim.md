@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: QuantoVim
   termCode: D05-RUN-035
----> **System Anchor**: `quantovim.com`  
+---
+
+> **System Anchor**: `quantovim.com`  
 > **Classification ID**: `D05-RUN-035`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Compute Units & Mathematical Cores
 ---

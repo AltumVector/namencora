@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VectorOra
   termCode: D01-STG-036
----> **System Anchor**: `vectorora.com`  
+---
+
+> **System Anchor**: `vectorora.com`  
 > **Classification ID**: `D01-STG-036`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

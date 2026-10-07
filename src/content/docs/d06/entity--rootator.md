@@ -1,7 +1,9 @@
 ---
 title: "Entity — Rootator"
 description: "Rigid body kinematic operators, Euler angle transformations, and rotational matrix alignment."
----**Canonical URN:** `URN:NAMENCORA:D06:ROOTATOR`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:ROOTATOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

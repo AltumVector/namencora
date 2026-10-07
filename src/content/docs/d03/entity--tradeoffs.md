@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TradeOffs
   termCode: D03-GOV-014
----> **System Anchor**: `tradeoffs.ai`  
+---
+
+> **System Anchor**: `tradeoffs.ai`  
 > **Classification ID**: `D03-GOV-014`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration
 ---

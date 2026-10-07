@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VectorVizer
   termCode: D01-STG-024
----> **System Anchor**: `vectorvizer.com`  
+---
+
+> **System Anchor**: `vectorvizer.com`  
 > **Classification ID**: `D01-STG-024`  
 > **Subsystem**: High-Dimensional Vector Runtime / Steering & Semantic Trajectory
 ---

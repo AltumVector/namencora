@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaIntegral
   termCode: D02-COG-020
----> **System Anchor**: `semaintegral.com`  
+---
+
+> **System Anchor**: `semaintegral.com`  
 > **Classification ID**: `D02-COG-020`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---

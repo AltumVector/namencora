@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimPhore
   termCode: D05-RUN-085
----> **System Anchor**: `vimphore.com`  
+---
+
+> **System Anchor**: `vimphore.com`  
 > **Classification ID**: `D05-RUN-085`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

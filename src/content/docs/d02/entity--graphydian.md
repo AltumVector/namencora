@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GraphYdian
   termCode: D02-COG-087
----> **System Anchor**: `graphydian.com`  
+---
+
+> **System Anchor**: `graphydian.com`  
 > **Classification ID**: `D02-COG-087`  
 > **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---

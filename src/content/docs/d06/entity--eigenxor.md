@@ -1,7 +1,9 @@
 ---
 title: "Entity — Eigenxor"
 description: "Spectral decomposition and eigenvalue calculation fused with discrete partition logic."
----**Canonical URN:** `URN:NAMENCORA:D06:EIGENXOR`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:EIGENXOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

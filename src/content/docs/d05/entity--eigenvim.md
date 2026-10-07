@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EigenVim
   termCode: D05-RUN-034
----> **System Anchor**: `eigenvim.com`  
+---
+
+> **System Anchor**: `eigenvim.com`  
 > **Classification ID**: `D05-RUN-034`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Compute Units & Mathematical Cores
 ---

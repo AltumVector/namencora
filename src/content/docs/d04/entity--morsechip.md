@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MorseChip
   termCode: D04-DYN-032
----> **System Anchor**: `morsechip.com`  
+---
+
+> **System Anchor**: `morsechip.com`  
 > **Classification ID**: `D04-DYN-032`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

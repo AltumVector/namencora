@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: XVetor
   termCode: D03-GOV-012
----> **System Anchor**: `xvetor.com`  
+---
+
+> **System Anchor**: `xvetor.com`  
 > **Classification ID**: `D03-GOV-012`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

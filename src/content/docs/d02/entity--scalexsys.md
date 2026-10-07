@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ScaleXsys
   termCode: D02-COG-038
----> **System Anchor**: `scalexsys.com`  
+---
+
+> **System Anchor**: `scalexsys.com`  
 > **Classification ID**: `D02-COG-038`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Lexical Enclaves & Parsers
 ---

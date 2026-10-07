@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CuratorLogic
   termCode: D02-COG-068
----> **System Anchor**: `curatorlogic.com`  
+---
+
+> **System Anchor**: `curatorlogic.com`  
 > **Classification ID**: `D02-COG-068`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

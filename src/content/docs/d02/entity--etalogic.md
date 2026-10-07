@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EtaLogic
   termCode: D02-COG-066
----> **System Anchor**: `etalogic.com`  
+---
+
+> **System Anchor**: `etalogic.com`  
 > **Classification ID**: `D02-COG-066`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

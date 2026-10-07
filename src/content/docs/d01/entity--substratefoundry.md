@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SubstrateFoundry
   termCode: D01-STG-009
----> **System Anchor**: `substratefoundry.com`  
+---
+
+> **System Anchor**: `substratefoundry.com`  
 > **Classification ID**: `D01-STG-009`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Zero-Copy & Hardware Substrates
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PraxVector
   termCode: D01-STG-032
----> **System Anchor**: `praxvector.com`  
+---
+
+> **System Anchor**: `praxvector.com`  
 > **Classification ID**: `D01-STG-032`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

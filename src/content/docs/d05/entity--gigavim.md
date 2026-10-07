@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GigaVim
   termCode: D05-RUN-055
----> **System Anchor**: `gigavim.com`  
+---
+
+> **System Anchor**: `gigavim.com`  
 > **Classification ID**: `D05-RUN-055`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / High-Throughput Node Clusters
 ---

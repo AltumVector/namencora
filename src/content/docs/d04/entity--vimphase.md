@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimPhase
   termCode: D04-DYN-009
----> **System Anchor**: `vimphase.com`  
+---
+
+> **System Anchor**: `vimphase.com`  
 > **Classification ID**: `D04-DYN-009`  
 > **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---

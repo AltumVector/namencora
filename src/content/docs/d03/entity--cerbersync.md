@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CerberSync
   termCode: D03-GOV-026
----> **System Anchor**: `cerbersync.com`  
+---
+
+> **System Anchor**: `cerbersync.com`  
 > **Classification ID**: `D03-GOV-026`  
 > **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---

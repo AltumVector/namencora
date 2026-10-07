@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TrajectoryOps
   termCode: D03-GOV-072
----> **System Anchor**: `trajectoryops.com`  
+---
+
+> **System Anchor**: `trajectoryops.com`  
 > **Classification ID**: `D03-GOV-072`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

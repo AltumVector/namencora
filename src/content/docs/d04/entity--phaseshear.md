@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhaseShear
   termCode: D04-DYN-005
----> **System Anchor**: `phaseshear.com`  
+---
+
+> **System Anchor**: `phaseshear.com`  
 > **Classification ID**: `D04-DYN-005`  
 > **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---

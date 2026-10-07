@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StreamNaut
   termCode: D05-RUN-081
----> **System Anchor**: `streamnaut.com`  
+---
+
+> **System Anchor**: `streamnaut.com`  
 > **Classification ID**: `D05-RUN-081`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

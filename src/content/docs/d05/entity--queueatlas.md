@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: QueueAtlas
   termCode: D05-RUN-003
----> **System Anchor**: `queueatlas.com`  
+---
+
+> **System Anchor**: `queueatlas.com`  
 > **Classification ID**: `D05-RUN-003`  
 > **Subsystem**: Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Entity — Frameian"
 description: "Invariant reference frames, inertial spatial coordinate systems, and kinematic transformation pipelines."
----**Canonical URN:** `URN:NAMENCORA:D06:FRAMEIAN`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:FRAMEIAN`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

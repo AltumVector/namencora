@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VectorVisor
   termCode: D01-STG-023
----> **System Anchor**: `vectorvisor.com`  
+---
+
+> **System Anchor**: `vectorvisor.com`  
 > **Classification ID**: `D01-STG-023`  
 > **Subsystem**: High-Dimensional Vector Runtime / Steering & Semantic Trajectory
 ---

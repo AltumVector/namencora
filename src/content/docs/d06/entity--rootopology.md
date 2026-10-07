@@ -1,7 +1,9 @@
 ---
 title: "Entity — Rootopology"
 description: "Persistent homology, core topological invariants, and graph structural persistence."
----**Canonical URN:** `URN:NAMENCORA:D06:ROOTOPOLOGY`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:ROOTOPOLOGY`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

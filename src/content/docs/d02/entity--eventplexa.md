@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EventPlexa
   termCode: D02-COG-085
----> **System Anchor**: `eventplexa.com`  
+---
+
+> **System Anchor**: `eventplexa.com`  
 > **Classification ID**: `D02-COG-085`  
 > **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayNode
   termCode: D02-COG-045
----> **System Anchor**: `assaynode.com`  
+---
+
+> **System Anchor**: `assaynode.com`  
 > **Classification ID**: `D02-COG-045`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Code, Schema & Execution Verification
 ---

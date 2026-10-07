@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimSona
   termCode: D05-RUN-086
----> **System Anchor**: `vimsona.com`  
+---
+
+> **System Anchor**: `vimsona.com`  
 > **Classification ID**: `D05-RUN-086`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

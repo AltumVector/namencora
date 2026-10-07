@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StackGraphX
   termCode: D02-COG-017
----> **System Anchor**: `stackgraphx.com`  
+---
+
+> **System Anchor**: `stackgraphx.com`  
 > **Classification ID**: `D02-COG-017`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Knowledge & Lock Graphs
 ---

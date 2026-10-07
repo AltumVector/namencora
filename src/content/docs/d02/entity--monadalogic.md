@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MonadaLogic
   termCode: D02-COG-065
----> **System Anchor**: `monadalogic.com`  
+---
+
+> **System Anchor**: `monadalogic.com`  
 > **Classification ID**: `D02-COG-065`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

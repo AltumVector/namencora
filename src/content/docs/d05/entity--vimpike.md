@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimPike
   termCode: D05-RUN-046
----> **System Anchor**: `vimpike.com`  
+---
+
+> **System Anchor**: `vimpike.com`  
 > **Classification ID**: `D05-RUN-046`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

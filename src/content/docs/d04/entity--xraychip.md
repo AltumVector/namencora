@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: XrayChip
   termCode: D04-DYN-034
----> **System Anchor**: `xraychip.com`  
+---
+
+> **System Anchor**: `xraychip.com`  
 > **Classification ID**: `D04-DYN-034`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimCpu
   termCode: D05-RUN-030
----> **System Anchor**: `vimcpu.com`  
+---
+
+> **System Anchor**: `vimcpu.com`  
 > **Classification ID**: `D05-RUN-030`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Compute Units & Mathematical Cores
 ---

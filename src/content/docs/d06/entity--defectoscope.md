@@ -1,7 +1,9 @@
 ---
 title: "Entity — Defectoscope"
 description: "Non-destructive testing (NDT), ultrasonic wave attenuation, and internal acoustic flaw detection."
----**Canonical URN:** `URN:NAMENCORA:D06:DEFECTOSCOPE`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:DEFECTOSCOPE`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

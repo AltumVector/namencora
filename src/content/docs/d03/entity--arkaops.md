@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ArkaOps
   termCode: D03-GOV-076
----> **System Anchor**: `arkaops.com`  
+---
+
+> **System Anchor**: `arkaops.com`  
 > **Classification ID**: `D03-GOV-076`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

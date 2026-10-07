@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayStack
   termCode: D02-COG-044
----> **System Anchor**: `assaystack.com`  
+---
+
+> **System Anchor**: `assaystack.com`  
 > **Classification ID**: `D02-COG-044`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Code, Schema & Execution Verification
 ---

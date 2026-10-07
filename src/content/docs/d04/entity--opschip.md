@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: OpsChip
   termCode: D04-DYN-023
----> **System Anchor**: `opschip.com`  
+---
+
+> **System Anchor**: `opschip.com`  
 > **Classification ID**: `D04-DYN-023`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

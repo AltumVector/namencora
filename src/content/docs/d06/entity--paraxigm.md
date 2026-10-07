@@ -1,7 +1,9 @@
 ---
 title: "Entity — Paraxigm"
 description: "Formal architectural paradigms, computational state machines, and execution model migrations."
----**Canonical URN:** `URN:NAMENCORA:D06:PARAXIGM`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:PARAXIGM`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

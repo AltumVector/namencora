@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TradeoffNav
   termCode: D03-GOV-017
----> **System Anchor**: `tradeoffnav.com`  
+---
+
+> **System Anchor**: `tradeoffnav.com`  
 > **Classification ID**: `D03-GOV-017`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration
 ---

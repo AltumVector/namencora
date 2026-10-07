@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PostulatorLogic
   termCode: D02-COG-063
----> **System Anchor**: `postulatorlogic.com`  
+---
+
+> **System Anchor**: `postulatorlogic.com`  
 > **Classification ID**: `D02-COG-063`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Axiomatic & Postulate Engines
 ---

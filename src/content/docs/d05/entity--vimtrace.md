@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimTrace
   termCode: D05-RUN-048
----> **System Anchor**: `vimtrace.com`  
+---
+
+> **System Anchor**: `vimtrace.com`  
 > **Classification ID**: `D05-RUN-048`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

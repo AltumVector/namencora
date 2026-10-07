@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CoreGraphX
   termCode: D02-COG-014
----> **System Anchor**: `coregraphx.com`  
+---
+
+> **System Anchor**: `coregraphx.com`  
 > **Classification ID**: `D02-COG-014`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Knowledge & Lock Graphs
 ---

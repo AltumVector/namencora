@@ -1,7 +1,9 @@
 ---
 title: "Entity — Postulon"
 description: "Axiomatic primitive definitions, immutable foundation postulates, and contract assertion anchors."
----**Canonical URN:** `URN:NAMENCORA:D06:POSTULON`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:POSTULON`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

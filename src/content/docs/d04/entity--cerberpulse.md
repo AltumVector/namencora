@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CerberPulse
   termCode: D04-DYN-042
----> **System Anchor**: `cerberpulse.com`  
+---
+
+> **System Anchor**: `cerberpulse.com`  
 > **Classification ID**: `D04-DYN-042`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

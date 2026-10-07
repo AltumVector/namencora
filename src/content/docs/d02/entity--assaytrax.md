@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayTrax
   termCode: D02-COG-054
----> **System Anchor**: `assaytrax.com`  
+---
+
+> **System Anchor**: `assaytrax.com`  
 > **Classification ID**: `D02-COG-054`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Bus & Transaction Conformance
 ---

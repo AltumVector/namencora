@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VetoOps
   termCode: D03-GOV-007
----> **System Anchor**: `vetoops.com`  
+---
+
+> **System Anchor**: `vetoops.com`  
 > **Classification ID**: `D03-GOV-007`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

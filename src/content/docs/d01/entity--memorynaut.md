@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MemoryNaut
   termCode: D01-STG-040
----> **System Anchor**: `memorynaut.com`  
+---
+
+> **System Anchor**: `memorynaut.com`  
 > **Classification ID**: `D01-STG-040`  
 > **Subsystem**: Diagnostic Agents & Utility Tier / Telemetry & Diagnostic Tooling
 ---

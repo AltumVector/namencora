@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayML
   termCode: D02-COG-048
----> **System Anchor**: `assayml.com`  
+---
+
+> **System Anchor**: `assayml.com`  
 > **Classification ID**: `D02-COG-048`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals)
 ---

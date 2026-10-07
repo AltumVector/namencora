@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LexiFluid
   termCode: D02-COG-035
----> **System Anchor**: `lexifluid.com`  
+---
+
+> **System Anchor**: `lexifluid.com`  
 > **Classification ID**: `D02-COG-035`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Lexical Enclaves & Parsers
 ---

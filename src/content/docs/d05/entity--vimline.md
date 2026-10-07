@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimLine
   termCode: D05-RUN-041
----> **System Anchor**: `vimline.com`  
+---
+
+> **System Anchor**: `vimline.com`  
 > **Classification ID**: `D05-RUN-041`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Tensor Graph & Loop Execution
 ---

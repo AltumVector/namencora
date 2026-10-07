@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SignalEmbedding
   termCode: D01-STG-020
----> **System Anchor**: `signalembedding.com`  
+---
+
+> **System Anchor**: `signalembedding.com`  
 > **Classification ID**: `D01-STG-020`  
 > **Subsystem**: High-Dimensional Vector Runtime / Drift, Telemetry & Signal Embeddings
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: KnowVector
   termCode: D01-STG-029
----> **System Anchor**: `knowvector.com`  
+---
+
+> **System Anchor**: `knowvector.com`  
 > **Classification ID**: `D01-STG-029`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

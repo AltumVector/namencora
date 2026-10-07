@@ -1,7 +1,9 @@
 ---
 title: "Entity — Remeshing"
 description: "Adaptive mesh generation, tessellation refinement, and topology optimization across computational manifolds."
----**Canonical URN:** `URN:NAMENCORA:D06:REMESHING`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:REMESHING`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

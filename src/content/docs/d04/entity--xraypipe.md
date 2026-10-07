@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: XrayPipe
   termCode: D04-DYN-035
----> **System Anchor**: `xraypipe.com`  
+---
+
+> **System Anchor**: `xraypipe.com`  
 > **Classification ID**: `D04-DYN-035`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

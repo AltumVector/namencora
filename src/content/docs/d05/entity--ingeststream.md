@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: IngestStream
   termCode: D05-RUN-005
----> **System Anchor**: `ingeststream.com`  
+---
+
+> **System Anchor**: `ingeststream.com`  
 > **Classification ID**: `D05-RUN-005`  
 > **Subsystem**: Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams
 ---

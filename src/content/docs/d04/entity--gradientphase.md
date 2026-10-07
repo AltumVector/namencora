@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GradientPhase
   termCode: D04-DYN-002
----> **System Anchor**: `gradientphase.com`  
+---
+
+> **System Anchor**: `gradientphase.com`  
 > **Classification ID**: `D04-DYN-002`  
 > **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---

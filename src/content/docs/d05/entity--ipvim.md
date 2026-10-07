@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: IpVim
   termCode: D05-RUN-059
----> **System Anchor**: `ipvim.com`  
+---
+
+> **System Anchor**: `ipvim.com`  
 > **Classification ID**: `D05-RUN-059`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / High-Throughput Node Clusters
 ---

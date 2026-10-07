@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MonadaMatrix
   termCode: D02-COG-075
----> **System Anchor**: `monadamatrix.com`  
+---
+
+> **System Anchor**: `monadamatrix.com`  
 > **Classification ID**: `D02-COG-075`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---

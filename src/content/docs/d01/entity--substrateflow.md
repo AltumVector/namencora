@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SubstrateFlow
   termCode: D01-STG-006
----> **System Anchor**: `substrateflow.com`  
+---
+
+> **System Anchor**: `substrateflow.com`  
 > **Classification ID**: `D01-STG-006`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Zero-Copy & Hardware Substrates
 ---

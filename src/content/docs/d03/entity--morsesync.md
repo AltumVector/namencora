@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MorseSync
   termCode: D03-GOV-027
----> **System Anchor**: `morsesync.com`  
+---
+
+> **System Anchor**: `morsesync.com`  
 > **Classification ID**: `D03-GOV-027`  
 > **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---

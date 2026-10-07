@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: OpsQueue
   termCode: D05-RUN-004
----> **System Anchor**: `opsqueue.com`  
+---
+
+> **System Anchor**: `opsqueue.com`  
 > **Classification ID**: `D05-RUN-004`  
 > **Subsystem**: Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams
 ---

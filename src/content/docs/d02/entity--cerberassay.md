@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CerberAssay
   termCode: D02-COG-061
----> **System Anchor**: `cerberassay.com`  
+---
+
+> **System Anchor**: `cerberassay.com`  
 > **Classification ID**: `D02-COG-061`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Bus & Transaction Conformance
 ---

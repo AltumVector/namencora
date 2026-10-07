@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TaxonFlow
   termCode: D02-COG-005
----> **System Anchor**: `taxonflow.com`  
+---
+
+> **System Anchor**: `taxonflow.com`  
 > **Classification ID**: `D02-COG-005`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines
 ---

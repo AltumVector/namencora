@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ThrustNaut
   termCode: D04-DYN-045
----> **System Anchor**: `thrustnaut.com`  
+---
+
+> **System Anchor**: `thrustnaut.com`  
 > **Classification ID**: `D04-DYN-045`  
 > **Subsystem**: Auxiliary Tooling Tier / X-Ray Guides & High-Frequency Pulses
 ---

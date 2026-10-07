@@ -1,7 +1,9 @@
 ---
 title: "Entity — Entropyzor"
 description: "Thermodynamic dissipation tracking, phase-space decay operators, and negentropy stabilizers."
----**Canonical URN:** `URN:NAMENCORA:D06:ENTROPYZOR`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:ENTROPYZOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

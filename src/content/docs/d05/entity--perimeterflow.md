@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PerimeterFlow
   termCode: D05-RUN-016
----> **System Anchor**: `perimeterflow.com`  
+---
+
+> **System Anchor**: `perimeterflow.com`  
 > **Classification ID**: `D05-RUN-016`  
 > **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---

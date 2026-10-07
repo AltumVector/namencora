@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhenoStream
   termCode: D05-RUN-007
----> **System Anchor**: `phenostream.com`  
+---
+
+> **System Anchor**: `phenostream.com`  
 > **Classification ID**: `D05-RUN-007`  
 > **Subsystem**: Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams
 ---

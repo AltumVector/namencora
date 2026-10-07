@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhaseMorph
   termCode: D04-DYN-007
----> **System Anchor**: `phasemorph.com`  
+---
+
+> **System Anchor**: `phasemorph.com`  
 > **Classification ID**: `D04-DYN-007`  
 > **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---

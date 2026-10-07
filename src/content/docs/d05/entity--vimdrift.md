@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimDrift
   termCode: D05-RUN-050
----> **System Anchor**: `vimdrift.com`  
+---
+
+> **System Anchor**: `vimdrift.com`  
 > **Classification ID**: `D05-RUN-050`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

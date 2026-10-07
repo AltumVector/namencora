@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GradientWarp
   termCode: D04-DYN-014
----> **System Anchor**: `gradientwarp.com`  
+---
+
+> **System Anchor**: `gradientwarp.com`  
 > **Classification ID**: `D04-DYN-014`  
 > **Subsystem**: Differential Geometry & Manifold Warping / Computational Geometry & Surface Deformation
 ---

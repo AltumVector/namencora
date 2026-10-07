@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LexiClave
   termCode: D02-COG-034
----> **System Anchor**: `lexiclave.com`  
+---
+
+> **System Anchor**: `lexiclave.com`  
 > **Classification ID**: `D02-COG-034`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Lexical Enclaves & Parsers
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: RtGraph
   termCode: D02-COG-016
----> **System Anchor**: `rtgraph.com`  
+---
+
+> **System Anchor**: `rtgraph.com`  
 > **Classification ID**: `D02-COG-016`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Knowledge & Lock Graphs
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LlmOpsHub
   termCode: D03-GOV-071
----> **System Anchor**: `llmopshub.com`  
+---
+
+> **System Anchor**: `llmopshub.com`  
 > **Classification ID**: `D03-GOV-071`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

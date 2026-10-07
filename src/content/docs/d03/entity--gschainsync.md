@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GsChainSync
   termCode: D03-GOV-030
----> **System Anchor**: `gschainsync.com`  
+---
+
+> **System Anchor**: `gschainsync.com`  
 > **Classification ID**: `D03-GOV-030`  
 > **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---

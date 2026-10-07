@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TradeoffChip
   termCode: D04-DYN-024
----> **System Anchor**: `tradeoffchip.com`  
+---
+
+> **System Anchor**: `tradeoffchip.com`  
 > **Classification ID**: `D04-DYN-024`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

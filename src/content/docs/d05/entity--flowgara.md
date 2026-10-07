@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FlowGara
   termCode: D05-RUN-074
----> **System Anchor**: `flowgara.com`  
+---
+
+> **System Anchor**: `flowgara.com`  
 > **Classification ID**: `D05-RUN-074`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

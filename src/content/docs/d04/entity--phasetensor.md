@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhaseTensor
   termCode: D04-DYN-003
----> **System Anchor**: `phasetensor.com`  
+---
+
+> **System Anchor**: `phasetensor.com`  
 > **Classification ID**: `D04-DYN-003`  
 > **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---

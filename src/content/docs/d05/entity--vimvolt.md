@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimVolt
   termCode: D05-RUN-090
----> **System Anchor**: `vimvolt.com`  
+---
+
+> **System Anchor**: `vimvolt.com`  
 > **Classification ID**: `D05-RUN-090`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TaxonOlogy
   termCode: D02-COG-001
----> **System Anchor**: `taxonology.com`  
+---
+
+> **System Anchor**: `taxonology.com`  
 > **Classification ID**: `D02-COG-001`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines
 ---

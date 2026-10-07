@@ -1,7 +1,9 @@
 ---
 title: "Entity — Deformator"
 description: "Non-linear continuum mechanics, strain tensor dynamics, and finite-element stress fields."
----**Canonical URN:** `URN:NAMENCORA:D06:DEFORMATOR`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:DEFORMATOR`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

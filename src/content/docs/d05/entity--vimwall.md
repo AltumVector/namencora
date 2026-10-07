@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimWall
   termCode: D05-RUN-091
----> **System Anchor**: `vimwall.com`  
+---
+
+> **System Anchor**: `vimwall.com`  
 > **Classification ID**: `D05-RUN-091`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

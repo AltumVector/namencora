@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhireChip
   termCode: D04-DYN-027
----> **System Anchor**: `phirechip.com`  
+---
+
+> **System Anchor**: `phirechip.com`  
 > **Classification ID**: `D04-DYN-027`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

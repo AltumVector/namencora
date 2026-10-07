@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CerberVector
   termCode: D01-STG-027
----> **System Anchor**: `cerbervector.com`  
+---
+
+> **System Anchor**: `cerbervector.com`  
 > **Classification ID**: `D01-STG-027`  
 > **Subsystem**: High-Dimensional Vector Runtime / Vector Space Operators
 ---

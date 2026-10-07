@@ -1,7 +1,9 @@
 ---
 title: "Entity — BallisticScan"
 description: "High-frequency transient velocity profiling and rapid surface pulse-echo metrology."
----**Canonical URN:** `URN:NAMENCORA:D06:BALLISTICSCAN`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:BALLISTICSCAN`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

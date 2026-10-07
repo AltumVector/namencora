@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: RadyOps
   termCode: D03-GOV-078
----> **System Anchor**: `radyops.com`  
+---
+
+> **System Anchor**: `radyops.com`  
 > **Classification ID**: `D03-GOV-078`  
 > **Subsystem**: Systems Governance / Consensus Primitive
 ---

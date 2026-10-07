@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: OpsQue
   termCode: D03-GOV-040
----> **System Anchor**: `opsque.com`  
+---
+
+> **System Anchor**: `opsque.com`  
 > **Classification ID**: `D03-GOV-040`  
 > **Subsystem**: Operations Runtimes & Execution Queues / Queues, Dispatch & Operational Cores
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StratoVim
   termCode: D05-RUN-057
----> **System Anchor**: `stratovim.com`  
+---
+
+> **System Anchor**: `stratovim.com`  
 > **Classification ID**: `D05-RUN-057`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / High-Throughput Node Clusters
 ---

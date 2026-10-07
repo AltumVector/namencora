@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VetoGrid
   termCode: D03-GOV-005
----> **System Anchor**: `vetogrid.com`  
+---
+
+> **System Anchor**: `vetogrid.com`  
 > **Classification ID**: `D03-GOV-005`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

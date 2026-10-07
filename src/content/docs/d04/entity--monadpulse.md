@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MonadPulse
   termCode: D04-DYN-043
----> **System Anchor**: `monadpulse.com`  
+---
+
+> **System Anchor**: `monadpulse.com`  
 > **Classification ID**: `D04-DYN-043`  
 > **Subsystem**: Applied Photonics, X-Ray & Signal Pulses / X-Ray Guides & High-Frequency Pulses
 ---

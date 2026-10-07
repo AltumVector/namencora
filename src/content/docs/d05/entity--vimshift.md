@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimShift
   termCode: D05-RUN-049
----> **System Anchor**: `vimshift.com`  
+---
+
+> **System Anchor**: `vimshift.com`  
 > **Classification ID**: `D05-RUN-049`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

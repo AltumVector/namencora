@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimDigit
   termCode: D05-RUN-052
----> **System Anchor**: `vimdigit.com`  
+---
+
+> **System Anchor**: `vimdigit.com`  
 > **Classification ID**: `D05-RUN-052`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

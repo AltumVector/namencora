@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: EdgeVeto
   termCode: D03-GOV-001
----> **System Anchor**: `edgeveto.com`  
+---
+
+> **System Anchor**: `edgeveto.com`  
 > **Classification ID**: `D03-GOV-001`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

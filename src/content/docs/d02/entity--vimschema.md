@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimSchema
   termCode: D02-COG-011
----> **System Anchor**: `vimschema.com`  
+---
+
+> **System Anchor**: `vimschema.com`  
 > **Classification ID**: `D02-COG-011`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Formal Schemas & Validation
 ---

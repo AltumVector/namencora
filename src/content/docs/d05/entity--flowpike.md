@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: FlowPike
   termCode: D05-RUN-078
----> **System Anchor**: `flowpike.com`  
+---
+
+> **System Anchor**: `flowpike.com`  
 > **Classification ID**: `D05-RUN-078`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

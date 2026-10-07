@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: XorSchema
   termCode: D02-COG-013
----> **System Anchor**: `xorschema.com`  
+---
+
+> **System Anchor**: `xorschema.com`  
 > **Classification ID**: `D02-COG-013`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Formal Schemas & Validation
 ---

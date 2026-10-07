@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BallisticTask
   termCode: D05-RUN-021
----> **System Anchor**: `ballistictask.com`  
+---
+
+> **System Anchor**: `ballistictask.com`  
 > **Classification ID**: `D05-RUN-021`  
 > **Subsystem**: Event Runtimes & Execution Schedulers / Schedulers, Task Loops & Pipelines
 ---

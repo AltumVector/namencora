@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AxAssay
   termCode: D02-COG-059
----> **System Anchor**: `axassay.com`  
+---
+
+> **System Anchor**: `axassay.com`  
 > **Classification ID**: `D02-COG-059`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Bus & Transaction Conformance
 ---

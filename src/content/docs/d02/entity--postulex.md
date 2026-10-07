@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PostuLex
   termCode: D02-COG-037
----> **System Anchor**: `postulex.com`  
+---
+
+> **System Anchor**: `postulex.com`  
 > **Classification ID**: `D02-COG-037`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Lexical Enclaves & Parsers
 ---

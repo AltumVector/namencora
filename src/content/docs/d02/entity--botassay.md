@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BotAssay
   termCode: D02-COG-051
----> **System Anchor**: `botassay.com`  
+---
+
+> **System Anchor**: `botassay.com`  
 > **Classification ID**: `D02-COG-051`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Model Evaluation & AI Safety (Evals)
 ---

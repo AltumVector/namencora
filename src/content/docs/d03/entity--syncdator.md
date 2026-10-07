@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SyncDator
   termCode: D03-GOV-029
----> **System Anchor**: `syncdator.com`  
+---
+
+> **System Anchor**: `syncdator.com`  
 > **Classification ID**: `D03-GOV-029`  
 > **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---

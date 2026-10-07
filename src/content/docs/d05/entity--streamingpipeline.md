@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StreamIngpipeline
   termCode: D05-RUN-002
----> **System Anchor**: `streamingpipeline.com`  
+---
+
+> **System Anchor**: `streamingpipeline.com`  
 > **Classification ID**: `D05-RUN-002`  
 > **Subsystem**: Core Streaming Fabrics & Message Queues / Category Standard Queues & Streams
 ---

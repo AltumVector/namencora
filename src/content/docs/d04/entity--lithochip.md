@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LithoChip
   termCode: D04-DYN-018
----> **System Anchor**: `lithochip.com`  
+---
+
+> **System Anchor**: `lithochip.com`  
 > **Classification ID**: `D04-DYN-018`  
 > **Subsystem**: Hardware Controllers & Bus Architectures / I/O Engines & Silicon Primitives
 ---

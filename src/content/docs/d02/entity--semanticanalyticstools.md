@@ -20,7 +20,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemanticAnalyticsTools
   termCode: D02-COG-031
----> **System Anchor**: `semanticanalyticstools.com`  
+---
+
+> **System Anchor**: `semanticanalyticstools.com`  
 > **Classification ID**: `D02-COG-031`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Analysis, Scanning & Metrics
 ---

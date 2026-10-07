@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhaseCurvature
   termCode: D04-DYN-004
----> **System Anchor**: `phasecurvature.com`  
+---
+
+> **System Anchor**: `phasecurvature.com`  
 > **Classification ID**: `D04-DYN-004`  
 > **Subsystem**: Phase Dynamics & Tensor Analysis / Phase Spaces, Curvature & Tensors
 ---

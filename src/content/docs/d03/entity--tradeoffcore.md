@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TradeoffCore
   termCode: D03-GOV-013
----> **System Anchor**: `tradeoffcore.com`  
+---
+
+> **System Anchor**: `tradeoffcore.com`  
 > **Classification ID**: `D03-GOV-013`  
 > **Subsystem**: Multi-Objective Trade-off Engines / Systems Trade-off Analysis & Arbitration
 ---

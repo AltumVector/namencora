@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TaxoNext
   termCode: D02-COG-006
----> **System Anchor**: `taxonext.com`  
+---
+
+> **System Anchor**: `taxonext.com`  
 > **Classification ID**: `D02-COG-006`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AssayIO
   termCode: D02-COG-046
----> **System Anchor**: `assayio.com`  
+---
+
+> **System Anchor**: `assayio.com`  
 > **Classification ID**: `D02-COG-046`  
 > **Subsystem**: Formal Verification & Evaluation Harness / Code, Schema & Execution Verification
 ---

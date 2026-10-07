@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LlmOpsCloud
   termCode: D03-GOV-047
----> **System Anchor**: `llmopscloud.com`  
+---
+
+> **System Anchor**: `llmopscloud.com`  
 > **Classification ID**: `D03-GOV-047`  
 > **Subsystem**: Operations Runtimes & Execution Queues / Queues, Dispatch & Operational Cores
 ---

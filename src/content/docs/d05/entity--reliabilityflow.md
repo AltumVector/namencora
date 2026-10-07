@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ReliabilityFlow
   termCode: D05-RUN-017
----> **System Anchor**: `reliabilityflow.com`  
+---
+
+> **System Anchor**: `reliabilityflow.com`  
 > **Classification ID**: `D05-RUN-017`  
 > **Subsystem**: Stochastic & High-Velocity Pipelines / Stochastic Models & High-Throughput Streams
 ---

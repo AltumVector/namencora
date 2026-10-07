@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TickSubstrate
   termCode: D01-STG-011
----> **System Anchor**: `ticksubstrate.com`  
+---
+
+> **System Anchor**: `ticksubstrate.com`  
 > **Classification ID**: `D01-STG-011`  
 > **Subsystem**: Deep Storage & Hardware Substrates / Zero-Copy & Hardware Substrates
 ---

@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimNeural
   termCode: D02-COG-078
----> **System Anchor**: `vimneural.com`  
+---
+
+> **System Anchor**: `vimneural.com`  
 > **Classification ID**: `D02-COG-078`  
 > **Subsystem**: Axiomatic Reasoning & Matrix Topologies / Multi-Dimensional Neural Matrices
 ---

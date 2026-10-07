@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TrajectorySync
   termCode: D03-GOV-025
----> **System Anchor**: `trajectorysync.com`  
+---
+
+> **System Anchor**: `trajectorysync.com`  
 > **Classification ID**: `D03-GOV-025`  
 > **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---

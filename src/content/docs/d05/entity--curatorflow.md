@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CuratorFlow
   termCode: D05-RUN-023
----> **System Anchor**: `curatorflow.com`  
+---
+
+> **System Anchor**: `curatorflow.com`  
 > **Classification ID**: `D05-RUN-023`  
 > **Subsystem**: Event Runtimes & Execution Schedulers / Schedulers, Task Loops & Pipelines
 ---

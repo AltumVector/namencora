@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: CryoPsy
   termCode: D03-GOV-053
----> **System Anchor**: `cryopsy.com`  
+---
+
+> **System Anchor**: `cryopsy.com`  
 > **Classification ID**: `D03-GOV-053`  
 > **Subsystem**: Auxiliary Neologisms & Drone Ops / Queues, Dispatch & Operational Cores
 ---

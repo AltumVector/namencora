@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: BlueSema
   termCode: D02-COG-028
----> **System Anchor**: `bluesema.com`  
+---
+
+> **System Anchor**: `bluesema.com`  
 > **Classification ID**: `D02-COG-028`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Semantic Cores & Routing
 ---

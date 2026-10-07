@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: TaxonOx
   termCode: D02-COG-007
----> **System Anchor**: `taxonox.com`  
+---
+
+> **System Anchor**: `taxonox.com`  
 > **Classification ID**: `D02-COG-007`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Core Taxonomic Engines
 ---

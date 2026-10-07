@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimUnit
   termCode: D05-RUN-029
----> **System Anchor**: `vimunit.com`  
+---
+
+> **System Anchor**: `vimunit.com`  
 > **Classification ID**: `D05-RUN-029`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Compute Units & Mathematical Cores
 ---

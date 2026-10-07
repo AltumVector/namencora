@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: MeshWarper
   termCode: D04-DYN-011
----> **System Anchor**: `meshwarper.com`  
+---
+
+> **System Anchor**: `meshwarper.com`  
 > **Classification ID**: `D04-DYN-011`  
 > **Subsystem**: Differential Geometry & Manifold Warping / Computational Geometry & Surface Deformation
 ---

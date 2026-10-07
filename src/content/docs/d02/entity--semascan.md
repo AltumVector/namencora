@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: SemaScan
   termCode: D02-COG-029
----> **System Anchor**: `semascan.com`  
+---
+
+> **System Anchor**: `semascan.com`  
 > **Classification ID**: `D02-COG-029`  
 > **Subsystem**: Semantic Runtime & Knowledge Representation / Analysis, Scanning & Metrics
 ---

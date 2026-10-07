@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: PhenoSchema
   termCode: D02-COG-012
----> **System Anchor**: `phenoschema.com`  
+---
+
+> **System Anchor**: `phenoschema.com`  
 > **Classification ID**: `D02-COG-012`  
 > **Subsystem**: Machine Ontologies & Taxonomic Hierarchies / Formal Schemas & Validation
 ---

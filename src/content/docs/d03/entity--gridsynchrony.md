@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: GridSynchrony
   termCode: D03-GOV-024
----> **System Anchor**: `gridsynchrony.com`  
+---
+
+> **System Anchor**: `gridsynchrony.com`  
 > **Classification ID**: `D03-GOV-024`  
 > **Subsystem**: Distributed State Synchronization / Synchronization Protocols & Clocks
 ---

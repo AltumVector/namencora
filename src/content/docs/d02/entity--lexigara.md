@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: LexiGara
   termCode: D02-COG-088
----> **System Anchor**: `lexigara.com`  
+---
+
+> **System Anchor**: `lexigara.com`  
 > **Classification ID**: `D02-COG-088`  
 > **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---

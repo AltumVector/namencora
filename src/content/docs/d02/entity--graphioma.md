@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: Graphioma
   termCode: D02-COG-086
----> **System Anchor**: `graphioma.com`  
+---
+
+> **System Anchor**: `graphioma.com`  
 > **Classification ID**: `D02-COG-086`  
 > **Subsystem**: Auxiliary Lexical Neologisms / Multi-Dimensional Neural Matrices
 ---

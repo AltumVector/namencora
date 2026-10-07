@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: StorageNaut
   termCode: D01-STG-042
----> **System Anchor**: `storagenaut.com`  
+---
+
+> **System Anchor**: `storagenaut.com`  
 > **Classification ID**: `D01-STG-042`  
 > **Subsystem**: Diagnostic Agents & Utility Tier / Telemetry & Diagnostic Tooling
 ---

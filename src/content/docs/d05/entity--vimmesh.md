@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimMesh
   termCode: D05-RUN-051
----> **System Anchor**: `vimmesh.com`  
+---
+
+> **System Anchor**: `vimmesh.com`  
 > **Classification ID**: `D05-RUN-051`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Telemetry, Queuing & Routing
 ---

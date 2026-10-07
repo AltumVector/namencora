@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimAtom
   termCode: D05-RUN-032
----> **System Anchor**: `vimatom.com`  
+---
+
+> **System Anchor**: `vimatom.com`  
 > **Classification ID**: `D05-RUN-032`  
 > **Subsystem**: The Vim Micro-Kernel Execution Stack / Compute Units & Mathematical Cores
 ---

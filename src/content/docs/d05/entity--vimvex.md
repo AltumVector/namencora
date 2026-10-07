@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: VimVex
   termCode: D05-RUN-089
----> **System Anchor**: `vimvex.com`  
+---
+
+> **System Anchor**: `vimvex.com`  
 > **Classification ID**: `D05-RUN-089`  
 > **Subsystem**: Auxiliary Neologisms & Tooling Tier / High-Throughput Node Clusters
 ---

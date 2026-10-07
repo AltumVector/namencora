@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: AgentVeto
   termCode: D03-GOV-011
----> **System Anchor**: `agentveto.com`  
+---
+
+> **System Anchor**: `agentveto.com`  
 > **Classification ID**: `D03-GOV-011`  
 > **Subsystem**: Deterministic Circuit Breakers & Veto Quorums / Core Veto Primitives
 ---

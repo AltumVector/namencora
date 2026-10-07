@@ -1,7 +1,9 @@
 ---
 title: "Entity — NormaStack"
 description: "Specification verification layers, rule engine invariants, and compliance constraint stacks."
----**Canonical URN:** `URN:NAMENCORA:D06:NORMASTACK`  
+---
+
+**Canonical URN:** `URN:NAMENCORA:D06:NORMASTACK`  
 **Classification:** Division 06 — Computational Dynamics & Metrology
 
 ---

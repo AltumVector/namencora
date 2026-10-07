@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: IngestVector
   termCode: D01-STG-015
----> **System Anchor**: `ingestvector.com`  
+---
+
+> **System Anchor**: `ingestvector.com`  
 > **Classification ID**: `D01-STG-015`  
 > **Subsystem**: High-Dimensional Vector Runtime / Write-Path & Ingestion
 ---

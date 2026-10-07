@@ -18,7 +18,9 @@ schema_org:
   "@type": DefinedTerm
   name: ChipAtor
   termCode: D04-DYN-044
----> **System Anchor**: `chipator.com`  
+---
+
+> **System Anchor**: `chipator.com`  
 > **Classification ID**: `D04-DYN-044`  
 > **Subsystem**: Auxiliary Tooling Tier / X-Ray Guides & High-Frequency Pulses
 ---
