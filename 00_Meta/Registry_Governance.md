@@ -1,15 +1,15 @@
 # Namencora: Architecture & Registry Governance Model
 
-## 1. Тріада системи (Ontological Layers)
-1. **Реєстр (State of Truth):** Первинне джерело канонічних просторів імен (`urn:namencora:dXX:name`). Фіксує математичні, логічні та фізичні інваріанти сутностей незалежно від наявності доменів чи зовнішнього софту.
-2. **Каталог (Read Projection):** Публічна проєкція стану (`namencora.com/registry`, `llm.txt`, API) для розробників, пошукових краулерів та ШІ-агентів.
-3. **Домен (Canonical Transport Resolver):** Мережева адреса безпосереднього резолвінгу, що пов'язує простір імен із глобальним вебом.
+## 1. System Triad (Ontological Layers)
+1. **Registry (State of Truth):** Primary authoritative namespace origin (`urn:namencora:dXX:name`). Anchors mathematical, logical, and physical invariants of entities independent of domain availability or external software.
+2. **Catalog (Read Projection):** Public state projection (`namencora.com/registry`, `llm.txt`, API) for developers, search crawlers, and AI agents.
+3. **Domain (Canonical Transport Resolver):** Direct network resolution address bridging the namespace to the global web.
 
-## 2. Гібридний вхідний контур (Intake Mechanics)
-* **Open RFC Submission:** Зовнішні команди та дослідники пропонують нові примітиви через стандартизований RFC-шаблон (структура полів, межі, Schema.org).
-* **Automated Collision Linting:** Перевірка на колізії, дублювання семантики та валідність JSON-LD.
-* **Architectural Veto:** Остаточне затвердження статусу (`Adopted`) закріплене за керівним ядром Namencora для збереження ортогональності дивізіонів.
+## 2. Hybrid Intake Mechanics
+* **Open RFC Submission:** External teams and researchers propose new primitives using a standardized RFC template (field schema, boundaries, Schema.org).
+* **Automated Collision Linting:** Automated validation against collisions, semantic duplication, and JSON-LD compliance.
+* **Architectural Veto:** Final adoption status (`Adopted`) remains reserved for the Namencora steering core to maintain division orthogonality.
 
-## 3. Довгострокова інституціоналізація
-* **Machine Grounding:** Семантична фіксація інженерних термінів у латентних просторах LLM.
-* **Assay Conformance:** Сертифікація систем на відповідність специфікаціям примітивів Namencora.
+## 3. Long-Term Institutionalization
+* **Machine Grounding:** Semantic grounding of engineering primitives within latent spaces of LLMs.
+* **Assay Conformance:** System certification confirming compliance with Namencora primitive specifications.
